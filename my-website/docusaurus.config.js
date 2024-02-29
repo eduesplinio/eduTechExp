@@ -1,16 +1,10 @@
-// @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
-// See: https://docusaurus.io/docs/api/docusaurus-config
-
 import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'eduTechXP',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'eduTechExp',
+  tagline: 'Desvendando o complexo para impulsionar a inovação digital.',
+  favicon: 'img/eduTechExp-logo.ico',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -69,67 +63,71 @@ const config = {
         title: 'eduTechExp',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/eduTechExp-logo-black.svg',
+          srcDark: 'img/eduTechExp-logo.svg',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          { to: '/blog', label: 'Blog', position: 'left' },
           // {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
+          //   type: 'docSidebar',
+          //   sidebarId: 'tutorialSidebar',
+          //   position: 'left',
+          //   label: 'Tutorial',
           // },
+          { to: '/aboutMe', label: 'Sobre Mim', position: 'left' },
+          { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/projects', label: 'Projetos', position: 'left' },
+          {
+            href: 'https://github.com/eduesplinio/blog-eduTechExp',
+            label: 'GitHub',
+            position: 'right',
+          },
         ],
       },
       footer: {
         style: 'dark',
-        // links: [
-        //   {
-        //     title: 'Docs',
-        //     items: [
-        //       {
-        //         label: 'Tutorial',
-        //         to: '/docs/intro',
-        //       },
-        //     ],
-        //   },
-        //   {
-        //     title: 'Community',
-        //     items: [
-        //       {
-        //         label: 'Stack Overflow',
-        //         href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-        //       },
-        //       {
-        //         label: 'Discord',
-        //         href: 'https://discordapp.com/invite/docusaurus',
-        //       },
-        //       {
-        //         label: 'Twitter',
-        //         href: 'https://twitter.com/docusaurus',
-        //       },
-        //     ],
-        //   },
-        //   {
-        //     title: 'More',
-        //     items: [
-        //       {
-        //         label: 'Blog',
-        //         to: '/blog',
-        //       },
-        //       {
-        //         label: 'GitHub',
-        //         href: 'https://github.com/facebook/docusaurus',
-        //       },
-        //     ],
-        //   },
-        // ],
-        copyright: `Copyright © ${new Date().getFullYear()} eduTechExp. Built with Docusaurus.`,
+        /*         links: [
+                  {
+                    title: 'Docs',
+                    items: [
+                      {
+                        label: 'Tutorial',
+                        to: '/docs/intro',
+                      },
+                    ],
+                  },
+                  {
+                    title: 'Community',
+                    items: [
+                      {
+                        label: 'Stack Overflow',
+                        href: 'https//:stackoverflow.com/questions/tagged/docusaurus',
+                      },
+                      {
+                        label: 'Discord',
+                        href: 'https////:discordapp.com/invite/docusaurus',
+                      },
+                      {
+                        label: 'Twitter',
+                        href: 'https//:twitter.com/docusaurus',
+                      },
+                    ],
+                  },
+                  {
+                    title: 'More',
+                    items: [
+                      {
+                        label: 'Blog',
+                        to: '/blog',
+                      },
+                      {
+                        label: 'GitHub',
+                        href: 'https:github.com/facebook/docusaurus',
+                      },
+                    ],
+                  },
+                ], */
+
+        copyright: `Copyright © ${new Date().getFullYear()} eduTechExp.`,
       },
       prism: {
         theme: prismThemes.github,
