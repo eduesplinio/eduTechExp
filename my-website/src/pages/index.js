@@ -9,22 +9,19 @@ import styles from './index.module.css';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
+
+  // Adicionando a função para desabilitar o menu de contexto do botão direito
+  const disableRightClick = (event) => {
+    event.preventDefault();
+  };
+
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        {/*         <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
-        </div> */}
-      </div>
-    </header>
+    <div className={styles.videoContainer} onContextMenu={disableRightClick}>
+      <video autoPlay loop muted className={styles.backgroundVideo}>
+        <source src="/img/background.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
+    </div>
   );
 }
 

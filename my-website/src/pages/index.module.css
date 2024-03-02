@@ -1,8 +1,3 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
 .heroBanner {
   padding: 4rem 0;
   text-align: center;
@@ -10,7 +5,11 @@
   overflow: hidden;
 }
 
-@media screen and (max-width: 996px) {
+.heroBannerLogo {
+  max-width: 300px;
+}
+
+@media screen and (max-width: 966px) {
   .heroBanner {
     padding: 2rem;
   }
@@ -20,4 +19,107 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.flexContainer {
+  display: flex;
+}
+
+.promoIcon {
+  color: #fff;
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  margin-right: 0.5rem;
+}
+
+.whiteText {
+  color: #fff;
+  margin: 0;
+}
+
+.sectionTitle {
+  font-size: 2rem;
+}
+
+.sectionTagline {
+  font-size: 1.25rem;
+}
+
+.sectionAlt {
+  background-color: var(--ifm-color-emphasis-100);
+}
+
+.sectionSponsor {
+  background-image: linear-gradient(90deg, rgb(188, 78, 156), rgb(248, 7, 89));
+}
+
+html[data-theme='dark'] .sectionSponsor {
+  background-image: linear-gradient(90deg,
+      rgb(253, 200, 48),
+      rgb(243, 115, 53));
+}
+
+.sectionSponsorTitle {
+  color: var(--ifm-color-gray-0);
+}
+
+.sectionSponsorAlt {
+  background: linear-gradient(135deg,
+      rgb(29, 136, 244),
+      rgb(252, 67, 128),
+      rgb(251, 191, 36));
+}
+
+.quote {
+  font-size: 1.1rem;
+}
+
+.featuresRow {
+  margin-top: -2rem;
+}
+
+.featuresRow .featuresRowItem {
+  padding-top: 2rem;
+}
+
+.tweet {
+  font-size: 15px;
+}
+
+.tweetsSection {
+  margin-top: -2rem;
+}
+
+.tweetsSection> :global(.col) {
+  padding-top: 2rem;
+  margin-top: -2rem;
+}
+
+.tweetsSection> :global(.col)>* {
+  margin-top: 2rem;
+}
+
+.tweetMeta,
+.tweetMeta:hover {
+  color: var(--ifm-color-emphasis-700);
+}
+
+.fullScreen {
+  position: relative;
+  width: 100vw;
+  height: calc(100vw / 16 * 9);
+  overflow: hidden;
+}
+
+.videoContainer {
+  width: 100%;
+  max-width: 100%;
+  max-height: 100vh;
+  overflow: hidden;
+}
+
+.backgroundVideo {
+  width: 100%;
+  height: auto;
 }
