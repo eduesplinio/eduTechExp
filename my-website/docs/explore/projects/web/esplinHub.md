@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 10
 ---
 
-# Create a Page
+# Gerenciador de Clientes e Produtos
 
 Add **Markdown or React** files to `src/pages` to create a **standalone page**:
 

@@ -67,15 +67,15 @@ const config = {
           srcDark: 'img/eduTechExp-logo.svg',
         },
         items: [
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'tutorialSidebar',
-          //   position: 'left',
-          //   label: 'Tutorial',
-          // },
           { to: '/aboutMe', label: 'Sobre Mim', position: 'left' },
           { to: '/blog', label: 'Blog', position: 'left' },
-          { to: '/projects', label: 'Projetos', position: 'left' },
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Explorar',
+          },
+
           {
             href: 'https://github.com/eduesplinio/blog-eduTechExp',
             label: 'GitHub',
