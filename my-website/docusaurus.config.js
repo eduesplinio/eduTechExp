@@ -67,7 +67,7 @@ const config = {
           srcDark: 'img/eduTechExp-logo.svg',
         },
         items: [
-          { to: '/aboutMe', label: 'Sobre Mim', position: 'left' },
+          { to: '/sobre-mim', label: 'Sobre Mim', position: 'left' },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
             type: 'docSidebar',
@@ -84,48 +84,60 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
-        /*         links: [
-                  {
-                    title: 'Docs',
-                    items: [
-                      {
-                        label: 'Tutorial',
-                        to: '/docs/intro',
-                      },
-                    ],
-                  },
-                  {
-                    title: 'Community',
-                    items: [
-                      {
-                        label: 'Stack Overflow',
-                        href: 'https//:stackoverflow.com/questions/tagged/docusaurus',
-                      },
-                      {
-                        label: 'Discord',
-                        href: 'https////:discordapp.com/invite/docusaurus',
-                      },
-                      {
-                        label: 'Twitter',
-                        href: 'https//:twitter.com/docusaurus',
-                      },
-                    ],
-                  },
-                  {
-                    title: 'More',
-                    items: [
-                      {
-                        label: 'Blog',
-                        to: '/blog',
-                      },
-                      {
-                        label: 'GitHub',
-                        href: 'https:github.com/facebook/docusaurus',
-                      },
-                    ],
-                  },
-                ], */
+        style: 'light',
+        links: [
+          {
+            title: 'Conhecer',
+            items: [
+              {
+                label: 'Sobre mim',
+                to: '/sobre-mim',
+              },
+              {
+                label: 'Linkedin',
+                href: 'https://www.linkedin.com/in/eduardo-esplinio-b16ba3274/',
+              },
+              {
+                label: 'E-mail',
+                href: 'mailto:eduesplinio.dat@gmail.com',
+              }
+            ],
+          },
+          {
+            title: 'Explorar',
+            items: [
+              {
+                label: 'Projetos',
+                href: '/docs/category/projetos',
+              },
+              {
+                label: 'Cursos',
+                href: '/docs/category/cursos',
+              },
+              {
+                label: 'Desafios',
+                href: '/docs/category/desafios',
+              },
+              {
+                label: "Tecnologias",
+                href: '/docs/category/tecnologias',
+              }
+            ],
+          },
+          {
+            title: 'Mais',
+            items: [
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/eduesplinio',
+              },
+            ],
+          },
+        ],
 
         copyright: `Copyright © ${new Date().getFullYear()} eduTechExp.`,
       },
