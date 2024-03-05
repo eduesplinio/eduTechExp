@@ -10,7 +10,7 @@ const config = {
   url: 'https://edu-tech-exp-ten.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
