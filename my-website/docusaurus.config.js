@@ -72,7 +72,7 @@ const config = {
           },
 
           {
-            href: 'https://github.com/eduesplinio/blog-eduTechExp',
+            href: 'https://github.com/eduesplinio/eduTechExp',
             position: 'right',
             className: 'navbar-icon navbar-icon-github',
             'aria-label': 'GitHub repository',
