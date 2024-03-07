@@ -2,7 +2,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'eduTechExp',
+  title: 'eduTech Exp',
   tagline: 'Desvendando o complexo para impulsionar a inovação digital.',
   favicon: 'img/eduTechExp-logo.ico',
 

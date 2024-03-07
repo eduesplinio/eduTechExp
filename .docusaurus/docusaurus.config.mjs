@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "eduTechExp",
+  "title": "eduTech Exp",
   "tagline": "Desvendando o complexo para impulsionar a inovação digital.",
   "favicon": "img/eduTechExp-logo.ico",
   "url": "https://edu-tech-exp-ten.vercel.app",
