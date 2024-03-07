@@ -1,0 +1,23 @@
+{
+  "id": "projects/mobile/memory-game",
+  "title": "Jogo da Memória",
+  "description": "",
+  "source": "@site/docs/projects/mobile/memory-game.md",
+  "sourceDirName": "projects/mobile",
+  "slug": "/projects/mobile/memory-game",
+  "permalink": "/projects/mobile/memory-game",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mobile",
+    "permalink": "/category/mobile"
+  },
+  "next": {
+    "title": "Quiz",
+    "permalink": "/projects/mobile/quiz-game"
+  }
+}

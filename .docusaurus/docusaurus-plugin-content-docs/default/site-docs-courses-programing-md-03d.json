@@ -1,0 +1,27 @@
+{
+  "id": "courses/programing",
+  "title": "Programação",
+  "description": "",
+  "source": "@site/docs/courses/programing.md",
+  "sourceDirName": "courses",
+  "slug": "/courses/programing",
+  "permalink": "/docs/courses/programing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/courses/programing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Redação Técnica",
+    "permalink": "/docs/courses/techwriting"
+  },
+  "next": {
+    "title": "Cibersegurança",
+    "permalink": "/docs/courses/cibersecurity"
+  }
+}

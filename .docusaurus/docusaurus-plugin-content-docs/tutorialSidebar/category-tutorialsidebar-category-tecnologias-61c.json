@@ -1,0 +1,15 @@
+{
+  "title": "Tecnologias",
+  "slug": "/category/tecnologias",
+  "permalink": "/category/tecnologias",
+  "navigation": {
+    "previous": {
+      "title": "Testes de intrusão",
+      "permalink": "/challenges/pen-test"
+    },
+    "next": {
+      "title": "Tecnologias",
+      "permalink": "/tools-and-tech/tools-and-techs"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "mdx",
+  "permalink": "/sobre-mim",
+  "source": "@site/src/pages/sobre-mim.md",
+  "title": "Sobre Mim",
+  "description": "Saiba mais sobre mim e meus interesses.",
+  "frontMatter": {
+    "title": "Sobre Mim",
+    "description": "Saiba mais sobre mim e meus interesses.",
+    "hide_table_of_contents": false
+  },
+  "unlisted": false
+}

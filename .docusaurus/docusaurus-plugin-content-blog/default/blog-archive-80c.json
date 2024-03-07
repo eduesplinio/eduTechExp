@@ -1,0 +1,43 @@
+{
+  "blogPosts": [
+    {
+      "id": "/2024/01/03/ciber/blog/hacker-old-east",
+      "metadata": {
+        "permalink": "/blog/2024/01/03/ciber/blog/hacker-old-east",
+        "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/ciber/blog/2024-01-03-hacker-old-east.md",
+        "source": "@site/blog/ciber/blog/2024-01-03-hacker-old-east.md",
+        "title": "Hackers e os chapéus do velho-oeste",
+        "description": "O bom, o mau e o feio",
+        "date": "2024-01-03T00:00:00.000Z",
+        "formattedDate": "3 de janeiro de 2024",
+        "tags": [
+          {
+            "label": "cibersegurança",
+            "permalink": "/blog/tags/ciberseguranca"
+          }
+        ],
+        "readingTime": 0.575,
+        "hasTruncateMarker": true,
+        "authors": [
+          {
+            "name": "Eduardo Esplinio",
+            "title": "Technical Writer",
+            "url": "https://github.com/eduesplinio",
+            "imageURL": "https://github.com/eduesplinio.png",
+            "key": "edu"
+          }
+        ],
+        "frontMatter": {
+          "title": "Hackers e os chapéus do velho-oeste",
+          "authors": "edu",
+          "tags": [
+            "cibersegurança"
+          ],
+          "hide_table_of_contents": false
+        },
+        "unlisted": false
+      },
+      "content": "![O bom, o mau e o feio](bom-mau-feio.jpg)\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius libero eget neque consequat, id venenatis justo ullamcorper. Nullam vehicula sem vitae metus fermentum, ut posuere urna tincidunt. Vivamus id purus lobortis, rutrum metus a, ultrices turpis. Integer vitae consectetur nunc. Donec tincidunt, quam vitae rhoncus consequat, eros ipsum dapibus magna, non consectetur ex libero vitae libero.\n\n<!-- truncate -->\n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut dignissim erat et diam malesuada, vitae euismod nunc consequat. Integer vel nunc vel dui interdum vestibulum. Sed malesuada diam sit amet lectus malesuada, nec ullamcorper ligula finibus. Sed ut magna eu tortor blandit iaculis."
+    }
+  ]
+}

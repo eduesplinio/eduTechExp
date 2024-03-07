@@ -1,0 +1,15 @@
+{
+  "title": "Desafios",
+  "slug": "/category/desafios",
+  "permalink": "/docs/category/desafios",
+  "navigation": {
+    "previous": {
+      "title": "Cibersegurança",
+      "permalink": "/docs/courses/cibersecurity"
+    },
+    "next": {
+      "title": "Hacking with Swift",
+      "permalink": "/docs/challenges/hacking-with-swift"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "courses/cibersecurity",
+  "title": "Cibersegurança",
+  "description": "",
+  "source": "@site/docs/courses/cibersecurity.md",
+  "sourceDirName": "courses",
+  "slug": "/courses/cibersecurity",
+  "permalink": "/courses/cibersecurity",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Programação",
+    "permalink": "/courses/programing"
+  },
+  "next": {
+    "title": "Desafios",
+    "permalink": "/category/desafios"
+  }
+}

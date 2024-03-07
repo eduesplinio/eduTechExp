@@ -1,0 +1,23 @@
+{
+  "id": "challenges/pen-test",
+  "title": "Testes de intrusão",
+  "description": "",
+  "source": "@site/docs/challenges/pen-test.md",
+  "sourceDirName": "challenges",
+  "slug": "/challenges/pen-test",
+  "permalink": "/challenges/pen-test",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hacking with Swift",
+    "permalink": "/challenges/hacking-with-swift"
+  },
+  "next": {
+    "title": "Tecnologias",
+    "permalink": "/category/tecnologias"
+  }
+}

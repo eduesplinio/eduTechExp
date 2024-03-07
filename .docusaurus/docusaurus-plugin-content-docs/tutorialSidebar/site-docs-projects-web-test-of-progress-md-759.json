@@ -1,0 +1,26 @@
+{
+  "id": "projects/web/test-of-progress",
+  "title": "Teste de Progresso",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/projects/web/test-of-progress.md",
+  "sourceDirName": "projects/web",
+  "slug": "/projects/web/test-of-progress",
+  "permalink": "/projects/web/test-of-progress",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Web",
+    "permalink": "/category/web"
+  },
+  "next": {
+    "title": "Gerenciador de Clientes e Produtos",
+    "permalink": "/projects/web/esplinHub"
+  }
+}

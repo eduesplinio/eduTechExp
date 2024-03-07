@@ -1,0 +1,11 @@
+{
+  "title": "Projetos",
+  "slug": "/category/projetos",
+  "permalink": "/docs/category/projetos",
+  "navigation": {
+    "next": {
+      "title": "Mobile",
+      "permalink": "/docs/category/mobile"
+    }
+  }
+}

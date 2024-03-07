@@ -1,0 +1,15 @@
+{
+  "title": "Web",
+  "slug": "/category/web",
+  "permalink": "/category/web",
+  "navigation": {
+    "previous": {
+      "title": "Quiz",
+      "permalink": "/projects/mobile/quiz-game"
+    },
+    "next": {
+      "title": "Teste de Progresso",
+      "permalink": "/projects/web/test-of-progress"
+    }
+  }
+}

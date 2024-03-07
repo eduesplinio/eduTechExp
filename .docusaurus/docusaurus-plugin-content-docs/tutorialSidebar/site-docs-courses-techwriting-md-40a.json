@@ -1,0 +1,26 @@
+{
+  "id": "courses/techwriting",
+  "title": "Redação Técnica",
+  "description": "",
+  "source": "@site/docs/courses/techwriting.md",
+  "sourceDirName": "courses",
+  "slug": "/courses/techwriting",
+  "permalink": "/courses/techwriting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cursos",
+    "permalink": "/category/cursos"
+  },
+  "next": {
+    "title": "Programação",
+    "permalink": "/courses/programing"
+  }
+}

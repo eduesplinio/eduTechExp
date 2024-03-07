@@ -145,7 +145,7 @@ const config = {
           },
         ],
 
-        copyright: `Copyright © ${new Date().getFullYear()} eduTechExp.`,
+        copyright: `Copyright © ${new Date().getFullYear()} eduTech Exp.`,
       },
       prism: {
         theme: prismThemes.github,

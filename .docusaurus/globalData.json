@@ -1,0 +1,113 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "projects/mobile/memory-game",
+          "docs": [
+            {
+              "id": "challenges/hacking-with-swift",
+              "path": "/docs/challenges/hacking-with-swift",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "challenges/pen-test",
+              "path": "/docs/challenges/pen-test",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "courses/cibersecurity",
+              "path": "/docs/courses/cibersecurity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "courses/programing",
+              "path": "/docs/courses/programing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "courses/techwriting",
+              "path": "/docs/courses/techwriting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/mobile/memory-game",
+              "path": "/docs/projects/mobile/memory-game",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/mobile/quiz-game",
+              "path": "/docs/projects/mobile/quiz-game",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/web/esplinHub",
+              "path": "/docs/projects/web/esplinHub",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/web/test-of-progress",
+              "path": "/docs/projects/web/test-of-progress",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects/web/web",
+              "path": "/docs/projects/web/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools-and-tech/tools-and-techs",
+              "path": "/docs/tools-and-tech/tools-and-techs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/projetos",
+              "path": "/docs/category/projetos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/mobile",
+              "path": "/docs/category/mobile",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/web",
+              "path": "/docs/category/web",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/cursos",
+              "path": "/docs/category/cursos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/desafios",
+              "path": "/docs/category/desafios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tecnologias",
+              "path": "/docs/category/tecnologias",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/category/projetos",
+                "label": "Projetos"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

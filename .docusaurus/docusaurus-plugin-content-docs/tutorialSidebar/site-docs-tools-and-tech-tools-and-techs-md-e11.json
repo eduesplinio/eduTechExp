@@ -1,0 +1,19 @@
+{
+  "id": "tools-and-tech/tools-and-techs",
+  "title": "Tecnologias",
+  "description": "",
+  "source": "@site/docs/tools-and-tech/tools-and-techs.md",
+  "sourceDirName": "tools-and-tech",
+  "slug": "/tools-and-tech/tools-and-techs",
+  "permalink": "/tools-and-tech/tools-and-techs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tecnologias",
+    "permalink": "/category/tecnologias"
+  }
+}

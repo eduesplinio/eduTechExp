@@ -1,0 +1,27 @@
+{
+  "id": "explore/projects/web/esplinHub",
+  "title": "Gerenciador de Clientes e Produtos",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/explore/projects/web/esplinHub.md",
+  "sourceDirName": "explore/projects/web",
+  "slug": "/explore/projects/web/esplinHub",
+  "permalink": "/docs/explore/projects/web/esplinHub",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/explore/projects/web/esplinHub.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Teste de Progresso",
+    "permalink": "/docs/explore/projects/web/test-of-progress"
+  },
+  "next": {
+    "title": "Fórum de Tecnologia",
+    "permalink": "/docs/explore/projects/web/"
+  }
+}
