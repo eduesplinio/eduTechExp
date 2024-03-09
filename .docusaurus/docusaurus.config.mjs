@@ -7,7 +7,7 @@ export default {
   "title": "eduTech Exp",
   "tagline": "Desvendando o complexo para impulsionar a inovação digital.",
   "favicon": "img/eduTechExp-logo.svg",
-  "url": "https://edu-tech-exp-ten.vercel.app",
+  "url": "https://edu-tech-exp.vercel.app",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",

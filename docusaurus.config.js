@@ -7,7 +7,7 @@ const config = {
   favicon: 'img/eduTechExp-logo.svg',
 
   // Set the production url of your site here
-  url: 'https://edu-tech-exp-ten.vercel.app',
+  url: 'https://edu-tech-exp.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '',
