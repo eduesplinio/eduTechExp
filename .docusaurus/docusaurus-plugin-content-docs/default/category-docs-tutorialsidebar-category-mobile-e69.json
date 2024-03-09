@@ -1,0 +1,15 @@
+{
+  "title": "📱 Mobile",
+  "slug": "/category/-mobile",
+  "permalink": "/docs/category/-mobile",
+  "navigation": {
+    "previous": {
+      "title": "Fórum de Tecnologia",
+      "permalink": "/docs/projects/web/tabnews"
+    },
+    "next": {
+      "title": "Jogo da Memória",
+      "permalink": "/docs/projects/mobile/memory-game"
+    }
+  }
+}

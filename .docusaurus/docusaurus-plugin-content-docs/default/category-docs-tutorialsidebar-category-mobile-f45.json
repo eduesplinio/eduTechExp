@@ -4,12 +4,12 @@
   "permalink": "/docs/category/mobile",
   "navigation": {
     "previous": {
-      "title": "Projetos",
-      "permalink": "/docs/category/projetos"
+      "title": "🚀 Projetos",
+      "permalink": "/docs/category/-projetos"
     },
     "next": {
       "title": "Jogo da Memória",
-      "permalink": "/docs/projects/mobile/memory-game"
+      "permalink": "/docs/explore/projects/mobile/memory-game"
     }
   }
 }

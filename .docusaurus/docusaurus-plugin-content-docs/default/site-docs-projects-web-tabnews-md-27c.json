@@ -1,0 +1,25 @@
+{
+  "id": "projects/web/tabnews",
+  "title": "Fórum de Tecnologia",
+  "description": "",
+  "source": "@site/docs/projects/web/tabnews.md",
+  "sourceDirName": "projects/web",
+  "slug": "/projects/web/tabnews",
+  "permalink": "/docs/projects/web/tabnews",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar-position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gerenciador de Clientes e Produtos",
+    "permalink": "/docs/projects/web/esplinHub"
+  },
+  "next": {
+    "title": "📱 Mobile",
+    "permalink": "/docs/category/-mobile"
+  }
+}

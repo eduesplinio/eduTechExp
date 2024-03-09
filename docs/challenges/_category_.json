@@ -1,9 +1,4 @@
 {
-  "label": "Desafios",
-  "collapsible": true,
-  "collapsed": false,
-  "position": 3,
-  "link": {
-    "type": "generated-index"
-  }
+  "label": "🎯 Desafios",
+  "position": 3
 }

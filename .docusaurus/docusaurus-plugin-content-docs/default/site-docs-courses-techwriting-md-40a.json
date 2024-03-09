@@ -8,7 +8,6 @@
   "permalink": "/docs/courses/techwriting",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/courses/techwriting.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -17,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Cursos",
-    "permalink": "/docs/category/cursos"
+    "title": "Quiz",
+    "permalink": "/docs/projects/mobile/quiz-game"
   },
   "next": {
     "title": "Programação",

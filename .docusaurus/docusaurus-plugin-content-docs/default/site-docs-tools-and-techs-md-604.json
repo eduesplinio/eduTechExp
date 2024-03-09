@@ -1,0 +1,21 @@
+{
+  "id": "tools-and-techs",
+  "title": "🛠️ Tecnologias",
+  "description": "",
+  "source": "@site/docs/tools-and-techs.md",
+  "sourceDirName": ".",
+  "slug": "/tools-and-techs",
+  "permalink": "/docs/tools-and-techs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar-position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Testes de intrusão",
+    "permalink": "/docs/challenges/pen-test"
+  }
+}

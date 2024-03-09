@@ -79,49 +79,19 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a4d'),
+    component: ComponentCreator('/docs', '5d4'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '34e'),
+        component: ComponentCreator('/docs', 'e30'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '870'),
+            component: ComponentCreator('/docs', '817'),
             routes: [
               {
-                path: '/docs/category/cursos',
-                component: ComponentCreator('/docs/category/cursos', '885'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/category/desafios',
-                component: ComponentCreator('/docs/category/desafios', 'a32'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/category/mobile',
-                component: ComponentCreator('/docs/category/mobile', '4c2'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/category/projetos',
-                component: ComponentCreator('/docs/category/projetos', '1a7'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/category/tecnologias',
-                component: ComponentCreator('/docs/category/tecnologias', '942'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/category/web',
-                component: ComponentCreator('/docs/category/web', 'ddd'),
+                path: '/docs/category/-mobile',
+                component: ComponentCreator('/docs/category/-mobile', '0d4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -156,6 +126,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/explore',
+                component: ComponentCreator('/docs/explore', '0a3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/projects/mobile/memory-game',
                 component: ComponentCreator('/docs/projects/mobile/memory-game', '6ab'),
                 exact: true,
@@ -180,14 +156,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/projects/web/tabnews',
+                component: ComponentCreator('/docs/projects/web/tabnews', '017'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/projects/web/test-of-progress',
                 component: ComponentCreator('/docs/projects/web/test-of-progress', '026'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tools-and-tech/tools-and-techs',
-                component: ComponentCreator('/docs/tools-and-tech/tools-and-techs', '375'),
+                path: '/docs/tools-and-techs',
+                component: ComponentCreator('/docs/tools-and-techs', '2d6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

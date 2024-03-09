@@ -1,0 +1,11 @@
+{
+  "title": "🌎 Explorar",
+  "slug": "/category/-explorar",
+  "permalink": "/docs/category/-explorar",
+  "navigation": {
+    "next": {
+      "title": "Fórum de Tecnologia",
+      "permalink": "/docs/explore/projects/web/"
+    }
+  }
+}

@@ -8,7 +8,6 @@
   "permalink": "/docs/explore/courses/cibersecurity",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/explore/courses/cibersecurity.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
@@ -21,7 +20,7 @@
     "permalink": "/docs/explore/courses/programing"
   },
   "next": {
-    "title": "Desafios",
-    "permalink": "/docs/category/desafios"
+    "title": "Hacking with Swift",
+    "permalink": "/docs/explore/challenges/hacking-with-swift"
   }
 }

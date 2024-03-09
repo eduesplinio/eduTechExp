@@ -6,7 +6,7 @@
 export default {
   "title": "eduTech Exp",
   "tagline": "Desvendando o complexo para impulsionar a inovação digital.",
-  "favicon": "img/eduTechExp-logo.ico",
+  "favicon": "img/eduTechExp-logo.svg",
   "url": "https://edu-tech-exp-ten.vercel.app",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
@@ -24,12 +24,10 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "sidebarPath": "./sidebars.js"
         },
         "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "showReadingTime": true
         },
         "theme": {
           "customCss": "./src/css/custom.css"

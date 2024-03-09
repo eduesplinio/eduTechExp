@@ -1,0 +1,15 @@
+{
+  "title": "🚀 Projetos",
+  "slug": "/category/-projetos",
+  "permalink": "/docs/category/-projetos",
+  "navigation": {
+    "previous": {
+      "title": "🌎 Explorar",
+      "permalink": "/docs/category/-explorar"
+    },
+    "next": {
+      "title": "🌐 Web",
+      "permalink": "/docs/category/-web"
+    }
+  }
+}

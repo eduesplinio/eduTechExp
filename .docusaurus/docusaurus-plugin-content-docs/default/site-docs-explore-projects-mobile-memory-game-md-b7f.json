@@ -8,14 +8,13 @@
   "permalink": "/docs/explore/projects/mobile/memory-game",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/explore/projects/mobile/memory-game.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Mobile",
-    "permalink": "/docs/category/mobile"
+    "title": "📱 Mobile",
+    "permalink": "/docs/category/-mobile"
   },
   "next": {
     "title": "Quiz",

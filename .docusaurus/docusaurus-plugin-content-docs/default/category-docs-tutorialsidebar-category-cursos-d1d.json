@@ -1,12 +1,12 @@
 {
-  "title": "Cursos",
+  "title": "📚 Cursos",
   "description": "5 minutes to learn the most important Docusaurus concepts.",
-  "slug": "/category/cursos",
-  "permalink": "/docs/category/cursos",
+  "slug": "/category/-cursos",
+  "permalink": "/docs/category/-cursos",
   "navigation": {
     "previous": {
-      "title": "Fórum de Tecnologia",
-      "permalink": "/docs/explore/projects/web/"
+      "title": "Quiz",
+      "permalink": "/docs/explore/projects/mobile/quiz-game"
     },
     "next": {
       "title": "Redação Técnica",

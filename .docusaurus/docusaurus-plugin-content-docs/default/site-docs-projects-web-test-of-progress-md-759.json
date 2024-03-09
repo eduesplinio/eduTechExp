@@ -8,17 +8,16 @@
   "permalink": "/docs/projects/web/test-of-progress",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/projects/web/test-of-progress.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 5,
   "frontMatter": {
-    "sidebar_position": 3
+    "sidebar_position": 5
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Web",
-    "permalink": "/docs/category/web"
+    "title": "Fórum de Tecnologia",
+    "permalink": "/docs/projects/web/"
   },
   "next": {
     "title": "Gerenciador de Clientes e Produtos",

@@ -5,11 +5,11 @@
   "navigation": {
     "previous": {
       "title": "Testes de intrusão",
-      "permalink": "/docs/challenges/pen-test"
+      "permalink": "/docs/explore/challenges/pen-test"
     },
     "next": {
       "title": "Tecnologias",
-      "permalink": "/docs/tools-and-tech/tools-and-techs"
+      "permalink": "/docs/explore/tools-and-tech/tools-and-techs"
     }
   }
 }
