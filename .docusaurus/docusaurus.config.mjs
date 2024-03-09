@@ -96,19 +96,19 @@ export default {
           "items": [
             {
               "label": "Projetos",
-              "href": "/docs/category/projetos"
+              "href": "/docs//projects"
             },
             {
               "label": "Cursos",
-              "href": "/docs/category/cursos"
+              "href": "/docs//courses"
             },
             {
               "label": "Desafios",
-              "href": "/docs/category/desafios"
+              "href": "/docs/challenges"
             },
             {
               "label": "Tecnologias",
-              "href": "/docs/category/tecnologias"
+              "href": "/docs/tools-and-techs"
             }
           ]
         },
