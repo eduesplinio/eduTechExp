@@ -6,8 +6,8 @@
 export default {
   "title": "eduTech Exp",
   "tagline": "Desvendando o complexo para impulsionar a inovação digital.",
-  "favicon": "img/eduTechExp-logo.svg",
-  "url": "https://edu-tech-exp.vercel.app",
+  "favicon": "img/eduTechExp-logo.ico",
+  "url": "https://edu-tech-exp-ten.vercel.app",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -24,10 +24,12 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "./sidebars.js"
+          "sidebarPath": "./sidebars.js",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
-          "showReadingTime": true
+          "showReadingTime": true,
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
           "customCss": "./src/css/custom.css"
@@ -96,19 +98,19 @@ export default {
           "items": [
             {
               "label": "Projetos",
-              "href": "/docs//projects"
+              "href": "/docs/category/projetos"
             },
             {
               "label": "Cursos",
-              "href": "/docs//courses"
+              "href": "/docs/category/cursos"
             },
             {
               "label": "Desafios",
-              "href": "/docs/challenges"
+              "href": "/docs/category/desafios"
             },
             {
               "label": "Tecnologias",
-              "href": "/docs/tools-and-techs"
+              "href": "/docs/category/tecnologias"
             }
           ]
         },
