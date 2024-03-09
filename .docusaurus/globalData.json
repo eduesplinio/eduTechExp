@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "explore",
+          "mainDocId": "projects/mobile/memory-game",
           "docs": [
             {
               "id": "challenges/hacking-with-swift",
@@ -36,11 +36,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "explore",
-              "path": "/docs/explore",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "projects/mobile/memory-game",
               "path": "/docs/projects/mobile/memory-game",
               "sidebar": "tutorialSidebar"
@@ -56,11 +51,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "projects/web/tabnews",
-              "path": "/docs/projects/web/tabnews",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "projects/web/test-of-progress",
               "path": "/docs/projects/web/test-of-progress",
               "sidebar": "tutorialSidebar"
@@ -71,13 +61,38 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tools-and-techs",
-              "path": "/docs/tools-and-techs",
+              "id": "tools-and-tech/tools-and-techs",
+              "path": "/docs/tools-and-tech/tools-and-techs",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/-mobile",
-              "path": "/docs/category/-mobile",
+              "id": "/category/projetos",
+              "path": "/docs/category/projetos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/mobile",
+              "path": "/docs/category/mobile",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/web",
+              "path": "/docs/category/web",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/cursos",
+              "path": "/docs/category/cursos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/desafios",
+              "path": "/docs/category/desafios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tecnologias",
+              "path": "/docs/category/tecnologias",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -85,8 +100,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/explore",
-                "label": "explore"
+                "path": "/docs/category/projetos",
+                "label": "Projetos"
               }
             }
           }

@@ -5,11 +5,11 @@
   "navigation": {
     "previous": {
       "title": "Cibersegurança",
-      "permalink": "/docs/explore/courses/cibersecurity"
+      "permalink": "/docs/courses/cibersecurity"
     },
     "next": {
       "title": "Hacking with Swift",
-      "permalink": "/docs/explore/challenges/hacking-with-swift"
+      "permalink": "/docs/challenges/hacking-with-swift"
     }
   }
 }

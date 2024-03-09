@@ -113,22 +113,42 @@
     },
     "content": "content---sobre-mim-576-1bc"
   },
-  "/docs-5d4": {
+  "/docs-a4d": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docs-5-cf-aeb"
     }
   },
-  "/docs-e30": {
+  "/docs-34e": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-817": {
+  "/docs-870": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/category/-mobile-0d4": {
+  "/docs/category/cursos-885": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-mobilecf-8-004"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-cursos-4-df-a27"
+  },
+  "/docs/category/desafios-a32": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-desafios-557-f0f"
+  },
+  "/docs/category/mobile-4c2": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-mobile-5-fe-996"
+  },
+  "/docs/category/projetos-1a7": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-projetos-6-f-9-835"
+  },
+  "/docs/category/tecnologias-942": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tecnologiase-55-342"
+  },
+  "/docs/category/web-ddd": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-webc-2-f-a40"
   },
   "/docs/challenges/hacking-with-swift-ebf": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -150,10 +170,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-courses-techwriting-40-a-3ba"
   },
-  "/docs/explore-0a3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-explorec-18-837"
-  },
   "/docs/projects/mobile/memory-game-6ab": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-projects-mobile-memory-game-3-bc-05a"
@@ -170,17 +186,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-projects-web-esplin-hub-75-b-39e"
   },
-  "/docs/projects/web/tabnews-017": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-projects-web-tabnews-27-c-fce"
-  },
   "/docs/projects/web/test-of-progress-026": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-projects-web-test-of-progress-759-83b"
   },
-  "/docs/tools-and-techs-2d6": {
+  "/docs/tools-and-tech/tools-and-techs-375": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tools-and-techs-604-aa1"
+    "content": "content---docs-tools-and-tech-tools-and-techse-11-247"
   },
   "/-363": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

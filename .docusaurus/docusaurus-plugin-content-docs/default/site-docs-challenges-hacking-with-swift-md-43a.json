@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Cibersegurança",
-    "permalink": "/docs/courses/cibersecurity"
+    "title": "Desafios",
+    "permalink": "/docs/category/desafios"
   },
   "next": {
     "title": "Testes de intrusão",

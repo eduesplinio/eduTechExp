@@ -35,8 +35,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Cibersegurança",
-                "permalink": "/docs/courses/cibersecurity"
+                "title": "Desafios",
+                "permalink": "/docs/category/desafios"
               },
               "next": {
                 "title": "Testes de intrusão",
@@ -63,8 +63,8 @@
                 "permalink": "/docs/challenges/hacking-with-swift"
               },
               "next": {
-                "title": "🛠️ Tecnologias",
-                "permalink": "/docs/tools-and-techs"
+                "title": "Tecnologias",
+                "permalink": "/docs/category/tecnologias"
               }
             },
             {
@@ -90,8 +90,8 @@
                 "permalink": "/docs/courses/programing"
               },
               "next": {
-                "title": "Hacking with Swift",
-                "permalink": "/docs/challenges/hacking-with-swift"
+                "title": "Desafios",
+                "permalink": "/docs/category/desafios"
               }
             },
             {
@@ -140,35 +140,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Quiz",
-                "permalink": "/docs/projects/mobile/quiz-game"
+                "title": "Cursos",
+                "permalink": "/docs/category/cursos"
               },
               "next": {
                 "title": "Programação",
                 "permalink": "/docs/courses/programing"
-              }
-            },
-            {
-              "id": "explore",
-              "title": "🌎 Explorar",
-              "description": "",
-              "source": "@site/docs/explore.md",
-              "sourceDirName": ".",
-              "slug": "/explore",
-              "permalink": "/docs/explore",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/explore.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "next": {
-                "title": "Fórum de Tecnologia",
-                "permalink": "/docs/projects/web/"
               }
             },
             {
@@ -187,8 +164,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "📱 Mobile",
-                "permalink": "/docs/category/-mobile"
+                "title": "Mobile",
+                "permalink": "/docs/category/mobile"
               },
               "next": {
                 "title": "Quiz",
@@ -215,8 +192,8 @@
                 "permalink": "/docs/projects/mobile/memory-game"
               },
               "next": {
-                "title": "Redação Técnica",
-                "permalink": "/docs/courses/techwriting"
+                "title": "Web",
+                "permalink": "/docs/category/web"
               }
             },
             {
@@ -243,33 +220,7 @@
               },
               "next": {
                 "title": "Fórum de Tecnologia",
-                "permalink": "/docs/projects/web/tabnews"
-              }
-            },
-            {
-              "id": "projects/web/tabnews",
-              "title": "Fórum de Tecnologia",
-              "description": "",
-              "source": "@site/docs/projects/web/tabnews.md",
-              "sourceDirName": "projects/web",
-              "slug": "/projects/web/tabnews",
-              "permalink": "/docs/projects/web/tabnews",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/projects/web/tabnews.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "sidebar-position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Gerenciador de Clientes e Produtos",
-                "permalink": "/docs/projects/web/esplinHub"
-              },
-              "next": {
-                "title": "📱 Mobile",
-                "permalink": "/docs/category/-mobile"
+                "permalink": "/docs/projects/web/"
               }
             },
             {
@@ -285,14 +236,14 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/projects/web/test-of-progress.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 5,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 5
+                "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Fórum de Tecnologia",
-                "permalink": "/docs/projects/web/"
+                "title": "Web",
+                "permalink": "/docs/category/web"
               },
               "next": {
                 "title": "Gerenciador de Clientes e Produtos",
@@ -317,34 +268,32 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "🌎 Explorar",
-                "permalink": "/docs/explore"
+                "title": "Gerenciador de Clientes e Produtos",
+                "permalink": "/docs/projects/web/esplinHub"
               },
               "next": {
-                "title": "Teste de Progresso",
-                "permalink": "/docs/projects/web/test-of-progress"
+                "title": "Cursos",
+                "permalink": "/docs/category/cursos"
               }
             },
             {
-              "id": "tools-and-techs",
-              "title": "🛠️ Tecnologias",
+              "id": "tools-and-tech/tools-and-techs",
+              "title": "Tecnologias",
               "description": "",
-              "source": "@site/docs/tools-and-techs.md",
-              "sourceDirName": ".",
-              "slug": "/tools-and-techs",
-              "permalink": "/docs/tools-and-techs",
+              "source": "@site/docs/tools-and-tech/tools-and-techs.md",
+              "sourceDirName": "tools-and-tech",
+              "slug": "/tools-and-tech/tools-and-techs",
+              "permalink": "/docs/tools-and-tech/tools-and-techs",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tools-and-techs.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tools-and-tech/tools-and-techs.md",
               "tags": [],
               "version": "current",
-              "frontMatter": {
-                "sidebar-position": 10
-              },
+              "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Testes de intrusão",
-                "permalink": "/docs/challenges/pen-test"
+                "title": "Tecnologias",
+                "permalink": "/docs/category/tecnologias"
               }
             }
           ],
@@ -352,42 +301,14 @@
           "sidebars": {
             "tutorialSidebar": [
               {
-                "type": "doc",
-                "id": "explore"
-              },
-              {
                 "type": "category",
-                "label": "🚀 Projetos",
+                "label": "Projetos",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "category",
-                    "label": "🌐 Web",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "projects/web/test-of-progress"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "projects/web/esplinHub"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "projects/web/tabnews"
-                      }
-                    ],
-                    "link": {
-                      "type": "doc",
-                      "id": "projects/web/web"
-                    }
-                  },
-                  {
-                    "type": "category",
-                    "label": "📱 Mobile",
+                    "label": "Mobile",
                     "collapsible": true,
                     "collapsed": true,
                     "items": [
@@ -402,15 +323,45 @@
                     ],
                     "link": {
                       "type": "generated-index",
-                      "slug": "/category/-mobile",
-                      "permalink": "/docs/category/-mobile"
+                      "slug": "/category/mobile",
+                      "permalink": "/docs/category/mobile"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Web",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "projects/web/test-of-progress"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "projects/web/esplinHub"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "projects/web/web"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "slug": "/category/web",
+                      "permalink": "/docs/category/web"
                     }
                   }
-                ]
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/projetos",
+                  "permalink": "/docs/category/projetos"
+                }
               },
               {
                 "type": "category",
-                "label": "📚 Cursos",
+                "label": "Cursos",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -426,13 +377,19 @@
                     "type": "doc",
                     "id": "courses/cibersecurity"
                   }
-                ]
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/cursos",
+                  "permalink": "/docs/category/cursos"
+                }
               },
               {
                 "type": "category",
-                "label": "🎯 Desafios",
+                "label": "Desafios",
                 "collapsible": true,
-                "collapsed": true,
+                "collapsed": false,
                 "items": [
                   {
                     "type": "doc",
@@ -442,11 +399,29 @@
                     "type": "doc",
                     "id": "challenges/pen-test"
                   }
-                ]
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/desafios",
+                  "permalink": "/docs/category/desafios"
+                }
               },
               {
-                "type": "doc",
-                "id": "tools-and-techs"
+                "type": "category",
+                "label": "Tecnologias",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tools-and-tech/tools-and-techs"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/tecnologias",
+                  "permalink": "/docs/category/tecnologias"
+                }
               }
             ]
           }

@@ -10,21 +10,37 @@
   "docsSidebars": {
     "tutorialSidebar": [
       {
-        "type": "link",
-        "label": "🌎 Explorar",
-        "href": "/docs/explore",
-        "docId": "explore",
-        "unlisted": false
-      },
-      {
         "type": "category",
-        "label": "🚀 Projetos",
+        "label": "Projetos",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "category",
-            "label": "🌐 Web",
+            "label": "Mobile",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Jogo da Memória",
+                "href": "/docs/projects/mobile/memory-game",
+                "docId": "projects/mobile/memory-game",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Quiz",
+                "href": "/docs/projects/mobile/quiz-game",
+                "docId": "projects/mobile/quiz-game",
+                "unlisted": false
+              }
+            ],
+            "href": "/docs/category/mobile"
+          },
+          {
+            "type": "category",
+            "label": "Web",
             "collapsible": true,
             "collapsed": true,
             "items": [
@@ -45,41 +61,19 @@
               {
                 "type": "link",
                 "label": "Fórum de Tecnologia",
-                "href": "/docs/projects/web/tabnews",
-                "docId": "projects/web/tabnews",
+                "href": "/docs/projects/web/",
+                "docId": "projects/web/web",
                 "unlisted": false
               }
             ],
-            "href": "/docs/projects/web/"
-          },
-          {
-            "type": "category",
-            "label": "📱 Mobile",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "Jogo da Memória",
-                "href": "/docs/projects/mobile/memory-game",
-                "docId": "projects/mobile/memory-game",
-                "unlisted": false
-              },
-              {
-                "type": "link",
-                "label": "Quiz",
-                "href": "/docs/projects/mobile/quiz-game",
-                "docId": "projects/mobile/quiz-game",
-                "unlisted": false
-              }
-            ],
-            "href": "/docs/category/-mobile"
+            "href": "/docs/category/web"
           }
-        ]
+        ],
+        "href": "/docs/category/projetos"
       },
       {
         "type": "category",
-        "label": "📚 Cursos",
+        "label": "Cursos",
         "collapsible": true,
         "collapsed": true,
         "items": [
@@ -104,13 +98,14 @@
             "docId": "courses/cibersecurity",
             "unlisted": false
           }
-        ]
+        ],
+        "href": "/docs/category/cursos"
       },
       {
         "type": "category",
-        "label": "🎯 Desafios",
+        "label": "Desafios",
         "collapsible": true,
-        "collapsed": true,
+        "collapsed": false,
         "items": [
           {
             "type": "link",
@@ -126,14 +121,24 @@
             "docId": "challenges/pen-test",
             "unlisted": false
           }
-        ]
+        ],
+        "href": "/docs/category/desafios"
       },
       {
-        "type": "link",
-        "label": "🛠️ Tecnologias",
-        "href": "/docs/tools-and-techs",
-        "docId": "tools-and-techs",
-        "unlisted": false
+        "type": "category",
+        "label": "Tecnologias",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Tecnologias",
+            "href": "/docs/tools-and-tech/tools-and-techs",
+            "docId": "tools-and-tech/tools-and-techs",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/tecnologias"
       }
     ]
   },
@@ -168,12 +173,6 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "explore": {
-      "id": "explore",
-      "title": "🌎 Explorar",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
     "projects/mobile/memory-game": {
       "id": "projects/mobile/memory-game",
       "title": "Jogo da Memória",
@@ -192,12 +191,6 @@
       "description": "Add Markdown or React files to src/pages to create a standalone page:",
       "sidebar": "tutorialSidebar"
     },
-    "projects/web/tabnews": {
-      "id": "projects/web/tabnews",
-      "title": "Fórum de Tecnologia",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
     "projects/web/test-of-progress": {
       "id": "projects/web/test-of-progress",
       "title": "Teste de Progresso",
@@ -210,9 +203,9 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "tools-and-techs": {
-      "id": "tools-and-techs",
-      "title": "🛠️ Tecnologias",
+    "tools-and-tech/tools-and-techs": {
+      "id": "tools-and-tech/tools-and-techs",
+      "title": "Tecnologias",
       "description": "",
       "sidebar": "tutorialSidebar"
     }

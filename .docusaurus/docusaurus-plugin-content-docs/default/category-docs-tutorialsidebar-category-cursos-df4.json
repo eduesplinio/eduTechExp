@@ -6,11 +6,11 @@
   "navigation": {
     "previous": {
       "title": "Fórum de Tecnologia",
-      "permalink": "/docs/explore/projects/web/"
+      "permalink": "/docs/projects/web/"
     },
     "next": {
       "title": "Redação Técnica",
-      "permalink": "/docs/explore/courses/techwriting"
+      "permalink": "/docs/courses/techwriting"
     }
   }
 }
