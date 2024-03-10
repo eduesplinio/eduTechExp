@@ -1,0 +1,22 @@
+{
+  "id": "Explorar/Explorar",
+  "title": "Docs",
+  "description": "",
+  "source": "@site/docs/Explorar/Explorar.md",
+  "sourceDirName": "Explorar",
+  "slug": "/docs",
+  "permalink": "/docs/docs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Explorar/Explorar.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/docs"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "📱 Mobile",
+    "permalink": "/docs/Explorar/Projetos/mobile"
+  }
+}

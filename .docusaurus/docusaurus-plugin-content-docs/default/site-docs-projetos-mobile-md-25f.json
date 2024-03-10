@@ -1,0 +1,26 @@
+{
+  "id": "Projetos/mobile",
+  "title": "Mobile",
+  "description": "",
+  "source": "@site/docs/Projetos/mobile.md",
+  "sourceDirName": "Projetos",
+  "slug": "/Projetos/mobile",
+  "permalink": "/docs/Projetos/mobile",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Projetos/mobile.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar-position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Projetos",
+    "permalink": "/docs/category/projetos"
+  },
+  "next": {
+    "title": "Web",
+    "permalink": "/docs/Projetos/web"
+  }
+}

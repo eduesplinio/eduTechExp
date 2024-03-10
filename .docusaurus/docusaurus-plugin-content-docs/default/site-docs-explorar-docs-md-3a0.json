@@ -1,0 +1,22 @@
+{
+  "id": "Explorar/Docs",
+  "title": "Docs",
+  "description": "",
+  "source": "@site/docs/Explorar/Docs.md",
+  "sourceDirName": "Explorar",
+  "slug": "/docs",
+  "permalink": "/docs/docs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Explorar/Docs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/docs"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "desafios",
+    "permalink": "/docs/Explorar/Desafios/"
+  }
+}

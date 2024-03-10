@@ -1,0 +1,24 @@
+{
+  "id": "Explorar/Projetos/mobile",
+  "title": "📱 Mobile",
+  "description": "",
+  "source": "@site/docs/Explorar/Projetos/mobile.md",
+  "sourceDirName": "Explorar/Projetos",
+  "slug": "/Explorar/Projetos/mobile",
+  "permalink": "/docs/Explorar/Projetos/mobile",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Explorar/Projetos/mobile.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docs",
+    "permalink": "/docs/docs"
+  },
+  "next": {
+    "title": "🌐 Web",
+    "permalink": "/docs/Explorar/Projetos/web"
+  }
+}

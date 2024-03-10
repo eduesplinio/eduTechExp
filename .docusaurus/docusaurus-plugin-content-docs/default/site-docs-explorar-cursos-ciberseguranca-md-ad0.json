@@ -1,0 +1,26 @@
+{
+  "id": "Explorar/Cursos/ciberseguranca",
+  "title": "🛡️ Cibersegurança",
+  "description": "",
+  "source": "@site/docs/Explorar/Cursos/ciberseguranca.md",
+  "sourceDirName": "Explorar/Cursos",
+  "slug": "/Explorar/Cursos/ciberseguranca",
+  "permalink": "/docs/Explorar/Cursos/ciberseguranca",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Explorar/Cursos/ciberseguranca.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar-position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌐 Web",
+    "permalink": "/docs/Explorar/Projetos/web"
+  },
+  "next": {
+    "title": "💻 Programação",
+    "permalink": "/docs/Explorar/Cursos/programacao"
+  }
+}
