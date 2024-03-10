@@ -68,7 +68,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Explorar',
+            label: 'Docs',
           },
 
           {
@@ -100,46 +100,34 @@ const config = {
                 to: '/sobre-mim',
               },
               {
-                label: 'Linkedin',
-                href: 'https://www.linkedin.com/in/eduardo-esplinio-b16ba3274/',
-              },
-              {
                 label: 'E-mail',
                 href: 'mailto:eduesplinio.dat@gmail.com',
               }
             ],
           },
           {
-            title: 'Explorar',
-            items: [
-              {
-                label: 'Projetos',
-                href: '/docs/category/projetos',
-              },
-              {
-                label: 'Cursos',
-                href: '/docs/category/cursos',
-              },
-              {
-                label: 'Desafios',
-                href: '/docs/category/desafios',
-              },
-              {
-                label: "Tecnologias",
-                href: '/docs/category/tecnologias',
-              }
-            ],
-          },
-          {
-            title: 'Mais',
+            title: 'Navegar',
             items: [
               {
                 label: 'Blog',
                 to: '/blog',
               },
               {
+                label: 'Docs',
+                href: '/docs/docs',
+              },
+            ],
+          },
+          {
+            title: 'Mais',
+            items: [
+              {
                 label: 'GitHub',
                 href: 'https://github.com/eduesplinio',
+              },
+              {
+                label: 'Linkedin',
+                href: 'https://www.linkedin.com/in/eduardo-esplinio-b16ba3274/',
               },
             ],
           },

@@ -1,16 +1,15 @@
 {
   "title": "Cursos",
-  "description": "5 minutes to learn the most important Docusaurus concepts.",
   "slug": "/category/cursos",
   "permalink": "/docs/category/cursos",
   "navigation": {
     "previous": {
-      "title": "Fórum de Tecnologia",
-      "permalink": "/docs/projects/web/"
+      "title": "Web",
+      "permalink": "/docs/Explorar/Projetos/web"
     },
     "next": {
-      "title": "Redação Técnica",
-      "permalink": "/docs/courses/techwriting"
+      "title": "Cibersegurança",
+      "permalink": "/docs/Explorar/Cursos/ciberseguranca"
     }
   }
 }

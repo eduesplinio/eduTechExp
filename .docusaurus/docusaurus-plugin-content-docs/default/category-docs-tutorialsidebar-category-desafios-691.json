@@ -4,12 +4,12 @@
   "permalink": "/docs/category/desafios",
   "navigation": {
     "previous": {
-      "title": "Cibersegurança",
-      "permalink": "/docs/courses/cibersecurity"
+      "title": "Redação Técnica",
+      "permalink": "/docs/Redacao Tecnica"
     },
     "next": {
-      "title": "Hacking with Swift",
-      "permalink": "/docs/challenges/hacking-with-swift"
+      "title": "desafios",
+      "permalink": "/docs/Explorar/Desafios/"
     }
   }
 }

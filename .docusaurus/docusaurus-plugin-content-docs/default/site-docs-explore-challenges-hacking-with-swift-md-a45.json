@@ -8,13 +8,14 @@
   "permalink": "/docs/explore/challenges/hacking-with-swift",
   "draft": false,
   "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/explore/challenges/hacking-with-swift.md",
   "tags": [],
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Cibersegurança",
-    "permalink": "/docs/explore/courses/cibersecurity"
+    "title": "Desafios",
+    "permalink": "/docs/category/desafios"
   },
   "next": {
     "title": "Testes de intrusão",

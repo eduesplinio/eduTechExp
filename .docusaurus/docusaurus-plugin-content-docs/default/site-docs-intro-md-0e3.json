@@ -1,6 +1,6 @@
 {
   "id": "intro",
-  "title": "Explorar",
+  "title": "Introdução",
   "description": "",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
@@ -8,15 +8,15 @@
   "permalink": "/docs/intro",
   "draft": false,
   "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar-position": 1
   },
   "sidebar": "tutorialSidebar",
-  "next": {
-    "title": "Fórum de Tecnologia",
-    "permalink": "/docs/projects/web/"
+  "previous": {
+    "title": "Explorar",
+    "permalink": "/docs/explorar"
   }
 }

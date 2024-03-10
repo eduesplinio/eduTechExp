@@ -61,7 +61,7 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Explorar"
+          "label": "Docs"
         },
         {
           "href": "https://github.com/eduesplinio/eduTechExp",
@@ -84,33 +84,21 @@ export default {
               "to": "/sobre-mim"
             },
             {
-              "label": "Linkedin",
-              "href": "https://www.linkedin.com/in/eduardo-esplinio-b16ba3274/"
-            },
-            {
               "label": "E-mail",
               "href": "mailto:eduesplinio.dat@gmail.com"
             }
           ]
         },
         {
-          "title": "Explorar",
+          "title": "Navegar",
           "items": [
             {
-              "label": "Projetos",
-              "href": "/docs/category/projetos"
+              "label": "Blog",
+              "to": "/blog"
             },
             {
-              "label": "Cursos",
-              "href": "/docs/category/cursos"
-            },
-            {
-              "label": "Desafios",
-              "href": "/docs/category/desafios"
-            },
-            {
-              "label": "Tecnologias",
-              "href": "/docs/category/tecnologias"
+              "label": "Docs",
+              "href": "/docs/docs"
             }
           ]
         },
@@ -118,12 +106,12 @@ export default {
           "title": "Mais",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
               "label": "GitHub",
               "href": "https://github.com/eduesplinio"
+            },
+            {
+              "label": "Linkedin",
+              "href": "https://www.linkedin.com/in/eduardo-esplinio-b16ba3274/"
             }
           ]
         }

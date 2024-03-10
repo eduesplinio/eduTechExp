@@ -11,201 +11,100 @@
     "tutorialSidebar": [
       {
         "type": "category",
-        "label": "Projetos",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "category",
-            "label": "Mobile",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "Jogo da Memória",
-                "href": "/docs/projects/mobile/memory-game",
-                "docId": "projects/mobile/memory-game",
-                "unlisted": false
-              },
-              {
-                "type": "link",
-                "label": "Quiz",
-                "href": "/docs/projects/mobile/quiz-game",
-                "docId": "projects/mobile/quiz-game",
-                "unlisted": false
-              }
-            ],
-            "href": "/docs/category/mobile"
-          },
-          {
-            "type": "category",
-            "label": "Web",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "Teste de Progresso",
-                "href": "/docs/projects/web/test-of-progress",
-                "docId": "projects/web/test-of-progress",
-                "unlisted": false
-              },
-              {
-                "type": "link",
-                "label": "Gerenciador de Clientes e Produtos",
-                "href": "/docs/projects/web/esplinHub",
-                "docId": "projects/web/esplinHub",
-                "unlisted": false
-              },
-              {
-                "type": "link",
-                "label": "Fórum de Tecnologia",
-                "href": "/docs/projects/web/",
-                "docId": "projects/web/web",
-                "unlisted": false
-              }
-            ],
-            "href": "/docs/category/web"
-          }
-        ],
-        "href": "/docs/category/projetos"
-      },
-      {
-        "type": "category",
-        "label": "Cursos",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Redação Técnica",
-            "href": "/docs/courses/techwriting",
-            "docId": "courses/techwriting",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Programação",
-            "href": "/docs/courses/programing",
-            "docId": "courses/programing",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Cibersegurança",
-            "href": "/docs/courses/cibersecurity",
-            "docId": "courses/cibersecurity",
-            "unlisted": false
-          }
-        ],
-        "href": "/docs/category/cursos"
-      },
-      {
-        "type": "category",
-        "label": "Desafios",
-        "collapsible": true,
+        "label": "📚 Docs",
+        "collapsible": false,
         "collapsed": false,
         "items": [
           {
-            "type": "link",
-            "label": "Hacking with Swift",
-            "href": "/docs/challenges/hacking-with-swift",
-            "docId": "challenges/hacking-with-swift",
-            "unlisted": false
+            "type": "category",
+            "label": "🚀 Projetos",
+            "collapsible": true,
+            "collapsed": false,
+            "items": [
+              {
+                "type": "link",
+                "label": "📱 Mobile",
+                "href": "/docs/Explorar/Projetos/mobile",
+                "docId": "Explorar/Projetos/mobile",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "🌐 Web",
+                "href": "/docs/Explorar/Projetos/web",
+                "docId": "Explorar/Projetos/web",
+                "unlisted": false
+              }
+            ]
           },
           {
-            "type": "link",
-            "label": "Testes de intrusão",
-            "href": "/docs/challenges/pen-test",
-            "docId": "challenges/pen-test",
-            "unlisted": false
+            "type": "category",
+            "label": "🎓 Cursos",
+            "collapsible": true,
+            "collapsed": false,
+            "items": [
+              {
+                "type": "link",
+                "label": "🛡️ Cibersegurança",
+                "href": "/docs/Explorar/Cursos/ciberseguranca",
+                "docId": "Explorar/Cursos/ciberseguranca",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "💻 Programação",
+                "href": "/docs/Explorar/Cursos/programacao",
+                "docId": "Explorar/Cursos/programacao",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "📝 Redação Técnica",
+                "href": "/docs/Explorar/Cursos/redacao-tecnica",
+                "docId": "Explorar/Cursos/redacao-tecnica",
+                "unlisted": false
+              }
+            ]
           }
         ],
-        "href": "/docs/category/desafios"
-      },
-      {
-        "type": "category",
-        "label": "Tecnologias",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Tecnologias",
-            "href": "/docs/tools-and-tech/tools-and-techs",
-            "docId": "tools-and-tech/tools-and-techs",
-            "unlisted": false
-          }
-        ],
-        "href": "/docs/category/tecnologias"
+        "href": "/docs/docs"
       }
     ]
   },
   "docs": {
-    "challenges/hacking-with-swift": {
-      "id": "challenges/hacking-with-swift",
-      "title": "Hacking with Swift",
+    "Explorar/Cursos/ciberseguranca": {
+      "id": "Explorar/Cursos/ciberseguranca",
+      "title": "🛡️ Cibersegurança",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "challenges/pen-test": {
-      "id": "challenges/pen-test",
-      "title": "Testes de intrusão",
+    "Explorar/Cursos/programacao": {
+      "id": "Explorar/Cursos/programacao",
+      "title": "💻 Programação",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "courses/cibersecurity": {
-      "id": "courses/cibersecurity",
-      "title": "Cibersegurança",
+    "Explorar/Cursos/redacao-tecnica": {
+      "id": "Explorar/Cursos/redacao-tecnica",
+      "title": "📝 Redação Técnica",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "courses/programing": {
-      "id": "courses/programing",
-      "title": "Programação",
+    "Explorar/Explorar": {
+      "id": "Explorar/Explorar",
+      "title": "Docs",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "courses/techwriting": {
-      "id": "courses/techwriting",
-      "title": "Redação Técnica",
+    "Explorar/Projetos/mobile": {
+      "id": "Explorar/Projetos/mobile",
+      "title": "📱 Mobile",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "projects/mobile/memory-game": {
-      "id": "projects/mobile/memory-game",
-      "title": "Jogo da Memória",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "projects/mobile/quiz-game": {
-      "id": "projects/mobile/quiz-game",
-      "title": "Quiz",
-      "description": "Add Markdown or React files to src/pages to create a standalone page:",
-      "sidebar": "tutorialSidebar"
-    },
-    "projects/web/esplinHub": {
-      "id": "projects/web/esplinHub",
-      "title": "Gerenciador de Clientes e Produtos",
-      "description": "Add Markdown or React files to src/pages to create a standalone page:",
-      "sidebar": "tutorialSidebar"
-    },
-    "projects/web/test-of-progress": {
-      "id": "projects/web/test-of-progress",
-      "title": "Teste de Progresso",
-      "description": "Add Markdown or React files to src/pages to create a standalone page:",
-      "sidebar": "tutorialSidebar"
-    },
-    "projects/web/web": {
-      "id": "projects/web/web",
-      "title": "Fórum de Tecnologia",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "tools-and-tech/tools-and-techs": {
-      "id": "tools-and-tech/tools-and-techs",
-      "title": "Tecnologias",
+    "Explorar/Projetos/web": {
+      "id": "Explorar/Projetos/web",
+      "title": "🌐 Web",
       "description": "",
       "sidebar": "tutorialSidebar"
     }

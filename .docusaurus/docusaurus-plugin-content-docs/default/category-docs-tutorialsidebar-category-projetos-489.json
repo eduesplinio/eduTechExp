@@ -3,9 +3,13 @@
   "slug": "/category/projetos",
   "permalink": "/docs/category/projetos",
   "navigation": {
+    "previous": {
+      "title": "Explorar",
+      "permalink": "/docs/Explorar"
+    },
     "next": {
       "title": "Mobile",
-      "permalink": "/docs/category/mobile"
+      "permalink": "/docs/Explorar/Projetos/mobile"
     }
   }
 }

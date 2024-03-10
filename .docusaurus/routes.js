@@ -79,115 +79,49 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a4d'),
+    component: ComponentCreator('/docs', 'e32'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '34e'),
+        component: ComponentCreator('/docs', 'ee9'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '870'),
+            component: ComponentCreator('/docs', 'f3f'),
             routes: [
               {
-                path: '/docs/category/cursos',
-                component: ComponentCreator('/docs/category/cursos', '885'),
+                path: '/docs/docs',
+                component: ComponentCreator('/docs/docs', '39c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/desafios',
-                component: ComponentCreator('/docs/category/desafios', 'a32'),
+                path: '/docs/Explorar/Cursos/ciberseguranca',
+                component: ComponentCreator('/docs/Explorar/Cursos/ciberseguranca', 'fe2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/mobile',
-                component: ComponentCreator('/docs/category/mobile', '4c2'),
+                path: '/docs/Explorar/Cursos/programacao',
+                component: ComponentCreator('/docs/Explorar/Cursos/programacao', '66b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/projetos',
-                component: ComponentCreator('/docs/category/projetos', '1a7'),
+                path: '/docs/Explorar/Cursos/redacao-tecnica',
+                component: ComponentCreator('/docs/Explorar/Cursos/redacao-tecnica', 'e9d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/tecnologias',
-                component: ComponentCreator('/docs/category/tecnologias', '942'),
+                path: '/docs/Explorar/Projetos/mobile',
+                component: ComponentCreator('/docs/Explorar/Projetos/mobile', '5db'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/web',
-                component: ComponentCreator('/docs/category/web', 'ddd'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/challenges/hacking-with-swift',
-                component: ComponentCreator('/docs/challenges/hacking-with-swift', 'ebf'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/challenges/pen-test',
-                component: ComponentCreator('/docs/challenges/pen-test', '693'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/courses/cibersecurity',
-                component: ComponentCreator('/docs/courses/cibersecurity', 'eee'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/courses/programing',
-                component: ComponentCreator('/docs/courses/programing', '259'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/courses/techwriting',
-                component: ComponentCreator('/docs/courses/techwriting', 'cce'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/projects/mobile/memory-game',
-                component: ComponentCreator('/docs/projects/mobile/memory-game', '6ab'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/projects/mobile/quiz-game',
-                component: ComponentCreator('/docs/projects/mobile/quiz-game', 'd72'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/projects/web/',
-                component: ComponentCreator('/docs/projects/web/', 'b6d'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/projects/web/esplinHub',
-                component: ComponentCreator('/docs/projects/web/esplinHub', 'b03'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/projects/web/test-of-progress',
-                component: ComponentCreator('/docs/projects/web/test-of-progress', '026'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tools-and-tech/tools-and-techs',
-                component: ComponentCreator('/docs/tools-and-tech/tools-and-techs', '375'),
+                path: '/docs/Explorar/Projetos/web',
+                component: ComponentCreator('/docs/Explorar/Projetos/web', '78c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
