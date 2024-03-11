@@ -1,4 +1,6 @@
 {
   "label": "🧩 Desafios",
+  "collapsible": true,
+  "collapsed": false,
   "position": 3
 }

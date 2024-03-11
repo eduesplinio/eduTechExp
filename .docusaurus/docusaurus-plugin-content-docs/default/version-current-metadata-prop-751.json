@@ -39,7 +39,7 @@
           },
           {
             "type": "category",
-            "label": "🎓 Cursos",
+            "label": "📃 Cursos",
             "collapsible": true,
             "collapsed": false,
             "items": [
@@ -48,6 +48,13 @@
                 "label": "🛡️ Cibersegurança",
                 "href": "/docs/Explorar/Cursos/ciberseguranca",
                 "docId": "Explorar/Cursos/ciberseguranca",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "🎓 Ciência da Computação",
+                "href": "/docs/Explorar/Cursos/ciencia-da-computacao",
+                "docId": "Explorar/Cursos/ciencia-da-computacao",
                 "unlisted": false
               },
               {
@@ -65,6 +72,35 @@
                 "unlisted": false
               }
             ]
+          },
+          {
+            "type": "category",
+            "label": "🧩 Desafios",
+            "collapsible": true,
+            "collapsed": false,
+            "items": [
+              {
+                "type": "link",
+                "label": "🎯 Hacking with Swift",
+                "href": "/docs/Explorar/Desafios/hacking-with-swift",
+                "docId": "Explorar/Desafios/hacking-with-swift",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "🧪 Testes de Intrusão",
+                "href": "/docs/Explorar/Desafios/teste-intrusao",
+                "docId": "Explorar/Desafios/teste-intrusao",
+                "unlisted": false
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "label": "🛠️ Tecnologias",
+            "href": "/docs/Explorar/tecnologias",
+            "docId": "Explorar/tecnologias",
+            "unlisted": false
           }
         ],
         "href": "/docs/docs"
@@ -75,6 +111,12 @@
     "Explorar/Cursos/ciberseguranca": {
       "id": "Explorar/Cursos/ciberseguranca",
       "title": "🛡️ Cibersegurança",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Explorar/Cursos/ciencia-da-computacao": {
+      "id": "Explorar/Cursos/ciencia-da-computacao",
+      "title": "🎓 Ciência da Computação",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
@@ -90,6 +132,18 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
+    "Explorar/Desafios/hacking-with-swift": {
+      "id": "Explorar/Desafios/hacking-with-swift",
+      "title": "🎯 Hacking with Swift",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Explorar/Desafios/teste-intrusao": {
+      "id": "Explorar/Desafios/teste-intrusao",
+      "title": "🧪 Testes de Intrusão",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
     "Explorar/Explorar": {
       "id": "Explorar/Explorar",
       "title": "Docs",
@@ -99,12 +153,18 @@
     "Explorar/Projetos/mobile": {
       "id": "Explorar/Projetos/mobile",
       "title": "📱 Mobile",
-      "description": "",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishin",
       "sidebar": "tutorialSidebar"
     },
     "Explorar/Projetos/web": {
       "id": "Explorar/Projetos/web",
       "title": "🌐 Web",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishin",
+      "sidebar": "tutorialSidebar"
+    },
+    "Explorar/tecnologias": {
+      "id": "Explorar/tecnologias",
+      "title": "🛠️ Tecnologias",
       "description": "",
       "sidebar": "tutorialSidebar"
     }

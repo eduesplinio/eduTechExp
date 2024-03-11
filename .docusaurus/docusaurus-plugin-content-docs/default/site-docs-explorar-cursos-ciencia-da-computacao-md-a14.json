@@ -1,0 +1,25 @@
+{
+  "id": "Explorar/Cursos/ciencia-da-computacao",
+  "title": "🎓 Ciência da Computação",
+  "description": "",
+  "source": "@site/docs/Explorar/Cursos/ciencia-da-computacao.md",
+  "sourceDirName": "Explorar/Cursos",
+  "slug": "/Explorar/Cursos/ciencia-da-computacao",
+  "permalink": "/docs/Explorar/Cursos/ciencia-da-computacao",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar-position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🛡️ Cibersegurança",
+    "permalink": "/docs/Explorar/Cursos/ciberseguranca"
+  },
+  "next": {
+    "title": "💻 Programação",
+    "permalink": "/docs/Explorar/Cursos/programacao"
+  }
+}

@@ -113,26 +113,30 @@
     },
     "content": "content---sobre-mim-576-1bc"
   },
-  "/docs-e32": {
+  "/docs-06f": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docs-5-cf-aeb"
     }
   },
-  "/docs-ee9": {
+  "/docs-981": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-f3f": {
+  "/docs-2bb": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/docs-39c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-explorar-129-d55"
+    "content": "content---docs-docs-129-634"
   },
   "/docs/Explorar/Cursos/ciberseguranca-fe2": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-explorar-cursos-cibersegurancaad-0-c74"
+  },
+  "/docs/Explorar/Cursos/ciencia-da-computacao-b8f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-explorar-cursos-ciencia-da-computacaoa-14-b57"
   },
   "/docs/Explorar/Cursos/programacao-66b": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -142,6 +146,14 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-explorar-cursos-redacao-tecnica-7-e-4-80a"
   },
+  "/docs/Explorar/Desafios/hacking-with-swift-4e0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-explorar-desafios-hacking-with-swift-8-ef-a71"
+  },
+  "/docs/Explorar/Desafios/teste-intrusao-631": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-explorar-desafios-teste-intrusao-7-e-6-905"
+  },
   "/docs/Explorar/Projetos/mobile-5db": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-explorar-projetos-mobile-542-ef0"
@@ -149,6 +161,10 @@
   "/docs/Explorar/Projetos/web-78c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-explorar-projetos-web-0-cd-720"
+  },
+  "/docs/Explorar/tecnologias-fe9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-explorar-tecnologiasc-2-d-0f5"
   },
   "/-363": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

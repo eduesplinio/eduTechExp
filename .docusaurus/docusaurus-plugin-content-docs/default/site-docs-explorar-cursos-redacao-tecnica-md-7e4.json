@@ -8,15 +8,18 @@
   "permalink": "/docs/Explorar/Cursos/redacao-tecnica",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Explorar/Cursos/redacao-tecnica.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "position": 2
+    "sidebar-position": 1
   },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "💻 Programação",
     "permalink": "/docs/Explorar/Cursos/programacao"
+  },
+  "next": {
+    "title": "🎯 Hacking with Swift",
+    "permalink": "/docs/Explorar/Desafios/hacking-with-swift"
   }
 }

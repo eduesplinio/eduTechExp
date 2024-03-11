@@ -11,8 +11,6 @@
           "className": "docs-version-current",
           "path": "/docs",
           "tagsPath": "/docs/tags",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
-          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/pt/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/Users/eduesplinio/Desktop/eduTechExp/sidebars.js",
@@ -29,7 +27,31 @@
               "permalink": "/docs/Explorar/Cursos/ciberseguranca",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Explorar/Cursos/ciberseguranca.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "sidebar-position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "🌐 Web",
+                "permalink": "/docs/Explorar/Projetos/web"
+              },
+              "next": {
+                "title": "🎓 Ciência da Computação",
+                "permalink": "/docs/Explorar/Cursos/ciencia-da-computacao"
+              }
+            },
+            {
+              "id": "Explorar/Cursos/ciencia-da-computacao",
+              "title": "🎓 Ciência da Computação",
+              "description": "",
+              "source": "@site/docs/Explorar/Cursos/ciencia-da-computacao.md",
+              "sourceDirName": "Explorar/Cursos",
+              "slug": "/Explorar/Cursos/ciencia-da-computacao",
+              "permalink": "/docs/Explorar/Cursos/ciencia-da-computacao",
+              "draft": false,
+              "unlisted": false,
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -37,8 +59,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "🌐 Web",
-                "permalink": "/docs/Explorar/Projetos/web"
+                "title": "🛡️ Cibersegurança",
+                "permalink": "/docs/Explorar/Cursos/ciberseguranca"
               },
               "next": {
                 "title": "💻 Programação",
@@ -55,16 +77,15 @@
               "permalink": "/docs/Explorar/Cursos/programacao",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Explorar/Cursos/programacao.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "sidebar-position": 1
+                "sidebar-position": 2
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "🛡️ Cibersegurança",
-                "permalink": "/docs/Explorar/Cursos/ciberseguranca"
+                "title": "🎓 Ciência da Computação",
+                "permalink": "/docs/Explorar/Cursos/ciencia-da-computacao"
               },
               "next": {
                 "title": "📝 Redação Técnica",
@@ -81,16 +102,65 @@
               "permalink": "/docs/Explorar/Cursos/redacao-tecnica",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Explorar/Cursos/redacao-tecnica.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "position": 2
+                "sidebar-position": 1
               },
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "💻 Programação",
                 "permalink": "/docs/Explorar/Cursos/programacao"
+              },
+              "next": {
+                "title": "🎯 Hacking with Swift",
+                "permalink": "/docs/Explorar/Desafios/hacking-with-swift"
+              }
+            },
+            {
+              "id": "Explorar/Desafios/hacking-with-swift",
+              "title": "🎯 Hacking with Swift",
+              "description": "",
+              "source": "@site/docs/Explorar/Desafios/hacking-with-swift.md",
+              "sourceDirName": "Explorar/Desafios",
+              "slug": "/Explorar/Desafios/hacking-with-swift",
+              "permalink": "/docs/Explorar/Desafios/hacking-with-swift",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "📝 Redação Técnica",
+                "permalink": "/docs/Explorar/Cursos/redacao-tecnica"
+              },
+              "next": {
+                "title": "🧪 Testes de Intrusão",
+                "permalink": "/docs/Explorar/Desafios/teste-intrusao"
+              }
+            },
+            {
+              "id": "Explorar/Desafios/teste-intrusao",
+              "title": "🧪 Testes de Intrusão",
+              "description": "",
+              "source": "@site/docs/Explorar/Desafios/teste-intrusao.md",
+              "sourceDirName": "Explorar/Desafios",
+              "slug": "/Explorar/Desafios/teste-intrusao",
+              "permalink": "/docs/Explorar/Desafios/teste-intrusao",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "🎯 Hacking with Swift",
+                "permalink": "/docs/Explorar/Desafios/hacking-with-swift"
+              },
+              "next": {
+                "title": "🛠️ Tecnologias",
+                "permalink": "/docs/Explorar/tecnologias"
               }
             },
             {
@@ -103,7 +173,6 @@
               "permalink": "/docs/docs",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Explorar/Explorar.md",
               "tags": [],
               "version": "current",
               "frontMatter": {
@@ -118,14 +187,13 @@
             {
               "id": "Explorar/Projetos/mobile",
               "title": "📱 Mobile",
-              "description": "",
+              "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishin",
               "source": "@site/docs/Explorar/Projetos/mobile.md",
               "sourceDirName": "Explorar/Projetos",
               "slug": "/Explorar/Projetos/mobile",
               "permalink": "/docs/Explorar/Projetos/mobile",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Explorar/Projetos/mobile.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -142,14 +210,13 @@
             {
               "id": "Explorar/Projetos/web",
               "title": "🌐 Web",
-              "description": "",
+              "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishin",
               "source": "@site/docs/Explorar/Projetos/web.md",
               "sourceDirName": "Explorar/Projetos",
               "slug": "/Explorar/Projetos/web",
               "permalink": "/docs/Explorar/Projetos/web",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Explorar/Projetos/web.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -161,6 +228,25 @@
               "next": {
                 "title": "🛡️ Cibersegurança",
                 "permalink": "/docs/Explorar/Cursos/ciberseguranca"
+              }
+            },
+            {
+              "id": "Explorar/tecnologias",
+              "title": "🛠️ Tecnologias",
+              "description": "",
+              "source": "@site/docs/Explorar/tecnologias.md",
+              "sourceDirName": "Explorar",
+              "slug": "/Explorar/tecnologias",
+              "permalink": "/docs/Explorar/tecnologias",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "🧪 Testes de Intrusão",
+                "permalink": "/docs/Explorar/Desafios/teste-intrusao"
               }
             }
           ],
@@ -191,13 +277,17 @@
                   },
                   {
                     "type": "category",
-                    "label": "🎓 Cursos",
+                    "label": "📃 Cursos",
                     "collapsible": true,
                     "collapsed": false,
                     "items": [
                       {
                         "type": "doc",
                         "id": "Explorar/Cursos/ciberseguranca"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Explorar/Cursos/ciencia-da-computacao"
                       },
                       {
                         "type": "doc",
@@ -208,6 +298,26 @@
                         "id": "Explorar/Cursos/redacao-tecnica"
                       }
                     ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "🧩 Desafios",
+                    "collapsible": true,
+                    "collapsed": false,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Explorar/Desafios/hacking-with-swift"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Explorar/Desafios/teste-intrusao"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Explorar/tecnologias"
                   }
                 ],
                 "link": {
@@ -229,7 +339,6 @@
           "id": "/2024/01/03/ciber/blog/hacker-old-east",
           "metadata": {
             "permalink": "/blog/2024/01/03/ciber/blog/hacker-old-east",
-            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/ciber/blog/2024-01-03-hacker-old-east.md",
             "source": "@site/blog/ciber/blog/2024-01-03-hacker-old-east.md",
             "title": "Hackers e os chapéus do velho-oeste",
             "description": "O bom, o mau e o feio",

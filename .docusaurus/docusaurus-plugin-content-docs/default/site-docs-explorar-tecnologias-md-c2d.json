@@ -1,0 +1,19 @@
+{
+  "id": "Explorar/tecnologias",
+  "title": "🛠️ Tecnologias",
+  "description": "",
+  "source": "@site/docs/Explorar/tecnologias.md",
+  "sourceDirName": "Explorar",
+  "slug": "/Explorar/tecnologias",
+  "permalink": "/docs/Explorar/tecnologias",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🧪 Testes de Intrusão",
+    "permalink": "/docs/Explorar/Desafios/teste-intrusao"
+  }
+}

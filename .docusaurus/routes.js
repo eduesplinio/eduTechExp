@@ -79,15 +79,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e32'),
+    component: ComponentCreator('/docs', '06f'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'ee9'),
+        component: ComponentCreator('/docs', '981'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'f3f'),
+            component: ComponentCreator('/docs', '2bb'),
             routes: [
               {
                 path: '/docs/docs',
@@ -98,6 +98,12 @@ export default [
               {
                 path: '/docs/Explorar/Cursos/ciberseguranca',
                 component: ComponentCreator('/docs/Explorar/Cursos/ciberseguranca', 'fe2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Explorar/Cursos/ciencia-da-computacao',
+                component: ComponentCreator('/docs/Explorar/Cursos/ciencia-da-computacao', 'b8f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -114,6 +120,18 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/Explorar/Desafios/hacking-with-swift',
+                component: ComponentCreator('/docs/Explorar/Desafios/hacking-with-swift', '4e0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Explorar/Desafios/teste-intrusao',
+                component: ComponentCreator('/docs/Explorar/Desafios/teste-intrusao', '631'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/Explorar/Projetos/mobile',
                 component: ComponentCreator('/docs/Explorar/Projetos/mobile', '5db'),
                 exact: true,
@@ -122,6 +140,12 @@ export default [
               {
                 path: '/docs/Explorar/Projetos/web',
                 component: ComponentCreator('/docs/Explorar/Projetos/web', '78c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Explorar/tecnologias',
+                component: ComponentCreator('/docs/Explorar/tecnologias', 'fe9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

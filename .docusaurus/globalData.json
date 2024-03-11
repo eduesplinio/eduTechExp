@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Explorar/Cursos/ciencia-da-computacao",
+              "path": "/docs/Explorar/Cursos/ciencia-da-computacao",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Explorar/Cursos/programacao",
               "path": "/docs/Explorar/Cursos/programacao",
               "sidebar": "tutorialSidebar"
@@ -23,6 +28,16 @@
             {
               "id": "Explorar/Cursos/redacao-tecnica",
               "path": "/docs/Explorar/Cursos/redacao-tecnica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Explorar/Desafios/hacking-with-swift",
+              "path": "/docs/Explorar/Desafios/hacking-with-swift",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Explorar/Desafios/teste-intrusao",
+              "path": "/docs/Explorar/Desafios/teste-intrusao",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -38,6 +53,11 @@
             {
               "id": "Explorar/Projetos/web",
               "path": "/docs/Explorar/Projetos/web",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Explorar/tecnologias",
+              "path": "/docs/Explorar/tecnologias",
               "sidebar": "tutorialSidebar"
             }
           ],
