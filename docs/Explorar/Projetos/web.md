@@ -10,10 +10,12 @@ Aqui, compartilho uma variedade de projetos que desenvolvi, desde aplicações s
 esplinHub é uma aplicação web desenvolvida em Vue.js, focada no gerenciamento eficiente de clientes e produtos. Criei visando oferecer uma interface amigável e interativa para o gerenciamento de clientes e produtos.
 
 Confira o vídeo de apresentação do projeto, onde mostro todas as telas, recursos e ferramentas!
-<video width="955" height="600" controls>
+<video width="100%" height="auto" controls>
   <source src="/img/esplinHub-apresentacao.mp4" type="video/mp4" />
 </video>
 
+<br/>
+<br/>
 
 :::tip Saiba mais!
 Dê uma olhada na **[Documentação Técnica](https://esplinhubdocs-projeto.vercel.app/)** do projeto e na **[Documentação para Clientes](https://esplinhubdocs.vercel.app)**. 📗
