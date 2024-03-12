@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "Explorar/Explorar",
+          "mainDocId": "Explorar/explorar",
           "docs": [
             {
               "id": "Explorar/Cursos/ciberseguranca",
@@ -36,12 +36,12 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Explorar/Desafios/teste-intrusao",
-              "path": "/docs/Explorar/Desafios/teste-intrusao",
+              "id": "Explorar/Desafios/teste",
+              "path": "/docs/Explorar/Desafios/teste",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Explorar/Explorar",
+              "id": "Explorar/explorar",
               "path": "/docs/docs",
               "sidebar": "tutorialSidebar"
             },

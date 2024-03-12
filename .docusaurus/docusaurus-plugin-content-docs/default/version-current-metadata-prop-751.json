@@ -39,9 +39,31 @@
           },
           {
             "type": "category",
-            "label": "📃 Cursos",
+            "label": "🧩 Desafios",
             "collapsible": true,
             "collapsed": false,
+            "items": [
+              {
+                "type": "link",
+                "label": "🎯 Hacking with Swift",
+                "href": "/docs/Explorar/Desafios/hacking-with-swift",
+                "docId": "Explorar/Desafios/hacking-with-swift",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "🧪 Testes de Intrusão",
+                "href": "/docs/Explorar/Desafios/teste",
+                "docId": "Explorar/Desafios/teste",
+                "unlisted": false
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "📃 Cursos",
+            "collapsible": true,
+            "collapsed": true,
             "items": [
               {
                 "type": "link",
@@ -69,28 +91,6 @@
                 "label": "📝 Redação Técnica",
                 "href": "/docs/Explorar/Cursos/redacao-tecnica",
                 "docId": "Explorar/Cursos/redacao-tecnica",
-                "unlisted": false
-              }
-            ]
-          },
-          {
-            "type": "category",
-            "label": "🧩 Desafios",
-            "collapsible": true,
-            "collapsed": false,
-            "items": [
-              {
-                "type": "link",
-                "label": "🎯 Hacking with Swift",
-                "href": "/docs/Explorar/Desafios/hacking-with-swift",
-                "docId": "Explorar/Desafios/hacking-with-swift",
-                "unlisted": false
-              },
-              {
-                "type": "link",
-                "label": "🧪 Testes de Intrusão",
-                "href": "/docs/Explorar/Desafios/teste-intrusao",
-                "docId": "Explorar/Desafios/teste-intrusao",
                 "unlisted": false
               }
             ]
@@ -138,16 +138,16 @@
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "Explorar/Desafios/teste-intrusao": {
-      "id": "Explorar/Desafios/teste-intrusao",
+    "Explorar/Desafios/teste": {
+      "id": "Explorar/Desafios/teste",
       "title": "🧪 Testes de Intrusão",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "Explorar/Explorar": {
-      "id": "Explorar/Explorar",
-      "title": "Docs",
-      "description": "",
+    "Explorar/explorar": {
+      "id": "Explorar/explorar",
+      "title": "Bem-vindo à Minha Biblioteca Virtual! 📚",
+      "description": "---",
       "sidebar": "tutorialSidebar"
     },
     "Explorar/Projetos/mobile": {

@@ -1,8 +1,8 @@
 {
-  "id": "Explorar/Explorar",
+  "id": "Explorar/explorar",
   "title": "Bem-vindo à Minha Biblioteca Virtual! 📚",
   "description": "---",
-  "source": "@site/docs/Explorar/Explorar.md",
+  "source": "@site/docs/Explorar/explorar.md",
   "sourceDirName": "Explorar",
   "slug": "/docs",
   "permalink": "/docs/docs",

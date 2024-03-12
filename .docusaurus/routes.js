@@ -79,19 +79,19 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '06f'),
+    component: ComponentCreator('/docs', 'ab5'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '981'),
+        component: ComponentCreator('/docs', 'd6d'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '2bb'),
+            component: ComponentCreator('/docs', 'a1c'),
             routes: [
               {
                 path: '/docs/docs',
-                component: ComponentCreator('/docs/docs', '39c'),
+                component: ComponentCreator('/docs/docs', '3d6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -103,7 +103,7 @@ export default [
               },
               {
                 path: '/docs/Explorar/Cursos/ciencia-da-computacao',
-                component: ComponentCreator('/docs/Explorar/Cursos/ciencia-da-computacao', 'b8f'),
+                component: ComponentCreator('/docs/Explorar/Cursos/ciencia-da-computacao', '718'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -121,13 +121,13 @@ export default [
               },
               {
                 path: '/docs/Explorar/Desafios/hacking-with-swift',
-                component: ComponentCreator('/docs/Explorar/Desafios/hacking-with-swift', '4e0'),
+                component: ComponentCreator('/docs/Explorar/Desafios/hacking-with-swift', '0e6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Explorar/Desafios/teste-intrusao',
-                component: ComponentCreator('/docs/Explorar/Desafios/teste-intrusao', '631'),
+                path: '/docs/Explorar/Desafios/teste',
+                component: ComponentCreator('/docs/Explorar/Desafios/teste', '17d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
