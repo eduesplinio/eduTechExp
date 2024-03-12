@@ -1,10 +1,21 @@
 # 🌐 Web
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishin
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishin
+Bem-vindo ao meu portfólio de projetos **Web**! 
+Aqui, compartilho uma variedade de projetos que desenvolvi, desde aplicações simples até soluções mais complexas. Explore cada projeto para entender melhor suas funcionalidades e tecnologias utilizadas.
 
 <br/>
 
-## 📦 esplinHub
+## 📦 esplinHub - Gerenciador de Clientes e Produtos
 ---
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishin
+
+esplinHub é uma aplicação web desenvolvida em Vue.js, focada no gerenciamento eficiente de clientes e produtos. Criei visando oferecer uma interface amigável e interativa para o gerenciamento de clientes e produtos.
+
+Confira o vídeo de apresentação do projeto, onde mostro todas as telas, recursos e ferramentas!
+<video width="955" height="600" controls>
+  <source src="/img/esplinHub-apresentacao.mp4" type="video/mp4" />
+</video>
+
+
+:::tip Saiba mais!
+Dê uma olhada na **[Documentação Técnica](https://esplinhubdocs-projeto.vercel.app/)** do projeto e na **[Documentação para Clientes](https://esplinhubdocs.vercel.app)**. 📗
+:::
+
