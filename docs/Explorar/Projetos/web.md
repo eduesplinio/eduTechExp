@@ -7,7 +7,10 @@ Aqui, compartilho uma variedade de projetos que desenvolvi, desde aplicações s
 ## 📦 esplinHub - Gerenciador de Clientes e Produtos
 ---
 
-esplinHub é uma aplicação web desenvolvida em Vue.js, focada no gerenciamento eficiente de clientes e produtos. Criei visando oferecer uma interface amigável e interativa para o gerenciamento de clientes e produtos.
+**[esplinHub](https//:esplin.com.br)** é uma aplicação web que desenvolvi em Vue.js, com foco no gerenciamento eficiente de clientes e produtos. Criei esta plataforma para oferecer uma experiência intuitiva e interativa, tornando o processo de gerenciamento mais ágil e eficaz. 
+
+Implementei um sistema completo de **CRUD** (**C**reate, **R**ead, **U**pdate, **D**elete), proporcionando todas as ferramentas necessárias para controlar e organizar os dados de forma eficiente.
+
 
 Confira o vídeo de apresentação do projeto, onde mostro todas as telas, recursos e ferramentas!
 <video width="100%" height="auto" controls>
