@@ -79,15 +79,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'ab5'),
+    component: ComponentCreator('/docs', 'cd4'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd6d'),
+        component: ComponentCreator('/docs', '61f'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'a1c'),
+            component: ComponentCreator('/docs', 'ec6'),
             routes: [
               {
                 path: '/docs/docs',
@@ -103,7 +103,7 @@ export default [
               },
               {
                 path: '/docs/Explorar/Cursos/ciencia-da-computacao',
-                component: ComponentCreator('/docs/Explorar/Cursos/ciencia-da-computacao', '718'),
+                component: ComponentCreator('/docs/Explorar/Cursos/ciencia-da-computacao', 'b8f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

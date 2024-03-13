@@ -46,7 +46,7 @@
               "id": "Explorar/Cursos/ciencia-da-computacao",
               "title": "🎓 Ciência da Computação",
               "description": "",
-              "source": "@site/docs/Explorar/Cursos/ciencia-da-computacao.mdx",
+              "source": "@site/docs/Explorar/Cursos/ciencia-da-computacao.md",
               "sourceDirName": "Explorar/Cursos",
               "slug": "/Explorar/Cursos/ciencia-da-computacao",
               "permalink": "/docs/Explorar/Cursos/ciencia-da-computacao",
@@ -93,7 +93,7 @@
             {
               "id": "Explorar/Cursos/redacao-tecnica",
               "title": "📝 Redação Técnica",
-              "description": "",
+              "description": "Confira minha jornada de descobertas em Redação Técnica (Technical Writing)!",
               "source": "@site/docs/Explorar/Cursos/redacao-tecnica.md",
               "sourceDirName": "Explorar/Cursos",
               "slug": "/Explorar/Cursos/redacao-tecnica",
