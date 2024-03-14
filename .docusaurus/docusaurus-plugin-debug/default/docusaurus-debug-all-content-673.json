@@ -68,7 +68,7 @@
             {
               "id": "Explorar/Cursos/programacao",
               "title": "💻 Programação",
-              "description": "",
+              "description": "Aqui, compartilho minha jornada de aprendizado em Programação, destacando cursos concluídos e projetos atuais.",
               "source": "@site/docs/Explorar/Cursos/programacao.md",
               "sourceDirName": "Explorar/Cursos",
               "slug": "/Explorar/Cursos/programacao",
