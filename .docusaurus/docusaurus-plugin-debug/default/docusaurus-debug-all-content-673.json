@@ -13,9 +13,9 @@
           "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/eduesplinio/Desktop/eduTechExp/sidebars.js",
-          "contentPath": "/Users/eduesplinio/Desktop/eduTechExp/docs",
-          "contentPathLocalized": "/Users/eduesplinio/Desktop/eduTechExp/i18n/pt/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/workspaces/eduTechExp/sidebars.js",
+          "contentPath": "/workspaces/eduTechExp/docs",
+          "contentPathLocalized": "/workspaces/eduTechExp/i18n/pt/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "id": "Explorar/Cursos/ciberseguranca",
@@ -45,7 +45,7 @@
             {
               "id": "Explorar/Cursos/ciencia-da-computacao",
               "title": "🎓 Ciência da Computação",
-              "description": "",
+              "description": "Conheça os cursos de Ciência da Computação que tenho feito.",
               "source": "@site/docs/Explorar/Cursos/ciencia-da-computacao.md",
               "sourceDirName": "Explorar/Cursos",
               "slug": "/Explorar/Cursos/ciencia-da-computacao",
@@ -78,7 +78,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "sidebar-position": 2
+                "sidebar-position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -293,7 +293,7 @@
                     "type": "category",
                     "label": "📃 Cursos",
                     "collapsible": true,
-                    "collapsed": true,
+                    "collapsed": false,
                     "items": [
                       {
                         "type": "doc",

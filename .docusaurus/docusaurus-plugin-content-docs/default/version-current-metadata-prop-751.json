@@ -63,7 +63,7 @@
             "type": "category",
             "label": "📃 Cursos",
             "collapsible": true,
-            "collapsed": true,
+            "collapsed": false,
             "items": [
               {
                 "type": "link",
@@ -117,7 +117,7 @@
     "Explorar/Cursos/ciencia-da-computacao": {
       "id": "Explorar/Cursos/ciencia-da-computacao",
       "title": "🎓 Ciência da Computação",
-      "description": "",
+      "description": "Conheça os cursos de Ciência da Computação que tenho feito.",
       "sidebar": "tutorialSidebar"
     },
     "Explorar/Cursos/programacao": {
