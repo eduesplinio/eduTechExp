@@ -13,9 +13,9 @@
           "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/workspaces/eduTechExp/sidebars.js",
-          "contentPath": "/workspaces/eduTechExp/docs",
-          "contentPathLocalized": "/workspaces/eduTechExp/i18n/pt/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/eduesplinio/Desktop/eduTechExp/sidebars.js",
+          "contentPath": "/Users/eduesplinio/Desktop/eduTechExp/docs",
+          "contentPathLocalized": "/Users/eduesplinio/Desktop/eduTechExp/i18n/pt/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "id": "Explorar/Cursos/ciberseguranca",
@@ -231,7 +231,7 @@
             {
               "id": "Explorar/tecnologias",
               "title": "🛠️ Tecnologias",
-              "description": "",
+              "description": "Desde controle de versão até desenvolvimento de interfaces de usuário, passando por gerenciamento de projetos e sistemas operacionais, abaixo estão algumas das habilidades e ferramentas que tenho utilizado em minha jornada profissional.",
               "source": "@site/docs/Explorar/tecnologias.md",
               "sourceDirName": "Explorar",
               "slug": "/Explorar/tecnologias",
@@ -261,7 +261,7 @@
                     "type": "category",
                     "label": "🚀 Projetos",
                     "collapsible": true,
-                    "collapsed": false,
+                    "collapsed": true,
                     "items": [
                       {
                         "type": "doc",
@@ -277,7 +277,7 @@
                     "type": "category",
                     "label": "🧩 Desafios",
                     "collapsible": true,
-                    "collapsed": false,
+                    "collapsed": true,
                     "items": [
                       {
                         "type": "doc",
@@ -293,7 +293,7 @@
                     "type": "category",
                     "label": "📃 Cursos",
                     "collapsible": true,
-                    "collapsed": false,
+                    "collapsed": true,
                     "items": [
                       {
                         "type": "doc",

@@ -19,7 +19,7 @@
             "type": "category",
             "label": "🚀 Projetos",
             "collapsible": true,
-            "collapsed": false,
+            "collapsed": true,
             "items": [
               {
                 "type": "link",
@@ -41,7 +41,7 @@
             "type": "category",
             "label": "🧩 Desafios",
             "collapsible": true,
-            "collapsed": false,
+            "collapsed": true,
             "items": [
               {
                 "type": "link",
@@ -63,7 +63,7 @@
             "type": "category",
             "label": "📃 Cursos",
             "collapsible": true,
-            "collapsed": false,
+            "collapsed": true,
             "items": [
               {
                 "type": "link",
@@ -165,7 +165,7 @@
     "Explorar/tecnologias": {
       "id": "Explorar/tecnologias",
       "title": "🛠️ Tecnologias",
-      "description": "",
+      "description": "Desde controle de versão até desenvolvimento de interfaces de usuário, passando por gerenciamento de projetos e sistemas operacionais, abaixo estão algumas das habilidades e ferramentas que tenho utilizado em minha jornada profissional.",
       "sidebar": "tutorialSidebar"
     }
   }

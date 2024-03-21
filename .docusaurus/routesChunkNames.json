@@ -1,51 +1,51 @@
 {
-  "/__docusaurus/debug-2b0": {
+  "/__docusaurus/debug-7d3": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-45-688"
+      "plugin": "plugin---docusaurus-debugf-2-b-743"
     }
   },
-  "/__docusaurus/debug/config-2f9": {
+  "/__docusaurus/debug/config-7ec": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-45-688"
+      "plugin": "plugin---docusaurus-debugf-2-b-743"
     }
   },
-  "/__docusaurus/debug/content-838": {
+  "/__docusaurus/debug/content-654": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-45-688"
+      "plugin": "plugin---docusaurus-debugf-2-b-743"
     },
     "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/__docusaurus/debug/globalData-bda": {
+  "/__docusaurus/debug/globalData-627": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-45-688"
+      "plugin": "plugin---docusaurus-debugf-2-b-743"
     }
   },
-  "/__docusaurus/debug/metadata-f59": {
+  "/__docusaurus/debug/metadata-706": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-45-688"
+      "plugin": "plugin---docusaurus-debugf-2-b-743"
     }
   },
-  "/__docusaurus/debug/registry-9e5": {
+  "/__docusaurus/debug/registry-fa6": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-45-688"
+      "plugin": "plugin---docusaurus-debugf-2-b-743"
     }
   },
-  "/__docusaurus/debug/routes-1d5": {
+  "/__docusaurus/debug/routes-acf": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-45-688"
+      "plugin": "plugin---docusaurus-debugf-2-b-743"
     }
   },
-  "/blog-dcf": {
+  "/blog-2d6": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---blogfd-0-ffa"
+      "plugin": "plugin---blog-560-9f7"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -55,33 +55,33 @@
     ],
     "metadata": "metadata---blogb-2-b-df1"
   },
-  "/blog/2024/01/03/ciber/blog/hacker-old-east-c23": {
+  "/blog/2024/01/03/ciber/blog/hacker-old-east-41b": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---blogfd-0-ffa"
+      "plugin": "plugin---blog-560-9f7"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-2024-01-03-ciber-blog-hacker-old-easte-0-a-1e9"
   },
-  "/blog/archive-dbb": {
+  "/blog/archive-039": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---blogfd-0-ffa"
+      "plugin": "plugin---blog-560-9f7"
     },
     "archive": "archive---blog-archiveb-2-f-393"
   },
-  "/blog/tags-3d3": {
+  "/blog/tags-6e6": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---blogfd-0-ffa"
+      "plugin": "plugin---blog-560-9f7"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "tags": "tags---blog-tagsa-70-da2"
   },
-  "/blog/tags/ciberseguranca-d89": {
+  "/blog/tags/ciberseguranca-cc9": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blogfd-0-ffa"
+      "plugin": "plugin---blog-560-9f7"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -92,31 +92,31 @@
     "tag": "tag---blog-tags-ciberseguranca-4-bd-071",
     "listMetadata": "listMetadata---blog-tags-ciberseguranca-302-7de"
   },
-  "/markdown-page-3df": {
+  "/markdown-page-e37": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-page-853-02b"
+      "plugin": "plugin---markdown-paged-4-e-b87"
     },
     "content": "content---markdown-page-393-028"
   },
-  "/projects-a25": {
+  "/projects-c89": {
     "__comp": "__comp---site-src-pages-projects-jsee-7-a5f",
     "__context": {
-      "plugin": "plugin---markdown-page-853-02b"
+      "plugin": "plugin---markdown-paged-4-e-b87"
     },
     "config": "config---projects-5-e-9-d4c"
   },
-  "/sobre-mim-b04": {
+  "/sobre-mim-04d": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-page-853-02b"
+      "plugin": "plugin---markdown-paged-4-e-b87"
     },
     "content": "content---sobre-mim-576-1bc"
   },
-  "/docs-b40": {
+  "/docs-cd4": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---docs-3-f-7-2df"
+      "plugin": "plugin---docs-5-cf-aeb"
     }
   },
   "/docs-61f": {
@@ -166,10 +166,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-explorar-tecnologiasc-2-d-0f5"
   },
-  "/-b26": {
+  "/-363": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---markdown-page-853-02b"
+      "plugin": "plugin---markdown-paged-4-e-b87"
     },
     "config": "config---projects-5-e-9-d4c"
   }
