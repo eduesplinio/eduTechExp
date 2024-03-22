@@ -7,13 +7,17 @@ const config = {
   favicon: 'img/eduTechExp-logo.svg',
 
   // Set the production url of your site here
-  url: 'https://edu-tech-exp-ten.vercel.app',
+  url: 'https://edutechexp.me                                       ',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+
+  deploymentBranch: 'deployment',
+  projectName: 'eduTechExp',
+  organizationName: 'eduesplinio',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you

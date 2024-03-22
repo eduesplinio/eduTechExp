@@ -5,8 +5,6 @@ tags: [cibersegurança]
 hide_table_of_contents: false
 ---
 
-![O bom, o mau e o feio](bom-mau-feio.jpg)
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius libero eget neque consequat, id venenatis justo ullamcorper. Nullam vehicula sem vitae metus fermentum, ut posuere urna tincidunt. Vivamus id purus lobortis, rutrum metus a, ultrices turpis. Integer vitae consectetur nunc. Donec tincidunt, quam vitae rhoncus consequat, eros ipsum dapibus magna, non consectetur ex libero vitae libero.
 
 <!-- truncate -->

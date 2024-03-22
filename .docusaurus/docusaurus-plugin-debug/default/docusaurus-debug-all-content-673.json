@@ -261,7 +261,7 @@
                     "type": "category",
                     "label": "🚀 Projetos",
                     "collapsible": true,
-                    "collapsed": true,
+                    "collapsed": false,
                     "items": [
                       {
                         "type": "doc",
@@ -277,7 +277,7 @@
                     "type": "category",
                     "label": "🧩 Desafios",
                     "collapsible": true,
-                    "collapsed": true,
+                    "collapsed": false,
                     "items": [
                       {
                         "type": "doc",
@@ -293,7 +293,7 @@
                     "type": "category",
                     "label": "📃 Cursos",
                     "collapsible": true,
-                    "collapsed": true,
+                    "collapsed": false,
                     "items": [
                       {
                         "type": "doc",

@@ -1,176 +1,133 @@
 {
-  "/__docusaurus/debug-7d3": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/blog-ac0": {
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---docusaurus-debugf-2-b-743"
-    }
-  },
-  "/__docusaurus/debug/config-7ec": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugf-2-b-743"
-    }
-  },
-  "/__docusaurus/debug/content-654": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugf-2-b-743"
+      "plugin": "ff14c81f"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
-  },
-  "/__docusaurus/debug/globalData-627": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugf-2-b-743"
-    }
-  },
-  "/__docusaurus/debug/metadata-706": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugf-2-b-743"
-    }
-  },
-  "/__docusaurus/debug/registry-fa6": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugf-2-b-743"
-    }
-  },
-  "/__docusaurus/debug/routes-acf": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugf-2-b-743"
-    }
-  },
-  "/blog-2d6": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
-    "__context": {
-      "plugin": "plugin---blog-560-9f7"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-2-ad-d11"
+        "content": "2ad98034"
       }
     ],
-    "metadata": "metadata---blogb-2-b-df1"
+    "metadata": "b2b675dd"
   },
-  "/blog/2024/01/03/ciber/blog/hacker-old-east-41b": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/blog/2024/01/03/ciber/blog/hacker-old-east-98c": {
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---blog-560-9f7"
+      "plugin": "ff14c81f"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2024-01-03-ciber-blog-hacker-old-easte-0-a-1e9"
+    "sidebar": "814f3328",
+    "content": "e0a83e71"
   },
-  "/blog/archive-039": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+  "/blog/archive-3ab": {
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---blog-560-9f7"
+      "plugin": "ff14c81f"
     },
-    "archive": "archive---blog-archiveb-2-f-393"
+    "archive": "b2f554cd"
   },
-  "/blog/tags-6e6": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+  "/blog/tags-465": {
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---blog-560-9f7"
+      "plugin": "ff14c81f"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "tags": "tags---blog-tagsa-70-da2"
+    "sidebar": "814f3328",
+    "tags": "a7023ddc"
   },
-  "/blog/tags/ciberseguranca-cc9": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/blog/tags/ciberseguranca-56b": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---blog-560-9f7"
+      "plugin": "ff14c81f"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-2-ad-d11"
+        "content": "2ad98034"
       }
     ],
-    "tag": "tag---blog-tags-ciberseguranca-4-bd-071",
-    "listMetadata": "listMetadata---blog-tags-ciberseguranca-302-7de"
+    "tag": "4bd0d95b",
+    "listMetadata": "3029173e"
   },
-  "/markdown-page-e37": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+  "/markdown-page-227": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-paged-4-e-b87"
+      "plugin": "db4f410c"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "393be207"
   },
-  "/projects-c89": {
-    "__comp": "__comp---site-src-pages-projects-jsee-7-a5f",
+  "/projects-569": {
+    "__comp": "ee7ef1d2",
     "__context": {
-      "plugin": "plugin---markdown-paged-4-e-b87"
+      "plugin": "db4f410c"
     },
-    "config": "config---projects-5-e-9-d4c"
+    "config": "5e9f5e1a"
   },
-  "/sobre-mim-04d": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+  "/sobre-mim-998": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-paged-4-e-b87"
+      "plugin": "db4f410c"
     },
-    "content": "content---sobre-mim-576-1bc"
+    "content": "5768a0f6"
   },
-  "/docs-cd4": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+  "/docs-fe3": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docs-5-cf-aeb"
+      "plugin": "3180d614"
     }
   },
   "/docs-61f": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "version": "version---docs-935-398"
+    "__comp": "a7bd4aaa",
+    "version": "935f2afb"
   },
   "/docs-ec6": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/docs/docs-3d6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-docs-4-a-1-05b"
+    "__comp": "17896441",
+    "content": "4a1f1f3b"
   },
   "/docs/Explorar/Cursos/ciberseguranca-fe2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-explorar-cursos-cibersegurancaad-0-c74"
+    "__comp": "17896441",
+    "content": "ad0e3623"
   },
   "/docs/Explorar/Cursos/ciencia-da-computacao-b8f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-explorar-cursos-ciencia-da-computacaoa-14-b57"
+    "__comp": "17896441",
+    "content": "a146d88d"
   },
   "/docs/Explorar/Cursos/programacao-66b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-explorar-cursos-programacao-829-f5f"
+    "__comp": "17896441",
+    "content": "829ed512"
   },
   "/docs/Explorar/Cursos/redacao-tecnica-e9d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-explorar-cursos-redacao-tecnica-7-e-4-80a"
+    "__comp": "17896441",
+    "content": "7e4f2e80"
   },
   "/docs/Explorar/Desafios/hacking-with-swift-0e6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-explorar-desafios-hacking-with-swifte-4-a-27c"
+    "__comp": "17896441",
+    "content": "e4af2f79"
   },
   "/docs/Explorar/Desafios/teste-17d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-explorar-desafios-teste-332-584"
+    "__comp": "17896441",
+    "content": "332fe40d"
   },
   "/docs/Explorar/Projetos/mobile-5db": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-explorar-projetos-mobile-542-ef0"
+    "__comp": "17896441",
+    "content": "542b1012"
   },
   "/docs/Explorar/Projetos/web-78c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-explorar-projetos-web-0-cd-720"
+    "__comp": "17896441",
+    "content": "0cd19430"
   },
   "/docs/Explorar/tecnologias-fe9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-explorar-tecnologiasc-2-d-0f5"
+    "__comp": "17896441",
+    "content": "c2dc2765"
   },
-  "/-363": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+  "/-4d5": {
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---markdown-paged-4-e-b87"
+      "plugin": "db4f410c"
     },
-    "config": "config---projects-5-e-9-d4c"
+    "config": "5e9f5e1a"
   }
 }
