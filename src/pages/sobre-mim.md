@@ -27,11 +27,11 @@ Tenho experiência em redação técnica há mais de 5 anos, onde desenvolvi hab
 
 Meus principais interesses incluem:
 
-🛡️ [Cibersegurança](/docs/Explorar/Cursos/ciberseguranca): estou constantemente atento às últimas tendências e técnicas de segurança cibernética para garantir a proteção de dados e sistemas. Além disso, estou aprimorando minha compreensão em técnicas de invasão, a fim de fortalecer as defesas e antecipar potenciais vulnerabilidades.
+📱[Mobile](/docs/Explorar/Projetos/mobile): tenho explorado o desenvolvimento de aplicativos para dispositivos Apple usando a linguagem Swift.
 
 🌐 [Web](/docs/Explorar/Projetos/web): gosto de criar interfaces de usuário incríveis e responsivas, utilizando as mais recentes tecnologias e frameworks.
 
-📱[Mobile](/docs/Explorar/Projetos/mobile): tenho curtido explorar o desenvolvimento de aplicativos para dispositivos Apple usando a linguagem Swift.
+🛡️ [Cibersegurança](/docs/Explorar/Cursos/ciberseguranca): estou constantemente atento às últimas tendências e técnicas de segurança cibernética para garantir a proteção de dados e sistemas. 
 
 <br/>
 <br/>
