@@ -6,11 +6,11 @@ const config = {
   tagline: 'Desvendando o complexo para impulsionar a inovação digital.',
   favicon: 'img/eduTechExp-logo.svg',
 
-  // Set the production url of your site here
-  url: 'https://edutechexp.me                                       ',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
+  url: 'https://edutechexp.me ', // Your website URL
   baseUrl: '/',
+  projectName: 'eduTechExp',
+  organizationName: 'eduesplinio',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

@@ -7,13 +7,14 @@ export default {
   "title": "eduTech Exp",
   "tagline": "Desvendando o complexo para impulsionar a inovação digital.",
   "favicon": "img/eduTechExp-logo.svg",
-  "url": "https://edutechexp.me                                       ",
+  "url": "https://edutechexp.me ",
   "baseUrl": "/",
+  "projectName": "eduTechExp",
+  "organizationName": "eduesplinio",
+  "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "deploymentBranch": "deployment",
-  "projectName": "eduTechExp",
-  "organizationName": "eduesplinio",
   "i18n": {
     "defaultLocale": "pt",
     "locales": [

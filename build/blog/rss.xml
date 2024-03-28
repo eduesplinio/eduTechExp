@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>eduTech Exp Blog</title>
-        <link>https://edutechexp.me                                       /blog</link>
+        <link>https://edutechexp.me /blog</link>
         <description>eduTech Exp Blog</description>
         <lastBuildDate>Wed, 03 Jan 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>pt</language>
         <item>
             <title><![CDATA[Hackers e os chapéus do velho-oeste]]></title>
-            <link>https://edutechexp.me                                       /blog/2024/01/03/ciber/blog/hacker-old-east</link>
-            <guid>https://edutechexp.me                                       /blog/2024/01/03/ciber/blog/hacker-old-east</guid>
+            <link>https://edutechexp.me /blog/2024/01/03/ciber/blog/hacker-old-east</link>
+            <guid>https://edutechexp.me /blog/2024/01/03/ciber/blog/hacker-old-east</guid>
             <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius libero eget neque consequat, id venenatis justo ullamcorper. Nullam vehicula sem vitae metus fermentum, ut posuere urna tincidunt. Vivamus id purus lobortis, rutrum metus a, ultrices turpis. Integer vitae consectetur nunc. Donec tincidunt, quam vitae rhoncus consequat, eros ipsum dapibus magna, non consectetur ex libero vitae libero.]]></description>
             <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius libero eget neque consequat, id venenatis justo ullamcorper. Nullam vehicula sem vitae metus fermentum, ut posuere urna tincidunt. Vivamus id purus lobortis, rutrum metus a, ultrices turpis. Integer vitae consectetur nunc. Donec tincidunt, quam vitae rhoncus consequat, eros ipsum dapibus magna, non consectetur ex libero vitae libero.</p>
