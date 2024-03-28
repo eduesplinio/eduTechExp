@@ -13,7 +13,7 @@ Tenho me envolvido em um mundo de aprendizado que abrange desde os fundamentos a
 <br/>
 
 
-## CS50 - Harvard
+## CC50 - Harvard
 ---
 [![Curso de Ciência da Computação - Harvard](/img/cc50-harvard.png)](https://fundacao-estudar.myedools.com/cc50-o-curso-de-ciencia-da-computacao-de-harvard)
 

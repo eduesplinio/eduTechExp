@@ -7,7 +7,7 @@ hide_table_of_contents: false
 ## 👨🏼‍💻 Sobre Mim
 ----
 
-Olá! Meu nome é Eduardo Esplinio e sou apaixonado por tecnologia, especialmente nas áreas de cibersegurança, desenvolvimento web e mobile. 
+Olá! Meu nome é Eduardo Esplinio e sou entusiasta de tecnologia, especialmente nas áreas de programação mobile e web, e cibersegurança. 
 
 Atualmente, estudo ciência da computação e trabalho com redação técnica, onde posso unir minha paixão pela escrita com meu interesse em tecnologia. 
 
