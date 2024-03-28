@@ -7,7 +7,7 @@ const config = {
   favicon: 'img/eduTechExp-logo.svg',
 
   url: 'https://edutechexp.me ', // Your website URL
-  baseUrl: '',
+  baseUrl: '/eduTechExp/',
   projectName: 'eduTechExp',
   organizationName: 'eduesplinio',
   trailingSlash: false,
