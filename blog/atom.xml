@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://edutechexp.me /blog</id>
+    <id>https://edutechexp.me/eduTechExp/blog</id>
     <title>eduTech Exp Blog</title>
     <updated>2024-01-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://edutechexp.me /blog"/>
+    <link rel="alternate" href="https://edutechexp.me/eduTechExp/blog"/>
     <subtitle>eduTech Exp Blog</subtitle>
-    <icon>https://edutechexp.me /img/eduTechExp-logo.svg</icon>
+    <icon>https://edutechexp.me/eduTechExp/img/eduTechExp-logo.svg</icon>
     <entry>
         <title type="html"><![CDATA[Hackers e os chapéus do velho-oeste]]></title>
-        <id>https://edutechexp.me /blog/2024/01/03/ciber/blog/hacker-old-east</id>
-        <link href="https://edutechexp.me /blog/2024/01/03/ciber/blog/hacker-old-east"/>
+        <id>https://edutechexp.me/eduTechExp/blog/2024/01/03/ciber/blog/hacker-old-east</id>
+        <link href="https://edutechexp.me/eduTechExp/blog/2024/01/03/ciber/blog/hacker-old-east"/>
         <updated>2024-01-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius libero eget neque consequat, id venenatis justo ullamcorper. Nullam vehicula sem vitae metus fermentum, ut posuere urna tincidunt. Vivamus id purus lobortis, rutrum metus a, ultrices turpis. Integer vitae consectetur nunc. Donec tincidunt, quam vitae rhoncus consequat, eros ipsum dapibus magna, non consectetur ex libero vitae libero.]]></summary>
         <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius libero eget neque consequat, id venenatis justo ullamcorper. Nullam vehicula sem vitae metus fermentum, ut posuere urna tincidunt. Vivamus id purus lobortis, rutrum metus a, ultrices turpis. Integer vitae consectetur nunc. Donec tincidunt, quam vitae rhoncus consequat, eros ipsum dapibus magna, non consectetur ex libero vitae libero.</p>
