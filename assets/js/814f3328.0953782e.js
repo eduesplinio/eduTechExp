@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hackers e os chap\xe9us do velho-oeste","permalink":"/blog/2024/01/03/ciber/blog/hacker-old-east","unlisted":false}]}')}}]);
