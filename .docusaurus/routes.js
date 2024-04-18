@@ -3,114 +3,114 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '2d6'),
+    path: '/eduTechExp/blog',
+    component: ComponentCreator('/eduTechExp/blog', 'e76'),
     exact: true
   },
   {
-    path: '/blog/2024/01/03/ciber/blog/hacker-old-east',
-    component: ComponentCreator('/blog/2024/01/03/ciber/blog/hacker-old-east', '41b'),
+    path: '/eduTechExp/blog/2024/01/03/ciber/blog/hacker-old-east',
+    component: ComponentCreator('/eduTechExp/blog/2024/01/03/ciber/blog/hacker-old-east', '26f'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '039'),
+    path: '/eduTechExp/blog/archive',
+    component: ComponentCreator('/eduTechExp/blog/archive', '4ef'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '6e6'),
+    path: '/eduTechExp/blog/tags',
+    component: ComponentCreator('/eduTechExp/blog/tags', '010'),
     exact: true
   },
   {
-    path: '/blog/tags/ciberseguranca',
-    component: ComponentCreator('/blog/tags/ciberseguranca', 'cc9'),
+    path: '/eduTechExp/blog/tags/ciberseguranca',
+    component: ComponentCreator('/eduTechExp/blog/tags/ciberseguranca', '475'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', 'e37'),
+    path: '/eduTechExp/markdown-page',
+    component: ComponentCreator('/eduTechExp/markdown-page', '15f'),
     exact: true
   },
   {
-    path: '/projects',
-    component: ComponentCreator('/projects', 'c89'),
+    path: '/eduTechExp/projects',
+    component: ComponentCreator('/eduTechExp/projects', 'cfb'),
     exact: true
   },
   {
-    path: '/sobre-mim',
-    component: ComponentCreator('/sobre-mim', '04d'),
+    path: '/eduTechExp/sobre-mim',
+    component: ComponentCreator('/eduTechExp/sobre-mim', '7cb'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'cd4'),
+    path: '/eduTechExp/docs',
+    component: ComponentCreator('/eduTechExp/docs', '635'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '61f'),
+        path: '/eduTechExp/docs',
+        component: ComponentCreator('/eduTechExp/docs', '48b'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', 'ec6'),
+            path: '/eduTechExp/docs',
+            component: ComponentCreator('/eduTechExp/docs', '431'),
             routes: [
               {
-                path: '/docs/docs',
-                component: ComponentCreator('/docs/docs', '3d6'),
+                path: '/eduTechExp/docs/docs',
+                component: ComponentCreator('/eduTechExp/docs/docs', 'b35'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Explorar/Cursos/ciberseguranca',
-                component: ComponentCreator('/docs/Explorar/Cursos/ciberseguranca', 'fe2'),
+                path: '/eduTechExp/docs/Explorar/Cursos/ciberseguranca',
+                component: ComponentCreator('/eduTechExp/docs/Explorar/Cursos/ciberseguranca', '480'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Explorar/Cursos/ciencia-da-computacao',
-                component: ComponentCreator('/docs/Explorar/Cursos/ciencia-da-computacao', 'b8f'),
+                path: '/eduTechExp/docs/Explorar/Cursos/ciencia-da-computacao',
+                component: ComponentCreator('/eduTechExp/docs/Explorar/Cursos/ciencia-da-computacao', 'fd9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Explorar/Cursos/programacao',
-                component: ComponentCreator('/docs/Explorar/Cursos/programacao', '66b'),
+                path: '/eduTechExp/docs/Explorar/Cursos/programacao',
+                component: ComponentCreator('/eduTechExp/docs/Explorar/Cursos/programacao', '1db'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Explorar/Cursos/redacao-tecnica',
-                component: ComponentCreator('/docs/Explorar/Cursos/redacao-tecnica', 'e9d'),
+                path: '/eduTechExp/docs/Explorar/Cursos/redacao-tecnica',
+                component: ComponentCreator('/eduTechExp/docs/Explorar/Cursos/redacao-tecnica', '4cf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Explorar/Desafios/hacking-with-swift',
-                component: ComponentCreator('/docs/Explorar/Desafios/hacking-with-swift', '0e6'),
+                path: '/eduTechExp/docs/Explorar/Desafios/hacking-with-swift',
+                component: ComponentCreator('/eduTechExp/docs/Explorar/Desafios/hacking-with-swift', 'c0e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Explorar/Desafios/teste',
-                component: ComponentCreator('/docs/Explorar/Desafios/teste', '17d'),
+                path: '/eduTechExp/docs/Explorar/Desafios/teste',
+                component: ComponentCreator('/eduTechExp/docs/Explorar/Desafios/teste', '42f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Explorar/Projetos/mobile',
-                component: ComponentCreator('/docs/Explorar/Projetos/mobile', '5db'),
+                path: '/eduTechExp/docs/Explorar/Projetos/mobile',
+                component: ComponentCreator('/eduTechExp/docs/Explorar/Projetos/mobile', 'bee'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Explorar/Projetos/web',
-                component: ComponentCreator('/docs/Explorar/Projetos/web', '78c'),
+                path: '/eduTechExp/docs/Explorar/Projetos/web',
+                component: ComponentCreator('/eduTechExp/docs/Explorar/Projetos/web', '782'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Explorar/tecnologias',
-                component: ComponentCreator('/docs/Explorar/tecnologias', 'fe9'),
+                path: '/eduTechExp/docs/Explorar/tecnologias',
+                component: ComponentCreator('/eduTechExp/docs/Explorar/tecnologias', 'd9a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -121,8 +121,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '363'),
+    path: '/eduTechExp/',
+    component: ComponentCreator('/eduTechExp/', '0c4'),
     exact: true
   },
   {

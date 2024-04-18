@@ -24,14 +24,14 @@
               {
                 "type": "link",
                 "label": "📱 Mobile",
-                "href": "/docs/Explorar/Projetos/mobile",
+                "href": "/eduTechExp/docs/Explorar/Projetos/mobile",
                 "docId": "Explorar/Projetos/mobile",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "🌐 Web",
-                "href": "/docs/Explorar/Projetos/web",
+                "href": "/eduTechExp/docs/Explorar/Projetos/web",
                 "docId": "Explorar/Projetos/web",
                 "unlisted": false
               }
@@ -46,14 +46,14 @@
               {
                 "type": "link",
                 "label": "🎯 Hacking with Swift",
-                "href": "/docs/Explorar/Desafios/hacking-with-swift",
+                "href": "/eduTechExp/docs/Explorar/Desafios/hacking-with-swift",
                 "docId": "Explorar/Desafios/hacking-with-swift",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "🧪 Testes de Intrusão",
-                "href": "/docs/Explorar/Desafios/teste",
+                "href": "/eduTechExp/docs/Explorar/Desafios/teste",
                 "docId": "Explorar/Desafios/teste",
                 "unlisted": false
               }
@@ -68,28 +68,28 @@
               {
                 "type": "link",
                 "label": "🛡️ Cibersegurança",
-                "href": "/docs/Explorar/Cursos/ciberseguranca",
+                "href": "/eduTechExp/docs/Explorar/Cursos/ciberseguranca",
                 "docId": "Explorar/Cursos/ciberseguranca",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "🎓 Ciência da Computação",
-                "href": "/docs/Explorar/Cursos/ciencia-da-computacao",
+                "href": "/eduTechExp/docs/Explorar/Cursos/ciencia-da-computacao",
                 "docId": "Explorar/Cursos/ciencia-da-computacao",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "💻 Programação",
-                "href": "/docs/Explorar/Cursos/programacao",
+                "href": "/eduTechExp/docs/Explorar/Cursos/programacao",
                 "docId": "Explorar/Cursos/programacao",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "📝 Redação Técnica",
-                "href": "/docs/Explorar/Cursos/redacao-tecnica",
+                "href": "/eduTechExp/docs/Explorar/Cursos/redacao-tecnica",
                 "docId": "Explorar/Cursos/redacao-tecnica",
                 "unlisted": false
               }
@@ -98,12 +98,12 @@
           {
             "type": "link",
             "label": "🛠️ Tecnologias",
-            "href": "/docs/Explorar/tecnologias",
+            "href": "/eduTechExp/docs/Explorar/tecnologias",
             "docId": "Explorar/tecnologias",
             "unlisted": false
           }
         ],
-        "href": "/docs/docs"
+        "href": "/eduTechExp/docs/docs"
       }
     ]
   },

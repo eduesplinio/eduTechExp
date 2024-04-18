@@ -5,7 +5,7 @@
   "source": "@site/docs/Explorar/explorar.mdx",
   "sourceDirName": "Explorar",
   "slug": "/docs",
-  "permalink": "/docs/docs",
+  "permalink": "/eduTechExp/docs/docs",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,6 +16,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "📱 Mobile",
-    "permalink": "/docs/Explorar/Projetos/mobile"
+    "permalink": "/eduTechExp/docs/Explorar/Projetos/mobile"
   }
 }

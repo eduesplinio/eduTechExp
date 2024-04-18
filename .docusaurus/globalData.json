@@ -1,63 +1,63 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/eduTechExp/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/eduTechExp/docs",
           "mainDocId": "Explorar/explorar",
           "docs": [
             {
               "id": "Explorar/Cursos/ciberseguranca",
-              "path": "/docs/Explorar/Cursos/ciberseguranca",
+              "path": "/eduTechExp/docs/Explorar/Cursos/ciberseguranca",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Explorar/Cursos/ciencia-da-computacao",
-              "path": "/docs/Explorar/Cursos/ciencia-da-computacao",
+              "path": "/eduTechExp/docs/Explorar/Cursos/ciencia-da-computacao",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Explorar/Cursos/programacao",
-              "path": "/docs/Explorar/Cursos/programacao",
+              "path": "/eduTechExp/docs/Explorar/Cursos/programacao",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Explorar/Cursos/redacao-tecnica",
-              "path": "/docs/Explorar/Cursos/redacao-tecnica",
+              "path": "/eduTechExp/docs/Explorar/Cursos/redacao-tecnica",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Explorar/Desafios/hacking-with-swift",
-              "path": "/docs/Explorar/Desafios/hacking-with-swift",
+              "path": "/eduTechExp/docs/Explorar/Desafios/hacking-with-swift",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Explorar/Desafios/teste",
-              "path": "/docs/Explorar/Desafios/teste",
+              "path": "/eduTechExp/docs/Explorar/Desafios/teste",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Explorar/explorar",
-              "path": "/docs/docs",
+              "path": "/eduTechExp/docs/docs",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Explorar/Projetos/mobile",
-              "path": "/docs/Explorar/Projetos/mobile",
+              "path": "/eduTechExp/docs/Explorar/Projetos/mobile",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Explorar/Projetos/web",
-              "path": "/docs/Explorar/Projetos/web",
+              "path": "/eduTechExp/docs/Explorar/Projetos/web",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Explorar/tecnologias",
-              "path": "/docs/Explorar/tecnologias",
+              "path": "/eduTechExp/docs/Explorar/tecnologias",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -65,7 +65,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/docs",
+                "path": "/eduTechExp/docs/docs",
                 "label": "📚 Docs"
               }
             }

@@ -1,5 +1,5 @@
 {
-  "/blog-2d6": {
+  "/eduTechExp/blog-e76": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "560b3269"
@@ -10,9 +10,9 @@
         "content": "2ad98034"
       }
     ],
-    "metadata": "b2b675dd"
+    "metadata": "717f1ca0"
   },
-  "/blog/2024/01/03/ciber/blog/hacker-old-east-41b": {
+  "/eduTechExp/blog/2024/01/03/ciber/blog/hacker-old-east-26f": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "560b3269"
@@ -20,22 +20,22 @@
     "sidebar": "814f3328",
     "content": "e0a83e71"
   },
-  "/blog/archive-039": {
+  "/eduTechExp/blog/archive-4ef": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "560b3269"
     },
-    "archive": "b2f554cd"
+    "archive": "e82d4c3e"
   },
-  "/blog/tags-6e6": {
+  "/eduTechExp/blog/tags-010": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "560b3269"
     },
     "sidebar": "814f3328",
-    "tags": "a7023ddc"
+    "tags": "c2df5f6c"
   },
-  "/blog/tags/ciberseguranca-cc9": {
+  "/eduTechExp/blog/tags/ciberseguranca-475": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "560b3269"
@@ -46,84 +46,84 @@
         "content": "2ad98034"
       }
     ],
-    "tag": "4bd0d95b",
-    "listMetadata": "3029173e"
+    "tag": "1df2bbd9",
+    "listMetadata": "9bb17bc2"
   },
-  "/markdown-page-e37": {
+  "/eduTechExp/markdown-page-15f": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "d4e2aec2"
     },
     "content": "393be207"
   },
-  "/projects-c89": {
+  "/eduTechExp/projects-cfb": {
     "__comp": "ee7ef1d2",
     "__context": {
       "plugin": "d4e2aec2"
     },
     "config": "5e9f5e1a"
   },
-  "/sobre-mim-04d": {
+  "/eduTechExp/sobre-mim-7cb": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "d4e2aec2"
     },
     "content": "5768a0f6"
   },
-  "/docs-cd4": {
+  "/eduTechExp/docs-635": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "5cf0c08d"
     }
   },
-  "/docs-61f": {
+  "/eduTechExp/docs-48b": {
     "__comp": "a7bd4aaa",
     "version": "935f2afb"
   },
-  "/docs-ec6": {
+  "/eduTechExp/docs-431": {
     "__comp": "a94703ab"
   },
-  "/docs/docs-3d6": {
+  "/eduTechExp/docs/docs-b35": {
     "__comp": "17896441",
     "content": "4a1f1f3b"
   },
-  "/docs/Explorar/Cursos/ciberseguranca-fe2": {
+  "/eduTechExp/docs/Explorar/Cursos/ciberseguranca-480": {
     "__comp": "17896441",
     "content": "ad0e3623"
   },
-  "/docs/Explorar/Cursos/ciencia-da-computacao-b8f": {
+  "/eduTechExp/docs/Explorar/Cursos/ciencia-da-computacao-fd9": {
     "__comp": "17896441",
     "content": "a146d88d"
   },
-  "/docs/Explorar/Cursos/programacao-66b": {
+  "/eduTechExp/docs/Explorar/Cursos/programacao-1db": {
     "__comp": "17896441",
     "content": "829ed512"
   },
-  "/docs/Explorar/Cursos/redacao-tecnica-e9d": {
+  "/eduTechExp/docs/Explorar/Cursos/redacao-tecnica-4cf": {
     "__comp": "17896441",
     "content": "7e4f2e80"
   },
-  "/docs/Explorar/Desafios/hacking-with-swift-0e6": {
+  "/eduTechExp/docs/Explorar/Desafios/hacking-with-swift-c0e": {
     "__comp": "17896441",
     "content": "e4af2f79"
   },
-  "/docs/Explorar/Desafios/teste-17d": {
+  "/eduTechExp/docs/Explorar/Desafios/teste-42f": {
     "__comp": "17896441",
     "content": "332fe40d"
   },
-  "/docs/Explorar/Projetos/mobile-5db": {
+  "/eduTechExp/docs/Explorar/Projetos/mobile-bee": {
     "__comp": "17896441",
     "content": "542b1012"
   },
-  "/docs/Explorar/Projetos/web-78c": {
+  "/eduTechExp/docs/Explorar/Projetos/web-782": {
     "__comp": "17896441",
     "content": "0cd19430"
   },
-  "/docs/Explorar/tecnologias-fe9": {
+  "/eduTechExp/docs/Explorar/tecnologias-d9a": {
     "__comp": "17896441",
     "content": "c2dc2765"
   },
-  "/-363": {
+  "/eduTechExp/-0c4": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "d4e2aec2"

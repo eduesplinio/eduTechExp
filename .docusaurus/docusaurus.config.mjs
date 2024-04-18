@@ -8,7 +8,7 @@ export default {
   "tagline": "Desvendando o complexo para impulsionar a inovação digital.",
   "favicon": "img/eduTechExp-logo.svg",
   "url": "https://edutechexp.me ",
-  "baseUrl": "/",
+  "baseUrl": "/eduTechExp/",
   "projectName": "eduTechExp",
   "organizationName": "eduesplinio",
   "trailingSlash": false,

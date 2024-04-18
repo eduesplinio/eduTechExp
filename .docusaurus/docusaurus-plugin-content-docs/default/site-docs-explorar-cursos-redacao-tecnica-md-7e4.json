@@ -5,7 +5,7 @@
   "source": "@site/docs/Explorar/Cursos/redacao-tecnica.md",
   "sourceDirName": "Explorar/Cursos",
   "slug": "/Explorar/Cursos/redacao-tecnica",
-  "permalink": "/docs/Explorar/Cursos/redacao-tecnica",
+  "permalink": "/eduTechExp/docs/Explorar/Cursos/redacao-tecnica",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "💻 Programação",
-    "permalink": "/docs/Explorar/Cursos/programacao"
+    "permalink": "/eduTechExp/docs/Explorar/Cursos/programacao"
   },
   "next": {
     "title": "🛠️ Tecnologias",
-    "permalink": "/docs/Explorar/tecnologias"
+    "permalink": "/eduTechExp/docs/Explorar/tecnologias"
   }
 }
