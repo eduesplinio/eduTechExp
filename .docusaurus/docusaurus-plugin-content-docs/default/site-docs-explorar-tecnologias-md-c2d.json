@@ -5,7 +5,7 @@
   "source": "@site/docs/Explorar/tecnologias.md",
   "sourceDirName": "Explorar",
   "slug": "/Explorar/tecnologias",
-  "permalink": "/eduTechExp/docs/Explorar/tecnologias",
+  "permalink": "/docs/Explorar/tecnologias",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -14,6 +14,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "📝 Redação Técnica",
-    "permalink": "/eduTechExp/docs/Explorar/Cursos/redacao-tecnica"
+    "permalink": "/docs/Explorar/Cursos/redacao-tecnica"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/Explorar/Cursos/programacao.md",
   "sourceDirName": "Explorar/Cursos",
   "slug": "/Explorar/Cursos/programacao",
-  "permalink": "/eduTechExp/docs/Explorar/Cursos/programacao",
+  "permalink": "/docs/Explorar/Cursos/programacao",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🎓 Ciência da Computação",
-    "permalink": "/eduTechExp/docs/Explorar/Cursos/ciencia-da-computacao"
+    "permalink": "/docs/Explorar/Cursos/ciencia-da-computacao"
   },
   "next": {
     "title": "📝 Redação Técnica",
-    "permalink": "/eduTechExp/docs/Explorar/Cursos/redacao-tecnica"
+    "permalink": "/docs/Explorar/Cursos/redacao-tecnica"
   }
 }

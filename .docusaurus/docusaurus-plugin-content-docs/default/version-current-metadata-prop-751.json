@@ -19,20 +19,13 @@
             "type": "category",
             "label": "🚀 Projetos",
             "collapsible": true,
-            "collapsed": false,
+            "collapsed": true,
             "items": [
               {
                 "type": "link",
-                "label": "📱 Mobile",
-                "href": "/eduTechExp/docs/Explorar/Projetos/mobile",
-                "docId": "Explorar/Projetos/mobile",
-                "unlisted": false
-              },
-              {
-                "type": "link",
                 "label": "🌐 Web",
-                "href": "/eduTechExp/docs/Explorar/Projetos/web",
-                "docId": "Explorar/Projetos/web",
+                "href": "/docs/explorar/projetos/web",
+                "docId": "explorar/projetos/web",
                 "unlisted": false
               }
             ]
@@ -41,20 +34,13 @@
             "type": "category",
             "label": "🧩 Desafios",
             "collapsible": true,
-            "collapsed": false,
+            "collapsed": true,
             "items": [
               {
                 "type": "link",
-                "label": "🎯 Hacking with Swift",
-                "href": "/eduTechExp/docs/Explorar/Desafios/hacking-with-swift",
-                "docId": "Explorar/Desafios/hacking-with-swift",
-                "unlisted": false
-              },
-              {
-                "type": "link",
                 "label": "🧪 Testes de Intrusão",
-                "href": "/eduTechExp/docs/Explorar/Desafios/teste",
-                "docId": "Explorar/Desafios/teste",
+                "href": "/docs/explorar/desafios/teste",
+                "docId": "explorar/desafios/teste",
                 "unlisted": false
               }
             ]
@@ -63,34 +49,34 @@
             "type": "category",
             "label": "📃 Cursos",
             "collapsible": true,
-            "collapsed": false,
+            "collapsed": true,
             "items": [
               {
                 "type": "link",
                 "label": "🛡️ Cibersegurança",
-                "href": "/eduTechExp/docs/Explorar/Cursos/ciberseguranca",
-                "docId": "Explorar/Cursos/ciberseguranca",
+                "href": "/docs/explorar/cursos/ciberseguranca",
+                "docId": "explorar/cursos/ciberseguranca",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "🎓 Ciência da Computação",
-                "href": "/eduTechExp/docs/Explorar/Cursos/ciencia-da-computacao",
-                "docId": "Explorar/Cursos/ciencia-da-computacao",
+                "href": "/docs/explorar/cursos/ciencia-da-computacao",
+                "docId": "explorar/cursos/ciencia-da-computacao",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "💻 Programação",
-                "href": "/eduTechExp/docs/Explorar/Cursos/programacao",
-                "docId": "Explorar/Cursos/programacao",
+                "href": "/docs/explorar/cursos/programacao",
+                "docId": "explorar/cursos/programacao",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "📝 Redação Técnica",
-                "href": "/eduTechExp/docs/Explorar/Cursos/redacao-tecnica",
-                "docId": "Explorar/Cursos/redacao-tecnica",
+                "href": "/docs/explorar/cursos/redacao-tecnica",
+                "docId": "explorar/cursos/redacao-tecnica",
                 "unlisted": false
               }
             ]
@@ -98,72 +84,60 @@
           {
             "type": "link",
             "label": "🛠️ Tecnologias",
-            "href": "/eduTechExp/docs/Explorar/tecnologias",
-            "docId": "Explorar/tecnologias",
+            "href": "/docs/explorar/tecnologias",
+            "docId": "explorar/tecnologias",
             "unlisted": false
           }
         ],
-        "href": "/eduTechExp/docs/docs"
+        "href": "/docs/introducao"
       }
     ]
   },
   "docs": {
-    "Explorar/Cursos/ciberseguranca": {
-      "id": "Explorar/Cursos/ciberseguranca",
+    "explorar/cursos/ciberseguranca": {
+      "id": "explorar/cursos/ciberseguranca",
       "title": "🛡️ Cibersegurança",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "Explorar/Cursos/ciencia-da-computacao": {
-      "id": "Explorar/Cursos/ciencia-da-computacao",
+    "explorar/cursos/ciencia-da-computacao": {
+      "id": "explorar/cursos/ciencia-da-computacao",
       "title": "🎓 Ciência da Computação",
       "description": "Conheça os cursos de Ciência da Computação que tenho feito.",
       "sidebar": "tutorialSidebar"
     },
-    "Explorar/Cursos/programacao": {
-      "id": "Explorar/Cursos/programacao",
+    "explorar/cursos/programacao": {
+      "id": "explorar/cursos/programacao",
       "title": "💻 Programação",
       "description": "Aqui, compartilho minha jornada de aprendizado em Programação, destacando cursos concluídos e projetos atuais.",
       "sidebar": "tutorialSidebar"
     },
-    "Explorar/Cursos/redacao-tecnica": {
-      "id": "Explorar/Cursos/redacao-tecnica",
+    "explorar/cursos/redacao-tecnica": {
+      "id": "explorar/cursos/redacao-tecnica",
       "title": "📝 Redação Técnica",
       "description": "Confira minha jornada de descobertas em Redação Técnica (Technical Writing)!",
       "sidebar": "tutorialSidebar"
     },
-    "Explorar/Desafios/hacking-with-swift": {
-      "id": "Explorar/Desafios/hacking-with-swift",
-      "title": "🎯 Hacking with Swift",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "Explorar/Desafios/teste": {
-      "id": "Explorar/Desafios/teste",
+    "explorar/desafios/teste": {
+      "id": "explorar/desafios/teste",
       "title": "🧪 Testes de Intrusão",
       "description": "",
       "sidebar": "tutorialSidebar"
     },
-    "Explorar/explorar": {
-      "id": "Explorar/explorar",
-      "title": "Bem-vindo à Minha Biblioteca Virtual! 📚",
+    "explorar/explorar": {
+      "id": "explorar/explorar",
+      "title": "Docs",
       "description": "---",
       "sidebar": "tutorialSidebar"
     },
-    "Explorar/Projetos/mobile": {
-      "id": "Explorar/Projetos/mobile",
-      "title": "📱 Mobile",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishin",
-      "sidebar": "tutorialSidebar"
-    },
-    "Explorar/Projetos/web": {
-      "id": "Explorar/Projetos/web",
+    "explorar/projetos/web": {
+      "id": "explorar/projetos/web",
       "title": "🌐 Web",
       "description": "Bem-vindo ao meu portfólio de projetos Web!",
       "sidebar": "tutorialSidebar"
     },
-    "Explorar/tecnologias": {
-      "id": "Explorar/tecnologias",
+    "explorar/tecnologias": {
+      "id": "explorar/tecnologias",
       "title": "🛠️ Tecnologias",
       "description": "Desde controle de versão até desenvolvimento de interfaces de usuário, passando por gerenciamento de projetos e sistemas operacionais, abaixo estão algumas das habilidades e ferramentas que tenho utilizado em minha jornada profissional.",
       "sidebar": "tutorialSidebar"

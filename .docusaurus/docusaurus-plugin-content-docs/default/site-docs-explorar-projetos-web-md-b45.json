@@ -1,0 +1,23 @@
+{
+  "id": "explorar/projetos/web",
+  "title": "🌐 Web",
+  "description": "Bem-vindo ao meu portfólio de projetos Web!",
+  "source": "@site/docs/explorar/projetos/web.md",
+  "sourceDirName": "explorar/projetos",
+  "slug": "/explorar/projetos/web",
+  "permalink": "/docs/explorar/projetos/web",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docs",
+    "permalink": "/docs/introducao"
+  },
+  "next": {
+    "title": "🧪 Testes de Intrusão",
+    "permalink": "/docs/explorar/desafios/teste"
+  }
+}

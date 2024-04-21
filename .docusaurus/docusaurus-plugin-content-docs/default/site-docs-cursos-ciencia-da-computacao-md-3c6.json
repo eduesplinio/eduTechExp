@@ -1,0 +1,23 @@
+{
+  "id": "Cursos/ciencia-da-computacao",
+  "title": "🎓 Ciência da Computação",
+  "description": "Conheça os cursos de Ciência da Computação que tenho feito.",
+  "source": "@site/docs/Cursos/ciencia-da-computacao.md",
+  "sourceDirName": "Cursos",
+  "slug": "/Cursos/ciencia-da-computacao",
+  "permalink": "/docs/Cursos/ciencia-da-computacao",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🛡️ Cibersegurança",
+    "permalink": "/docs/Cursos/ciberseguranca"
+  },
+  "next": {
+    "title": "💻 Programação",
+    "permalink": "/docs/Cursos/programacao"
+  }
+}

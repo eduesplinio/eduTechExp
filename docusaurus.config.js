@@ -114,7 +114,7 @@ const config = {
               },
               {
                 label: 'Docs',
-                href: '/docs/docs',
+                href: '/docs/introducao',
               },
             ],
           },

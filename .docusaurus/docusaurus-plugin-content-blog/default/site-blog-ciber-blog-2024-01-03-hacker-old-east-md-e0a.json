@@ -1,5 +1,5 @@
 {
-  "permalink": "/eduTechExp/blog/2024/01/03/ciber/blog/hacker-old-east",
+  "permalink": "/blog/2024/01/03/ciber/blog/hacker-old-east",
   "source": "@site/blog/ciber/blog/2024-01-03-hacker-old-east.md",
   "title": "Hackers e os chapéus do velho-oeste",
   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius libero eget neque consequat, id venenatis justo ullamcorper. Nullam vehicula sem vitae metus fermentum, ut posuere urna tincidunt. Vivamus id purus lobortis, rutrum metus a, ultrices turpis. Integer vitae consectetur nunc. Donec tincidunt, quam vitae rhoncus consequat, eros ipsum dapibus magna, non consectetur ex libero vitae libero.",
@@ -8,7 +8,7 @@
   "tags": [
     {
       "label": "cibersegurança",
-      "permalink": "/eduTechExp/blog/tags/ciberseguranca"
+      "permalink": "/blog/tags/ciberseguranca"
     }
   ],
   "readingTime": 0.54,

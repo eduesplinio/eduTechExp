@@ -7,7 +7,7 @@ hide_table_of_contents: false
 ## 👨🏼‍💻 Sobre Mim
 ----
 
-Olá! Meu nome é Eduardo Esplinio e sou entusiasta de tecnologia, especialmente nas áreas de programação mobile e web, e cibersegurança. 
+Olá! Meu nome é Eduardo Esplinio e sou entusiasta de tecnologia, especialmente nas áreas de programação e cibersegurança. 
 
 Atualmente, estudo ciência da computação e trabalho com redação técnica, onde posso unir minha paixão pela escrita com meu interesse em tecnologia. 
 
@@ -27,11 +27,9 @@ Tenho experiência em redação técnica há mais de 5 anos, onde desenvolvi hab
 
 Meus principais interesses incluem:
 
-📱[Mobile](/docs/Explorar/Projetos/mobile): tenho explorado o desenvolvimento de aplicativos para dispositivos Apple usando a linguagem Swift.
+🌐 [Web](/docs/explorar/projetos/web): gosto de criar interfaces de usuário incríveis e responsivas, utilizando as mais recentes tecnologias e frameworks.
 
-🌐 [Web](/docs/Explorar/Projetos/web): gosto de criar interfaces de usuário incríveis e responsivas, utilizando as mais recentes tecnologias e frameworks.
-
-🛡️ [Cibersegurança](/docs/Explorar/Cursos/ciberseguranca): estou constantemente atento às últimas tendências e técnicas de segurança cibernética para garantir a proteção de dados e sistemas. 
+🛡️ [Cibersegurança](/docs/explorar/cursos/ciberseguranca): estou constantemente atento às últimas tendências e técnicas de segurança cibernética para garantir a proteção de dados e sistemas. 
 
 <br/>
 <br/>

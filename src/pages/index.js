@@ -28,7 +28,7 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
+      title='Principal'
       description="Desvendando o complexo para impulsionar a inovação digital.">
       <HomepageHeader />
     </Layout>

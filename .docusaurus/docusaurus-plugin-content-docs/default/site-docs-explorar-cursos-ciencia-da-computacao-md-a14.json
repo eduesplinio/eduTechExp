@@ -5,7 +5,7 @@
   "source": "@site/docs/Explorar/Cursos/ciencia-da-computacao.md",
   "sourceDirName": "Explorar/Cursos",
   "slug": "/Explorar/Cursos/ciencia-da-computacao",
-  "permalink": "/eduTechExp/docs/Explorar/Cursos/ciencia-da-computacao",
+  "permalink": "/docs/Explorar/Cursos/ciencia-da-computacao",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🛡️ Cibersegurança",
-    "permalink": "/eduTechExp/docs/Explorar/Cursos/ciberseguranca"
+    "permalink": "/docs/Explorar/Cursos/ciberseguranca"
   },
   "next": {
     "title": "💻 Programação",
-    "permalink": "/eduTechExp/docs/Explorar/Cursos/programacao"
+    "permalink": "/docs/Explorar/Cursos/programacao"
   }
 }

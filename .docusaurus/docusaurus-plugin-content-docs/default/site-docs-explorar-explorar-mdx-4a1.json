@@ -1,21 +1,22 @@
 {
   "id": "Explorar/explorar",
-  "title": "Bem-vindo à Minha Biblioteca Virtual! 📚",
+  "title": "docs",
   "description": "---",
   "source": "@site/docs/Explorar/explorar.mdx",
   "sourceDirName": "Explorar",
-  "slug": "/docs",
-  "permalink": "/eduTechExp/docs/docs",
+  "slug": "/introdução",
+  "permalink": "/docs/introdução",
   "draft": false,
   "unlisted": false,
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "slug": "/docs"
+    "slug": "/introdução",
+    "title": "docs"
   },
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "📱 Mobile",
-    "permalink": "/eduTechExp/docs/Explorar/Projetos/mobile"
+    "permalink": "/docs/Explorar/Projetos/mobile"
   }
 }

@@ -1,0 +1,25 @@
+{
+  "id": "explorar/cursos/redacao-tecnica",
+  "title": "📝 Redação Técnica",
+  "description": "Confira minha jornada de descobertas em Redação Técnica (Technical Writing)!",
+  "source": "@site/docs/explorar/cursos/redacao-tecnica.md",
+  "sourceDirName": "explorar/cursos",
+  "slug": "/explorar/cursos/redacao-tecnica",
+  "permalink": "/docs/explorar/cursos/redacao-tecnica",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar-position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💻 Programação",
+    "permalink": "/docs/explorar/cursos/programacao"
+  },
+  "next": {
+    "title": "🛠️ Tecnologias",
+    "permalink": "/docs/explorar/tecnologias"
+  }
+}

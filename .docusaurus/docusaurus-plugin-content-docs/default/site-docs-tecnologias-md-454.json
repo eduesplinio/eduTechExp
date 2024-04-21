@@ -1,0 +1,19 @@
+{
+  "id": "tecnologias",
+  "title": "🛠️ Tecnologias",
+  "description": "Desde controle de versão até desenvolvimento de interfaces de usuário, passando por gerenciamento de projetos e sistemas operacionais, abaixo estão algumas das habilidades e ferramentas que tenho utilizado em minha jornada profissional.",
+  "source": "@site/docs/tecnologias.md",
+  "sourceDirName": ".",
+  "slug": "/tecnologias",
+  "permalink": "/docs/tecnologias",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docs",
+    "permalink": "/docs/docs"
+  }
+}

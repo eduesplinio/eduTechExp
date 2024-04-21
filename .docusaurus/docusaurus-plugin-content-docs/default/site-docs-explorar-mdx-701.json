@@ -1,0 +1,26 @@
+{
+  "id": "explorar",
+  "title": "Docs",
+  "description": "---",
+  "source": "@site/docs/explorar.mdx",
+  "sourceDirName": ".",
+  "slug": "/docs",
+  "permalink": "/docs/docs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/docs",
+    "title": "Docs"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📝 Redação Técnica",
+    "permalink": "/docs/Cursos/redacao-tecnica"
+  },
+  "next": {
+    "title": "🛠️ Tecnologias",
+    "permalink": "/docs/tecnologias"
+  }
+}

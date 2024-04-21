@@ -1,0 +1,25 @@
+{
+  "id": "explorar/cursos/ciberseguranca",
+  "title": "🛡️ Cibersegurança",
+  "description": "",
+  "source": "@site/docs/explorar/cursos/ciberseguranca.md",
+  "sourceDirName": "explorar/cursos",
+  "slug": "/explorar/cursos/ciberseguranca",
+  "permalink": "/docs/explorar/cursos/ciberseguranca",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar-position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🧪 Testes de Intrusão",
+    "permalink": "/docs/explorar/desafios/teste"
+  },
+  "next": {
+    "title": "🎓 Ciência da Computação",
+    "permalink": "/docs/explorar/cursos/ciencia-da-computacao"
+  }
+}

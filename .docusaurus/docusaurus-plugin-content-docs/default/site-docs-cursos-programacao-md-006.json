@@ -1,0 +1,25 @@
+{
+  "id": "Cursos/programacao",
+  "title": "💻 Programação",
+  "description": "Aqui, compartilho minha jornada de aprendizado em Programação, destacando cursos concluídos e projetos atuais.",
+  "source": "@site/docs/Cursos/programacao.md",
+  "sourceDirName": "Cursos",
+  "slug": "/Cursos/programacao",
+  "permalink": "/docs/Cursos/programacao",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar-position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🎓 Ciência da Computação",
+    "permalink": "/docs/Cursos/ciencia-da-computacao"
+  },
+  "next": {
+    "title": "📝 Redação Técnica",
+    "permalink": "/docs/Cursos/redacao-tecnica"
+  }
+}

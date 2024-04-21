@@ -1,0 +1,23 @@
+{
+  "id": "explorar/desafios/hacking-with-swift",
+  "title": "🎯 Hacking with Swift",
+  "description": "",
+  "source": "@site/docs/explorar/desafios/hacking-with-swift.mdx",
+  "sourceDirName": "explorar/desafios",
+  "slug": "/explorar/desafios/hacking-with-swift",
+  "permalink": "/docs/explorar/desafios/hacking-with-swift",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🌐 Web",
+    "permalink": "/docs/explorar/projetos/web"
+  },
+  "next": {
+    "title": "🧪 Testes de Intrusão",
+    "permalink": "/docs/explorar/desafios/teste"
+  }
+}

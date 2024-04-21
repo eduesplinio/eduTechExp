@@ -1,0 +1,25 @@
+{
+  "id": "Cursos/ciberseguranca",
+  "title": "🛡️ Cibersegurança",
+  "description": "",
+  "source": "@site/docs/Cursos/ciberseguranca.md",
+  "sourceDirName": "Cursos",
+  "slug": "/Cursos/ciberseguranca",
+  "permalink": "/docs/Cursos/ciberseguranca",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar-position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🛠️ Tecnologias",
+    "permalink": "/docs/Explorar/tecnologias"
+  },
+  "next": {
+    "title": "🎓 Ciência da Computação",
+    "permalink": "/docs/Cursos/ciencia-da-computacao"
+  }
+}

@@ -5,7 +5,7 @@
   "source": "@site/docs/Explorar/Projetos/mobile.md",
   "sourceDirName": "Explorar/Projetos",
   "slug": "/Explorar/Projetos/mobile",
-  "permalink": "/eduTechExp/docs/Explorar/Projetos/mobile",
+  "permalink": "/docs/Explorar/Projetos/mobile",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Bem-vindo à Minha Biblioteca Virtual! 📚",
-    "permalink": "/eduTechExp/docs/docs"
+    "title": "docs",
+    "permalink": "/docs/introdução"
   },
   "next": {
     "title": "🌐 Web",
-    "permalink": "/eduTechExp/docs/Explorar/Projetos/web"
+    "permalink": "/docs/Explorar/Projetos/web"
   }
 }

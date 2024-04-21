@@ -1,133 +1,168 @@
 {
-  "/eduTechExp/blog-e76": {
-    "__comp": "a6aa9e1f",
+  "/__docusaurus/debug-7d3": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "560b3269"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "2ad98034"
-      }
-    ],
-    "metadata": "717f1ca0"
-  },
-  "/eduTechExp/blog/2024/01/03/ciber/blog/hacker-old-east-26f": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "560b3269"
-    },
-    "sidebar": "814f3328",
-    "content": "e0a83e71"
-  },
-  "/eduTechExp/blog/archive-4ef": {
-    "__comp": "9e4087bc",
-    "__context": {
-      "plugin": "560b3269"
-    },
-    "archive": "e82d4c3e"
-  },
-  "/eduTechExp/blog/tags-010": {
-    "__comp": "01a85c17",
-    "__context": {
-      "plugin": "560b3269"
-    },
-    "sidebar": "814f3328",
-    "tags": "c2df5f6c"
-  },
-  "/eduTechExp/blog/tags/ciberseguranca-475": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "560b3269"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "2ad98034"
-      }
-    ],
-    "tag": "1df2bbd9",
-    "listMetadata": "9bb17bc2"
-  },
-  "/eduTechExp/markdown-page-15f": {
-    "__comp": "1f391b9e",
-    "__context": {
-      "plugin": "d4e2aec2"
-    },
-    "content": "393be207"
-  },
-  "/eduTechExp/projects-cfb": {
-    "__comp": "ee7ef1d2",
-    "__context": {
-      "plugin": "d4e2aec2"
-    },
-    "config": "5e9f5e1a"
-  },
-  "/eduTechExp/sobre-mim-7cb": {
-    "__comp": "1f391b9e",
-    "__context": {
-      "plugin": "d4e2aec2"
-    },
-    "content": "5768a0f6"
-  },
-  "/eduTechExp/docs-635": {
-    "__comp": "5e95c892",
-    "__context": {
-      "plugin": "5cf0c08d"
+      "plugin": "plugin---docusaurus-debugf-2-b-743"
     }
   },
-  "/eduTechExp/docs-48b": {
-    "__comp": "a7bd4aaa",
-    "version": "935f2afb"
-  },
-  "/eduTechExp/docs-431": {
-    "__comp": "a94703ab"
-  },
-  "/eduTechExp/docs/docs-b35": {
-    "__comp": "17896441",
-    "content": "4a1f1f3b"
-  },
-  "/eduTechExp/docs/Explorar/Cursos/ciberseguranca-480": {
-    "__comp": "17896441",
-    "content": "ad0e3623"
-  },
-  "/eduTechExp/docs/Explorar/Cursos/ciencia-da-computacao-fd9": {
-    "__comp": "17896441",
-    "content": "a146d88d"
-  },
-  "/eduTechExp/docs/Explorar/Cursos/programacao-1db": {
-    "__comp": "17896441",
-    "content": "829ed512"
-  },
-  "/eduTechExp/docs/Explorar/Cursos/redacao-tecnica-4cf": {
-    "__comp": "17896441",
-    "content": "7e4f2e80"
-  },
-  "/eduTechExp/docs/Explorar/Desafios/hacking-with-swift-c0e": {
-    "__comp": "17896441",
-    "content": "e4af2f79"
-  },
-  "/eduTechExp/docs/Explorar/Desafios/teste-42f": {
-    "__comp": "17896441",
-    "content": "332fe40d"
-  },
-  "/eduTechExp/docs/Explorar/Projetos/mobile-bee": {
-    "__comp": "17896441",
-    "content": "542b1012"
-  },
-  "/eduTechExp/docs/Explorar/Projetos/web-782": {
-    "__comp": "17896441",
-    "content": "0cd19430"
-  },
-  "/eduTechExp/docs/Explorar/tecnologias-d9a": {
-    "__comp": "17896441",
-    "content": "c2dc2765"
-  },
-  "/eduTechExp/-0c4": {
-    "__comp": "c4f5d8e4",
+  "/__docusaurus/debug/config-7ec": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "d4e2aec2"
+      "plugin": "plugin---docusaurus-debugf-2-b-743"
+    }
+  },
+  "/__docusaurus/debug/content-654": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugf-2-b-743"
     },
-    "config": "5e9f5e1a"
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-627": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugf-2-b-743"
+    }
+  },
+  "/__docusaurus/debug/metadata-706": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugf-2-b-743"
+    }
+  },
+  "/__docusaurus/debug/registry-fa6": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugf-2-b-743"
+    }
+  },
+  "/__docusaurus/debug/routes-acf": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugf-2-b-743"
+    }
+  },
+  "/blog-2d6": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-560-9f7"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-2-ad-d11"
+      }
+    ],
+    "metadata": "metadata---blogb-2-b-df1"
+  },
+  "/blog/2024/01/03/ciber/blog/hacker-old-east-41b": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-560-9f7"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-01-03-ciber-blog-hacker-old-easte-0-a-1e9"
+  },
+  "/blog/archive-039": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---blog-560-9f7"
+    },
+    "archive": "archive---blog-archiveb-2-f-393"
+  },
+  "/blog/tags-6e6": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---blog-560-9f7"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
+  },
+  "/blog/tags/ciberseguranca-cc9": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-560-9f7"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-2-ad-d11"
+      }
+    ],
+    "tag": "tag---blog-tags-ciberseguranca-4-bd-071",
+    "listMetadata": "listMetadata---blog-tags-ciberseguranca-302-7de"
+  },
+  "/markdown-page-e37": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-paged-4-e-b87"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/projects-c89": {
+    "__comp": "__comp---site-src-pages-projects-jsee-7-a5f",
+    "__context": {
+      "plugin": "plugin---markdown-paged-4-e-b87"
+    },
+    "config": "config---projects-5-e-9-d4c"
+  },
+  "/sobre-mim-04d": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-paged-4-e-b87"
+    },
+    "content": "content---sobre-mim-576-1bc"
+  },
+  "/docs-e53": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docs-5-cf-aeb"
+    }
+  },
+  "/docs-3d2": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---docs-935-398"
+  },
+  "/docs-32c": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/explorar/cursos/ciberseguranca-11b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-explorar-cursos-cibersegurancadd-0-eb5"
+  },
+  "/docs/explorar/cursos/ciencia-da-computacao-886": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-explorar-cursos-ciencia-da-computacao-043-c19"
+  },
+  "/docs/explorar/cursos/programacao-e7d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-explorar-cursos-programacao-37-f-d10"
+  },
+  "/docs/explorar/cursos/redacao-tecnica-c59": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-explorar-cursos-redacao-tecnica-5-ce-78b"
+  },
+  "/docs/explorar/desafios/teste-ed2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-explorar-desafios-teste-00-e-f7c"
+  },
+  "/docs/explorar/projetos/web-4d9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-explorar-projetos-webb-45-2e5"
+  },
+  "/docs/explorar/tecnologias-f33": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-explorar-tecnologiasc-8-b-fc7"
+  },
+  "/docs/introducao-508": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-introducao-9-a-0-334"
+  },
+  "/-363": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-paged-4-e-b87"
+    },
+    "config": "config---projects-5-e-9-d4c"
   }
 }

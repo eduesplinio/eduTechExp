@@ -1,24 +1,21 @@
 {
   "id": "Cursos/redacao-tecnica",
-  "title": "Redação Técnica",
-  "description": "",
+  "title": "📝 Redação Técnica",
+  "description": "Confira minha jornada de descobertas em Redação Técnica (Technical Writing)!",
   "source": "@site/docs/Cursos/redacao-tecnica.md",
   "sourceDirName": "Cursos",
   "slug": "/Cursos/redacao-tecnica",
   "permalink": "/docs/Cursos/redacao-tecnica",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Cursos/redacao-tecnica.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "sidebar-position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Cursos",
-    "permalink": "/docs/category/cursos"
-  },
-  "next": {
-    "title": "Explorar",
-    "permalink": "/docs/Explorar"
+    "title": "💻 Programação",
+    "permalink": "/docs/Cursos/programacao"
   }
 }

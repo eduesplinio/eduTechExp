@@ -1,0 +1,22 @@
+{
+  "id": "explorar/explorar",
+  "title": "Docs",
+  "description": "---",
+  "source": "@site/docs/explorar/explorar.mdx",
+  "sourceDirName": "explorar",
+  "slug": "/introducao",
+  "permalink": "/docs/introducao",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/introducao",
+    "title": "Docs"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "🌐 Web",
+    "permalink": "/docs/explorar/projetos/web"
+  }
+}
