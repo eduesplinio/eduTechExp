@@ -27,7 +27,7 @@ Tenho experiência em redação técnica há mais de 5 anos, onde desenvolvi hab
 
 Meus principais interesses incluem:
 
-🌐 [Web](/docs/explorar/projetos/web): gosto de criar interfaces de usuário incríveis e responsivas, utilizando as mais recentes tecnologias e frameworks.
+🌐 [Programação](/docs/explorar/projetos/web): curto bastante fazer interfaces de usuário legais e que funcionam bem em qualquer dispositivo, usando as últimas tecnologias e frameworks.
 
 🛡️ [Cibersegurança](/docs/explorar/cursos/ciberseguranca): estou constantemente atento às últimas tendências e técnicas de segurança cibernética para garantir a proteção de dados e sistemas. 
 
