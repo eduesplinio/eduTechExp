@@ -1,21 +1,16 @@
 {
   "blogPosts": [
     {
-      "id": "/2024/01/03/ciber/blog/hacker-old-east",
+      "id": "/2024/05/14/ciber/blog/hackers-velho-oeste",
       "metadata": {
-        "permalink": "/blog/2024/01/03/ciber/blog/hacker-old-east",
-        "source": "@site/blog/ciber/blog/2024-01-03-hacker-old-east.md",
-        "title": "Hackers e os chapéus do velho-oeste",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius libero eget neque consequat, id venenatis justo ullamcorper. Nullam vehicula sem vitae metus fermentum, ut posuere urna tincidunt. Vivamus id purus lobortis, rutrum metus a, ultrices turpis. Integer vitae consectetur nunc. Donec tincidunt, quam vitae rhoncus consequat, eros ipsum dapibus magna, non consectetur ex libero vitae libero.",
-        "date": "2024-01-03T00:00:00.000Z",
-        "formattedDate": "3 de janeiro de 2024",
-        "tags": [
-          {
-            "label": "cibersegurança",
-            "permalink": "/blog/tags/ciberseguranca"
-          }
-        ],
-        "readingTime": 0.54,
+        "permalink": "/blog/2024/05/14/ciber/blog/hackers-velho-oeste",
+        "source": "@site/blog/ciber/blog/2024-05-14-hackers-velho-oeste.md",
+        "title": "Hackers e os Chapéus do Velho Oeste",
+        "description": "No vasto território da internet, onde os bits e bytes cavalgam livremente pelos circuitos e servidores, há uma disputa constante entre os diferentes chapéus que os hackers usam.",
+        "date": "2024-05-14T00:00:00.000Z",
+        "formattedDate": "14 de maio de 2024",
+        "tags": [],
+        "readingTime": 3.225,
         "hasTruncateMarker": true,
         "authors": [
           {
@@ -27,16 +22,13 @@
           }
         ],
         "frontMatter": {
-          "title": "Hackers e os chapéus do velho-oeste",
+          "title": "Hackers e os Chapéus do Velho Oeste",
           "authors": "edu",
-          "tags": [
-            "cibersegurança"
-          ],
           "hide_table_of_contents": false
         },
         "unlisted": false
       },
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius libero eget neque consequat, id venenatis justo ullamcorper. Nullam vehicula sem vitae metus fermentum, ut posuere urna tincidunt. Vivamus id purus lobortis, rutrum metus a, ultrices turpis. Integer vitae consectetur nunc. Donec tincidunt, quam vitae rhoncus consequat, eros ipsum dapibus magna, non consectetur ex libero vitae libero.\n\n<!-- truncate -->\n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut dignissim erat et diam malesuada, vitae euismod nunc consequat. Integer vel nunc vel dui interdum vestibulum. Sed malesuada diam sit amet lectus malesuada, nec ullamcorper ligula finibus. Sed ut magna eu tortor blandit iaculis."
+      "content": "No vasto território da internet, onde os bits e bytes cavalgam livremente pelos circuitos e servidores, há uma disputa constante entre os diferentes chapéus que os hackers usam.\n\n![](/img/hackers-velho-oeste-wallpaper.jpg)\n\n![](/img/hacker-36.png) Assim como os pistoleiros do Velho Oeste, cada um desses chapéus possui suas próprias motivações e métodos que moldam o cenário digital.\n\n<!-- truncate -->\n\n<br/>\n\n## ![](/img/white-hat-36.png) White Hats: Os Cavaleiros da Ética Digital\n\nImagine os **White Hats** como os xerifes honrados das cidades do Velho Oeste, sempre prontos para defender a lei e a ordem. Esses são os hackers éticos, trabalhando em prol do bem. \n\nEquipados com suas habilidades de hacking, realizam testes de penetração, sempre com a permissão dos proprietários dos sistemas, para manter a segurança digital em dia. ![](/img/sheriff-24.png)\n\n<br/>\n\n## ![](/img/black-hat-36.png) Black Hats: Os Foras da Lei Cibernéticos\n\nPor outro lado, temos os **Black Hats**, os verdadeiros vilões dessa história. Agem como foras da lei que assaltam os bancos e aterrorizam as pequenas cidades do Velho Oeste. Com suas habilidades de hacking, invadem sistemas, roubam informações e criam o caos digital. \n\nSeus motivos podem variar, desde o ganho financeiro até o puro prazer da transgressão, sendo responsáveis pelos grandes ataques cibernéticos que vemos nos noticiários. ![](/img/revolver-24.png)\n\n<br/>\n\n## ![](/img/grey-hat-36.png) Grey Hats: Os Mercenários Digitais\n\nE então, há os **Grey Hats**, os mercenários do ciberespaço. Vagam pela fronteira entre o bem e o mal, buscando vulnerabilidades nos sistemas sem necessariamente buscar o dano. São como os caçadores de recompensas, trabalhando por um preço. \n\nSe encontrarem uma falha, podem escolher entre reportá-la ao proprietário ou até mesmo torná-la pública, caso não recebam uma recompensa. São figuras ambíguas, nem totalmente heróis, nem totalmente vilões, mas sempre prontos para agir de acordo com seus próprios interesses. ![](/img/cowgirl-boot-23.png)\n\n<br/>\n\n## ![](/img/red-hat-36.png) Red Hats: Os Vigilantes Determinados\n\nOs **Red Hats** assumem o papel de vigilantes incansáveis no cenário cibernético. Inspirados pelos justiceiros das fronteiras do faroeste, optam por uma abordagem mais assertiva na sua luta contra os Black Hats. \n\nRecorrendo a táticas extremas, como a infiltração de sistemas com malware ou a execução de ataques DDoS, esses hackers buscam deter os criminosos digitais. Assim como os caçadores de recompensas, não vacilam em confrontar os malfeitores para proteger os inocentes. ![](/img/horse-24.png)\n\n<br/>\n\n## ![](/img/blue-hat-36.png) Blue Hats: Os Vingadores Digitais\n\nOs **Blue Hats** têm duas facetas no mundo da cibersegurança. Por um lado, são os vingadores digitais, buscando vingança contra aqueles que os prejudicaram. Como os justiceiros solitários do Velho Oeste, buscam fazer justiça com as próprias mãos, lançando ataques contra seus inimigos. \n\nPor outro lado, os Blue Hats também são os especialistas em segurança que trabalham fora das organizações, testando sistemas e buscando vulnerabilidades antes que os criminosos as explorem. ![](/img/horseshoe-24.png)\n\n<br/>\n\n## ![](/img/green-hat-36.png) Green Hats: Os Novatos Curiosos\n\nPor fim, temos os **Green Hats**, os novatos curiosos do mundo hacking. Embora sua falta de experiência possa ser perigosa, sua curiosidade e determinação são inegáveis. \n\nEstão sempre em busca de conhecimento, experimentando novas técnicas e aprendendo com seus erros. Como os jovens pistoleiros que treinavam no Velho Oeste, os Green Hats estão apenas começando sua jornada no mundo da cibersegurança. ![](/img/cactus-23.png)\n\n<br/>\n<br/>\n\n:::tip[Conclusão - A  Diversidade do Ciberespaço]\n\nAssim como no Velho Oeste, onde uma variedade de personagens moldava o cenário, o mundo digital é habitado por uma gama diversificada de hackers, cada um com suas próprias motivações e métodos. \n\nEnquanto alguns trabalham para proteger os inocentes, outros buscam explorar e causar danos. E no meio desse conflito, há aqueles que vagam pelas fronteiras da ética, lutando para encontrar seu lugar no vasto mundo da cibersegurança.\n\nEm última análise, é essa diversidade que torna o ciberespaço tão fascinante e imprevisível, refletindo o espírito do Velho Oeste no contexto digital. ![](/img/cowboy-36.png)\n\n:::\n\n<br/>\n\n:::info[Referências]\n\n- [What is the difference between black, white and gray hat hackers?](https://us.norton.com/blog/emerging-threats/black-white-and-gray-hat-hackers)\n- [Different Types of Hackers: The 6 Hats Explained](https://sectigostore.com/blog/different-types-of-hackers-hats-explained/)\n\n:::\n\n<br/>"
     }
   ]
 }

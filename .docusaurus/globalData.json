@@ -8,46 +8,41 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "explorar/explorar",
+          "mainDocId": "Explorar/explorar",
           "docs": [
             {
-              "id": "explorar/cursos/ciberseguranca",
-              "path": "/docs/explorar/cursos/ciberseguranca",
+              "id": "Explorar/Cursos/ciberseguranca",
+              "path": "/docs/Explorar/Cursos/ciberseguranca",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "explorar/cursos/ciencia-da-computacao",
-              "path": "/docs/explorar/cursos/ciencia-da-computacao",
+              "id": "Explorar/Cursos/ciencia-da-computacao",
+              "path": "/docs/Explorar/Cursos/ciencia-da-computacao",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "explorar/cursos/programacao",
-              "path": "/docs/explorar/cursos/programacao",
+              "id": "Explorar/Cursos/programacao",
+              "path": "/docs/Explorar/Cursos/programacao",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "explorar/cursos/redacao-tecnica",
-              "path": "/docs/explorar/cursos/redacao-tecnica",
+              "id": "Explorar/Cursos/redacao-tecnica",
+              "path": "/docs/Explorar/Cursos/redacao-tecnica",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "explorar/desafios/teste",
-              "path": "/docs/explorar/desafios/teste",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "explorar/explorar",
+              "id": "Explorar/explorar",
               "path": "/docs/introducao",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "explorar/projetos/web",
-              "path": "/docs/explorar/projetos/web",
+              "id": "Explorar/Projetos/web",
+              "path": "/docs/Explorar/Projetos/web",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "explorar/tecnologias",
-              "path": "/docs/explorar/tecnologias",
+              "id": "Explorar/tecnologias",
+              "path": "/docs/Explorar/tecnologias",
               "sidebar": "tutorialSidebar"
             }
           ],

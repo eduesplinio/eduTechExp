@@ -19,28 +19,13 @@
             "type": "category",
             "label": "🚀 Projetos",
             "collapsible": true,
-            "collapsed": true,
+            "collapsed": false,
             "items": [
               {
                 "type": "link",
                 "label": "🌐 Web",
-                "href": "/docs/explorar/projetos/web",
-                "docId": "explorar/projetos/web",
-                "unlisted": false
-              }
-            ]
-          },
-          {
-            "type": "category",
-            "label": "🧩 Desafios",
-            "collapsible": true,
-            "collapsed": true,
-            "items": [
-              {
-                "type": "link",
-                "label": "🧪 Testes de Intrusão",
-                "href": "/docs/explorar/desafios/teste",
-                "docId": "explorar/desafios/teste",
+                "href": "/docs/Explorar/Projetos/web",
+                "docId": "Explorar/Projetos/web",
                 "unlisted": false
               }
             ]
@@ -49,34 +34,34 @@
             "type": "category",
             "label": "📃 Cursos",
             "collapsible": true,
-            "collapsed": true,
+            "collapsed": false,
             "items": [
               {
                 "type": "link",
                 "label": "🛡️ Cibersegurança",
-                "href": "/docs/explorar/cursos/ciberseguranca",
-                "docId": "explorar/cursos/ciberseguranca",
+                "href": "/docs/Explorar/Cursos/ciberseguranca",
+                "docId": "Explorar/Cursos/ciberseguranca",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "🎓 Ciência da Computação",
-                "href": "/docs/explorar/cursos/ciencia-da-computacao",
-                "docId": "explorar/cursos/ciencia-da-computacao",
+                "href": "/docs/Explorar/Cursos/ciencia-da-computacao",
+                "docId": "Explorar/Cursos/ciencia-da-computacao",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "💻 Programação",
-                "href": "/docs/explorar/cursos/programacao",
-                "docId": "explorar/cursos/programacao",
+                "href": "/docs/Explorar/Cursos/programacao",
+                "docId": "Explorar/Cursos/programacao",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "📝 Redação Técnica",
-                "href": "/docs/explorar/cursos/redacao-tecnica",
-                "docId": "explorar/cursos/redacao-tecnica",
+                "href": "/docs/Explorar/Cursos/redacao-tecnica",
+                "docId": "Explorar/Cursos/redacao-tecnica",
                 "unlisted": false
               }
             ]
@@ -84,8 +69,8 @@
           {
             "type": "link",
             "label": "🛠️ Tecnologias",
-            "href": "/docs/explorar/tecnologias",
-            "docId": "explorar/tecnologias",
+            "href": "/docs/Explorar/tecnologias",
+            "docId": "Explorar/tecnologias",
             "unlisted": false
           }
         ],
@@ -94,50 +79,44 @@
     ]
   },
   "docs": {
-    "explorar/cursos/ciberseguranca": {
-      "id": "explorar/cursos/ciberseguranca",
+    "Explorar/Cursos/ciberseguranca": {
+      "id": "Explorar/Cursos/ciberseguranca",
       "title": "🛡️ Cibersegurança",
       "description": "Dando início à minha jornada na área de Cibersegurança, compartilho os cursos realizados e os projetos em andamento.",
       "sidebar": "tutorialSidebar"
     },
-    "explorar/cursos/ciencia-da-computacao": {
-      "id": "explorar/cursos/ciencia-da-computacao",
+    "Explorar/Cursos/ciencia-da-computacao": {
+      "id": "Explorar/Cursos/ciencia-da-computacao",
       "title": "🎓 Ciência da Computação",
       "description": "Conheça os cursos de Ciência da Computação que tenho feito.",
       "sidebar": "tutorialSidebar"
     },
-    "explorar/cursos/programacao": {
-      "id": "explorar/cursos/programacao",
+    "Explorar/Cursos/programacao": {
+      "id": "Explorar/Cursos/programacao",
       "title": "💻 Programação",
       "description": "Aqui, compartilho minha jornada de aprendizado em Programação, destacando cursos concluídos e projetos atuais.",
       "sidebar": "tutorialSidebar"
     },
-    "explorar/cursos/redacao-tecnica": {
-      "id": "explorar/cursos/redacao-tecnica",
+    "Explorar/Cursos/redacao-tecnica": {
+      "id": "Explorar/Cursos/redacao-tecnica",
       "title": "📝 Redação Técnica",
       "description": "Confira minha jornada de descobertas em Redação Técnica (Technical Writing)!",
       "sidebar": "tutorialSidebar"
     },
-    "explorar/desafios/teste": {
-      "id": "explorar/desafios/teste",
-      "title": "🧪 Testes de Intrusão",
-      "description": "",
-      "sidebar": "tutorialSidebar"
-    },
-    "explorar/explorar": {
-      "id": "explorar/explorar",
+    "Explorar/explorar": {
+      "id": "Explorar/explorar",
       "title": "Docs",
       "description": "---",
       "sidebar": "tutorialSidebar"
     },
-    "explorar/projetos/web": {
-      "id": "explorar/projetos/web",
+    "Explorar/Projetos/web": {
+      "id": "Explorar/Projetos/web",
       "title": "🌐 Web",
       "description": "Bem-vindo ao meu portfólio de projetos Web!",
       "sidebar": "tutorialSidebar"
     },
-    "explorar/tecnologias": {
-      "id": "explorar/tecnologias",
+    "Explorar/tecnologias": {
+      "id": "Explorar/tecnologias",
       "title": "🛠️ Tecnologias",
       "description": "Desde controle de versão até desenvolvimento de interfaces de usuário, passando por gerenciamento de projetos e sistemas operacionais, abaixo estão algumas das habilidades e ferramentas que tenho utilizado em minha jornada profissional.",
       "sidebar": "tutorialSidebar"

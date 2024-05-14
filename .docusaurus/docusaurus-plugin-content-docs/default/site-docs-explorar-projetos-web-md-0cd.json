@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "📱 Mobile",
-    "permalink": "/docs/Explorar/Projetos/mobile"
+    "title": "Docs",
+    "permalink": "/docs/introducao"
   },
   "next": {
-    "title": "🎯 Hacking with Swift",
-    "permalink": "/docs/Explorar/Desafios/hacking-with-swift"
+    "title": "🛡️ Cibersegurança",
+    "permalink": "/docs/Explorar/Cursos/ciberseguranca"
   }
 }

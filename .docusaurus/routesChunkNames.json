@@ -1,167 +1,141 @@
 {
-  "/__docusaurus/debug-7d3": {
+  "/__docusaurus/debug-2b0": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugf-2-b-743"
+      "plugin": "plugin---docusaurus-debugb-45-688"
     }
   },
-  "/__docusaurus/debug/config-7ec": {
+  "/__docusaurus/debug/config-2f9": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugf-2-b-743"
+      "plugin": "plugin---docusaurus-debugb-45-688"
     }
   },
-  "/__docusaurus/debug/content-654": {
+  "/__docusaurus/debug/content-838": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debugf-2-b-743"
+      "plugin": "plugin---docusaurus-debugb-45-688"
     },
     "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/__docusaurus/debug/globalData-627": {
+  "/__docusaurus/debug/globalData-bda": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debugf-2-b-743"
+      "plugin": "plugin---docusaurus-debugb-45-688"
     }
   },
-  "/__docusaurus/debug/metadata-706": {
+  "/__docusaurus/debug/metadata-f59": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debugf-2-b-743"
+      "plugin": "plugin---docusaurus-debugb-45-688"
     }
   },
-  "/__docusaurus/debug/registry-fa6": {
+  "/__docusaurus/debug/registry-9e5": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debugf-2-b-743"
+      "plugin": "plugin---docusaurus-debugb-45-688"
     }
   },
-  "/__docusaurus/debug/routes-acf": {
+  "/__docusaurus/debug/routes-1d5": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debugf-2-b-743"
+      "plugin": "plugin---docusaurus-debugb-45-688"
     }
   },
-  "/blog-2d6": {
+  "/blog-ba6": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---blog-560-9f7"
+      "plugin": "plugin---blogfd-0-ffa"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blog-2-ad-d11"
+        "content": "content---blog-3-a-7-18f"
       }
     ],
     "metadata": "metadata---blogb-2-b-df1"
   },
-  "/blog/2024/01/03/ciber/blog/hacker-old-east-41b": {
+  "/blog/2024/05/14/ciber/blog/hackers-velho-oeste-bbe": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---blog-560-9f7"
+      "plugin": "plugin---blogfd-0-ffa"
     },
     "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2024-01-03-ciber-blog-hacker-old-easte-0-a-1e9"
+    "content": "content---blog-2024-05-14-ciber-blog-hackers-velho-oeste-74-f-a08"
   },
-  "/blog/archive-039": {
+  "/blog/archive-dbb": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---blog-560-9f7"
+      "plugin": "plugin---blogfd-0-ffa"
     },
     "archive": "archive---blog-archiveb-2-f-393"
   },
-  "/blog/tags-6e6": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
-    "__context": {
-      "plugin": "plugin---blog-560-9f7"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "tags": "tags---blog-tagsa-70-da2"
-  },
-  "/blog/tags/ciberseguranca-cc9": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
-    "__context": {
-      "plugin": "plugin---blog-560-9f7"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
-    "items": [
-      {
-        "content": "content---blog-2-ad-d11"
-      }
-    ],
-    "tag": "tag---blog-tags-ciberseguranca-4-bd-071",
-    "listMetadata": "listMetadata---blog-tags-ciberseguranca-302-7de"
-  },
-  "/markdown-page-e37": {
+  "/markdown-page-3df": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-paged-4-e-b87"
+      "plugin": "plugin---markdown-page-853-02b"
     },
     "content": "content---markdown-page-393-028"
   },
-  "/projects-c89": {
+  "/projects-a25": {
     "__comp": "__comp---site-src-pages-projects-jsee-7-a5f",
     "__context": {
-      "plugin": "plugin---markdown-paged-4-e-b87"
+      "plugin": "plugin---markdown-page-853-02b"
     },
     "config": "config---projects-5-e-9-d4c"
   },
-  "/sobre-mim-04d": {
+  "/sobre-mim-b04": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-paged-4-e-b87"
+      "plugin": "plugin---markdown-page-853-02b"
     },
     "content": "content---sobre-mim-576-1bc"
   },
-  "/docs-e53": {
+  "/docs-282": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---docs-5-cf-aeb"
+      "plugin": "plugin---docs-3-f-7-2df"
     }
   },
-  "/docs-3d2": {
+  "/docs-d21": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-32c": {
+  "/docs-f7c": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/explorar/cursos/ciberseguranca-11b": {
+  "/docs/Explorar/Cursos/ciberseguranca-fe2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-explorar-cursos-cibersegurancadd-0-eb5"
+    "content": "content---docs-explorar-cursos-cibersegurancaad-0-c74"
   },
-  "/docs/explorar/cursos/ciencia-da-computacao-886": {
+  "/docs/Explorar/Cursos/ciencia-da-computacao-b8f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-explorar-cursos-ciencia-da-computacao-043-c19"
+    "content": "content---docs-explorar-cursos-ciencia-da-computacaoa-14-b57"
   },
-  "/docs/explorar/cursos/programacao-e7d": {
+  "/docs/Explorar/Cursos/programacao-66b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-explorar-cursos-programacao-37-f-d10"
+    "content": "content---docs-explorar-cursos-programacao-829-f5f"
   },
-  "/docs/explorar/cursos/redacao-tecnica-c59": {
+  "/docs/Explorar/Cursos/redacao-tecnica-e9d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-explorar-cursos-redacao-tecnica-5-ce-78b"
+    "content": "content---docs-explorar-cursos-redacao-tecnica-7-e-4-80a"
   },
-  "/docs/explorar/desafios/teste-ed2": {
+  "/docs/Explorar/Projetos/web-78c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-explorar-desafios-teste-00-e-f7c"
+    "content": "content---docs-explorar-projetos-web-0-cd-720"
   },
-  "/docs/explorar/projetos/web-4d9": {
+  "/docs/Explorar/tecnologias-fe9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-explorar-projetos-webb-45-2e5"
+    "content": "content---docs-explorar-tecnologiasc-2-d-0f5"
   },
-  "/docs/explorar/tecnologias-f33": {
+  "/docs/introducao-96f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-explorar-tecnologiasc-8-b-fc7"
+    "content": "content---docs-introducao-4-a-1-f4b"
   },
-  "/docs/introducao-508": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-introducao-9-a-0-2a3"
-  },
-  "/-363": {
+  "/-b26": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---markdown-paged-4-e-b87"
+      "plugin": "plugin---markdown-page-853-02b"
     },
     "config": "config---projects-5-e-9-d4c"
   }

@@ -4,136 +4,120 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '7d3'),
+    component: ComponentCreator('/__docusaurus/debug', '2b0'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '7ec'),
+    component: ComponentCreator('/__docusaurus/debug/config', '2f9'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '654'),
+    component: ComponentCreator('/__docusaurus/debug/content', '838'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '627'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'bda'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '706'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', 'f59'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', 'fa6'),
+    component: ComponentCreator('/__docusaurus/debug/registry', '9e5'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', 'acf'),
+    component: ComponentCreator('/__docusaurus/debug/routes', '1d5'),
     exact: true
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '2d6'),
+    component: ComponentCreator('/blog', 'ba6'),
     exact: true
   },
   {
-    path: '/blog/2024/01/03/ciber/blog/hacker-old-east',
-    component: ComponentCreator('/blog/2024/01/03/ciber/blog/hacker-old-east', '41b'),
+    path: '/blog/2024/05/14/ciber/blog/hackers-velho-oeste',
+    component: ComponentCreator('/blog/2024/05/14/ciber/blog/hackers-velho-oeste', 'bbe'),
     exact: true
   },
   {
     path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '039'),
-    exact: true
-  },
-  {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '6e6'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/ciberseguranca',
-    component: ComponentCreator('/blog/tags/ciberseguranca', 'cc9'),
+    component: ComponentCreator('/blog/archive', 'dbb'),
     exact: true
   },
   {
     path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', 'e37'),
+    component: ComponentCreator('/markdown-page', '3df'),
     exact: true
   },
   {
     path: '/projects',
-    component: ComponentCreator('/projects', 'c89'),
+    component: ComponentCreator('/projects', 'a25'),
     exact: true
   },
   {
     path: '/sobre-mim',
-    component: ComponentCreator('/sobre-mim', '04d'),
+    component: ComponentCreator('/sobre-mim', 'b04'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e53'),
+    component: ComponentCreator('/docs', '282'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '3d2'),
+        component: ComponentCreator('/docs', 'd21'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '32c'),
+            component: ComponentCreator('/docs', 'f7c'),
             routes: [
               {
-                path: '/docs/explorar/cursos/ciberseguranca',
-                component: ComponentCreator('/docs/explorar/cursos/ciberseguranca', '11b'),
+                path: '/docs/Explorar/Cursos/ciberseguranca',
+                component: ComponentCreator('/docs/Explorar/Cursos/ciberseguranca', 'fe2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/explorar/cursos/ciencia-da-computacao',
-                component: ComponentCreator('/docs/explorar/cursos/ciencia-da-computacao', '886'),
+                path: '/docs/Explorar/Cursos/ciencia-da-computacao',
+                component: ComponentCreator('/docs/Explorar/Cursos/ciencia-da-computacao', 'b8f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/explorar/cursos/programacao',
-                component: ComponentCreator('/docs/explorar/cursos/programacao', 'e7d'),
+                path: '/docs/Explorar/Cursos/programacao',
+                component: ComponentCreator('/docs/Explorar/Cursos/programacao', '66b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/explorar/cursos/redacao-tecnica',
-                component: ComponentCreator('/docs/explorar/cursos/redacao-tecnica', 'c59'),
+                path: '/docs/Explorar/Cursos/redacao-tecnica',
+                component: ComponentCreator('/docs/Explorar/Cursos/redacao-tecnica', 'e9d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/explorar/desafios/teste',
-                component: ComponentCreator('/docs/explorar/desafios/teste', 'ed2'),
+                path: '/docs/Explorar/Projetos/web',
+                component: ComponentCreator('/docs/Explorar/Projetos/web', '78c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/explorar/projetos/web',
-                component: ComponentCreator('/docs/explorar/projetos/web', '4d9'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/explorar/tecnologias',
-                component: ComponentCreator('/docs/explorar/tecnologias', 'f33'),
+                path: '/docs/Explorar/tecnologias',
+                component: ComponentCreator('/docs/Explorar/tecnologias', 'fe9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/introducao',
-                component: ComponentCreator('/docs/introducao', '508'),
+                component: ComponentCreator('/docs/introducao', '96f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -145,7 +129,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '363'),
+    component: ComponentCreator('/', 'b26'),
     exact: true
   },
   {

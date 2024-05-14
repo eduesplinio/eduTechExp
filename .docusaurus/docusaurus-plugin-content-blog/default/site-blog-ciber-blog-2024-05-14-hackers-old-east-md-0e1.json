@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/2024/05/14/ciber/blog/hackers-old-east",
+  "source": "@site/blog/ciber/blog/2024-05-14-hackers-old-east.md",
+  "title": "Hackers e os chapéus do velho-oeste",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius libero eget neque consequat, id venenatis justo ullamcorper. Nullam vehicula sem vitae metus fermentum, ut posuere urna tincidunt. Vivamus id purus lobortis, rutrum metus a, ultrices turpis. Integer vitae consectetur nunc. Donec tincidunt, quam vitae rhoncus consequat, eros ipsum dapibus magna, non consectetur ex libero vitae libero.",
+  "date": "2024-05-14T00:00:00.000Z",
+  "formattedDate": "14 de maio de 2024",
+  "tags": [
+    {
+      "label": "cibersegurança",
+      "permalink": "/blog/tags/ciberseguranca"
+    }
+  ],
+  "readingTime": 0.54,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Eduardo Esplinio",
+      "title": "Technical Writer",
+      "url": "https://github.com/eduesplinio",
+      "imageURL": "https://github.com/eduesplinio.png",
+      "key": "edu"
+    }
+  ],
+  "frontMatter": {
+    "title": "Hackers e os chapéus do velho-oeste",
+    "authors": "edu",
+    "tags": [
+      "cibersegurança"
+    ],
+    "hide_table_of_contents": false
+  },
+  "unlisted": false
+}

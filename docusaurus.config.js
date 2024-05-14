@@ -54,6 +54,11 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+      },
       navbar: {
         title: 'eduTech Exp',
         logo: {
@@ -61,6 +66,7 @@ const config = {
           src: 'img/eduTechExp-logo-black.svg',
           srcDark: 'img/eduTechExp-logo.svg',
         },
+
         items: [
           { to: '/sobre-mim', label: 'Sobre Mim', position: 'left' },
           { to: '/blog', label: 'Blog', position: 'left' },
