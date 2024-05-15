@@ -23,7 +23,7 @@ Equipados com suas habilidades de hacking, realizam testes de penetração, semp
 
 ## ![](/img/black-hat-36.png) Black Hats: Os Foras da Lei Cibernéticos
 
-Por outro lado, temos os **Black Hats**, os verdadeiros vilões dessa história. Agem como foras da lei que assaltam os bancos e aterrorizam as pequenas cidades do Velho Oeste. Com suas habilidades de hacking, invadem sistemas, roubam informações e criam o caos digital. 
+Por outro lado, temos os **Black Hats**, os verdadeiros vilões dessa história. Agem como foras da lei que assaltam os bancos e aterrorizam as pequenas cidades do faroeste. Com suas habilidades de hacking, invadem sistemas, roubam informações e criam o caos digital. 
 
 Seus motivos podem variar, desde o ganho financeiro até o puro prazer da transgressão, sendo responsáveis pelos grandes ataques cibernéticos que vemos nos noticiários. ![](/img/revolver-24.png)
 
@@ -39,7 +39,7 @@ Se encontrarem uma falha, podem escolher entre reportá-la ao proprietário ou a
 
 ## ![](/img/red-hat-36.png) Red Hats: Os Vigilantes Determinados
 
-Os **Red Hats** assumem o papel de vigilantes incansáveis no cenário cibernético. Inspirados pelos justiceiros das fronteiras do faroeste, optam por uma abordagem mais assertiva na sua luta contra os Black Hats. 
+Os **Red Hats** assumem o papel de vigilantes incansáveis no cenário cibernético. Inspirados pelos justiceiros das fronteiras do Velho Oeste, optam por uma abordagem mais assertiva na sua luta contra os Black Hats. 
 
 Recorrendo a táticas extremas, como a infiltração de sistemas com malware ou a execução de ataques DDoS, esses hackers buscam deter os criminosos digitais. Assim como os caçadores de recompensas, não vacilam em confrontar os malfeitores para proteger os inocentes. ![](/img/horse-24.png)
 
