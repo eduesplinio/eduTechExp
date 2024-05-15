@@ -47,7 +47,7 @@ Recorrendo a táticas extremas, como a infiltração de sistemas com malware ou 
 
 ## ![](/img/blue-hat-36.png) Blue Hats: Os Vingadores Digitais
 
-Os **Blue Hats** têm duas facetas no mundo da cibersegurança. Por um lado, são os vingadores digitais, buscando vingança contra aqueles que os prejudicaram. Como os justiceiros solitários do Velho Oeste, buscam fazer justiça com as próprias mãos, lançando ataques contra seus inimigos. 
+Os **Blue Hats** têm duas facetas no mundo da cibersegurança. Por um lado, são os vingadores digitais, buscando vingança contra aqueles que os prejudicaram. Como os justiceiros solitários do faroeste, buscam fazer justiça com as próprias mãos, lançando ataques contra seus inimigos. 
 
 Por outro lado, os Blue Hats também são os especialistas em segurança que trabalham fora das organizações, testando sistemas e buscando vulnerabilidades antes que os criminosos as explorem. ![](/img/horseshoe-24.png)
 
@@ -57,7 +57,7 @@ Por outro lado, os Blue Hats também são os especialistas em segurança que tra
 
 Por fim, temos os **Green Hats**, os novatos curiosos do mundo hacking. Embora sua falta de experiência possa ser perigosa, sua curiosidade e determinação são inegáveis. 
 
-Estão sempre em busca de conhecimento, experimentando novas técnicas e aprendendo com seus erros. Como os jovens pistoleiros que treinavam no Velho Oeste, os Green Hats estão apenas começando sua jornada no mundo da cibersegurança. ![](/img/cactus-23.png)
+Estão sempre em busca de conhecimento, experimentando novas técnicas e aprendendo com seus erros. Como os jovens pistoleiros que treinavam no Oeste Selvagem, os Green Hats estão apenas começando sua jornada no mundo da cibersegurança. ![](/img/cactus-23.png)
 
 <br/>
 <br/>
@@ -68,7 +68,7 @@ Assim como no Velho Oeste, onde uma variedade de personagens moldava o cenário,
 
 Enquanto alguns trabalham para proteger os inocentes, outros buscam explorar e causar danos. E no meio desse conflito, há aqueles que vagam pelas fronteiras da ética, lutando para encontrar seu lugar no vasto mundo da cibersegurança.
 
-Em última análise, é essa diversidade que torna o ciberespaço tão fascinante e imprevisível, refletindo o espírito do Velho Oeste no contexto digital. ![](/img/cowboy-36.png)
+Em última análise, é essa diversidade que torna o ciberespaço tão fascinante e imprevisível, refletindo o espírito do faroeste no contexto digital. ![](/img/cowboy-36.png)
 
 :::
 

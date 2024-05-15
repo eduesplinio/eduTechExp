@@ -40,7 +40,13 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/docusaurus-social-card.jpg",
+    "image": "img/background.mp4",
+    "metadata": [
+      {
+        "name": "og:description",
+        "content": "Desvendando o complexo para impulsionar a inovação digital."
+      }
+    ],
     "colorMode": {
       "defaultMode": "dark",
       "disableSwitch": false,
@@ -336,7 +342,6 @@ export default {
         "autoCollapseCategories": false
       }
     },
-    "metadata": [],
     "tableOfContents": {
       "minHeadingLevel": 2,
       "maxHeadingLevel": 3

@@ -54,7 +54,7 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/background.mp4',
-      metadatas: [
+      metadata: [
         { name: 'og:description', content: 'Desvendando o complexo para impulsionar a inovação digital.' },
       ],
       colorMode: {
