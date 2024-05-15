@@ -6,13 +6,13 @@ const config = {
   tagline: 'Desvendando o complexo para impulsionar a inovação digital.',
   favicon: 'img/eduTechExp-logo.svg',
 
-  url: 'https://edutechexp.me ', // Your website URL
+  url: 'https://edutechexp.me', // Your website URL
   baseUrl: '/',
   projectName: 'eduTechExp',
   organizationName: 'eduesplinio',
   trailingSlash: false,
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   deploymentBranch: 'deployment',
@@ -53,7 +53,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/background.mp4',
+      metadatas: [
+        { name: 'og:description', content: 'Desvendando o complexo para impulsionar a inovação digital.' },
+      ],
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: false,
