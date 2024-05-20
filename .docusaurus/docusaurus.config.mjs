@@ -40,7 +40,7 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/background.mp4",
+    "image": "img/background.png",
     "metadata": [
       {
         "name": "og:description",
@@ -50,7 +50,7 @@ export default {
     "colorMode": {
       "defaultMode": "dark",
       "disableSwitch": false,
-      "respectPrefersColorScheme": false
+      "respectPrefersColorScheme": true
     },
     "navbar": {
       "title": "eduTech Exp",

@@ -6,7 +6,7 @@ const config = {
   tagline: 'Desvendando o complexo para impulsionar a inovação digital.',
   favicon: 'img/eduTechExp-logo.svg',
 
-  url: 'https://edutechexp.me', // Your website URL
+  url: 'https://edutechexp.me',
   baseUrl: '/',
   projectName: 'eduTechExp',
   organizationName: 'eduesplinio',
@@ -34,13 +34,9 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -52,15 +48,14 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/background.mp4',
+      image: 'img/background.png',
       metadata: [
         { name: 'og:description', content: 'Desvendando o complexo para impulsionar a inovação digital.' },
       ],
       colorMode: {
         defaultMode: 'dark',
         disableSwitch: false,
-        respectPrefersColorScheme: false,
+        respectPrefersColorScheme: true,
       },
       navbar: {
         title: 'eduTech Exp',
