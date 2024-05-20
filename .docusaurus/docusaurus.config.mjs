@@ -6,7 +6,7 @@
 export default {
   "title": "eduTech Exp",
   "tagline": "Desvendando o complexo para impulsionar a inovação digital.",
-  "favicon": "img/eduTechExp-logo.svg",
+  "favicon": "img/favicon.ico",
   "url": "https://edutechexp.me",
   "baseUrl": "/",
   "projectName": "eduTechExp",
@@ -40,7 +40,7 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/background.png",
+    "image": "img/background.mp4",
     "metadata": [
       {
         "name": "og:description",
@@ -48,7 +48,7 @@ export default {
       },
       {
         "name": "og:image",
-        "content": "img/background.mp4"
+        "content": "img/background.png"
       }
     ],
     "colorMode": {

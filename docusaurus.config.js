@@ -4,7 +4,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'eduTech Exp',
   tagline: 'Desvendando o complexo para impulsionar a inovação digital.',
-  favicon: 'img/eduTechExp-logo.svg',
+  favicon: 'img/favicon.ico',
 
   url: 'https://edutechexp.me',
   baseUrl: '/',
@@ -48,10 +48,10 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/background.png',
+      image: 'img/background.mp4',
       metadata: [
         { name: 'og:description', content: 'Desvendando o complexo para impulsionar a inovação digital.' },
-        { name: 'og:image', content: 'img/background.mp4' },
+        { name: 'og:image', content: 'img/background.png' },
       ],
       colorMode: {
         defaultMode: 'dark',
