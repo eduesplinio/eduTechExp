@@ -51,6 +51,7 @@ const config = {
       image: 'img/background.png',
       metadata: [
         { name: 'og:description', content: 'Desvendando o complexo para impulsionar a inovação digital.' },
+        { name: 'og:image', content: 'img/background.mp4' },
       ],
       colorMode: {
         defaultMode: 'dark',

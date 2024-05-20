@@ -45,6 +45,10 @@ export default {
       {
         "name": "og:description",
         "content": "Desvendando o complexo para impulsionar a inovação digital."
+      },
+      {
+        "name": "og:image",
+        "content": "img/background.mp4"
       }
     ],
     "colorMode": {
