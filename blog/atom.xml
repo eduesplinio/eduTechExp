@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://edutechexp.me/blog"/>
     <subtitle>eduTech Exp Blog</subtitle>
-    <icon>https://edutechexp.me/img/eduTechExp-logo.svg</icon>
+    <icon>https://edutechexp.me/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Hackers e os Chapéus do Velho Oeste]]></title>
         <id>https://edutechexp.me/blog/2024/05/14/ciber/blog/hackers-velho-oeste</id>
