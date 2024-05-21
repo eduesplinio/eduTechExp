@@ -16,7 +16,7 @@ function HomepageHeader() {
 
   return (
     <div className={styles.videoContainer} onContextMenu={disableRightClick}>
-      <video autoPlay loop muted className={styles.backgroundVideo}>
+      <video autoPlay loop muted controls={false} className={styles.backgroundVideo} style={{ pointerEvents: "none" }}>
         <source src="/img/background.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
