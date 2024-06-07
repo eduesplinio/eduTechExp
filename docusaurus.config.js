@@ -4,7 +4,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'eduTech Exp',
   tagline: 'Desvendando o complexo para impulsionar a inovação digital.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon2.ico',
 
   url: 'https://edutechexp.me',
   baseUrl: '/',
