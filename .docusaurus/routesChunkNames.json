@@ -1,99 +1,142 @@
 {
-  "/blog-ba6": {
-    "__comp": "a6aa9e1f",
+  "/__docusaurus/debug-2b0": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "fd0307df"
+      "plugin": "plugin---docusaurus-debugb-45-688"
+    }
+  },
+  "/__docusaurus/debug/config-2f9": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-45-688"
+    }
+  },
+  "/__docusaurus/debug/content-838": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-45-688"
     },
-    "sidebar": "814f3328",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-bda": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-45-688"
+    }
+  },
+  "/__docusaurus/debug/metadata-f59": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-45-688"
+    }
+  },
+  "/__docusaurus/debug/registry-9e5": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-45-688"
+    }
+  },
+  "/__docusaurus/debug/routes-1d5": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-45-688"
+    }
+  },
+  "/blog-ba6": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blogfd-0-ffa"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "3a703a76"
+        "content": "content---blog-3-a-7-18f"
       }
     ],
-    "metadata": "b2b675dd"
+    "metadata": "metadata---blogb-2-b-df1"
   },
   "/blog/2024/05/14/ciber/blog/hackers-velho-oeste-bbe": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "fd0307df"
+      "plugin": "plugin---blogfd-0-ffa"
     },
-    "sidebar": "814f3328",
-    "content": "74fb4ec6"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2024-05-14-ciber-blog-hackers-velho-oeste-74-f-a08"
   },
   "/blog/archive-dbb": {
-    "__comp": "9e4087bc",
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "fd0307df"
+      "plugin": "plugin---blogfd-0-ffa"
     },
-    "archive": "b2f554cd"
+    "archive": "archive---blog-archiveb-2-f-393"
   },
   "/markdown-page-3df": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "853aa4c7"
+      "plugin": "plugin---markdown-page-853-02b"
     },
-    "content": "393be207"
+    "content": "content---markdown-page-393-028"
   },
   "/projects-a25": {
-    "__comp": "ee7ef1d2",
+    "__comp": "__comp---site-src-pages-projects-jsee-7-a5f",
     "__context": {
-      "plugin": "853aa4c7"
+      "plugin": "plugin---markdown-page-853-02b"
     },
-    "config": "5e9f5e1a"
+    "config": "config---projects-5-e-9-d4c"
   },
   "/sobre-mim-b04": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "853aa4c7"
+      "plugin": "plugin---markdown-page-853-02b"
     },
-    "content": "5768a0f6"
+    "content": "content---sobre-mim-576-1bc"
   },
   "/docs-282": {
-    "__comp": "5e95c892",
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "3f75ef4e"
+      "plugin": "plugin---docs-3-f-7-2df"
     }
   },
   "/docs-d21": {
-    "__comp": "a7bd4aaa",
-    "version": "935f2afb"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---docs-935-398"
   },
   "/docs-f7c": {
-    "__comp": "a94703ab"
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/Explorar/Cursos/ciberseguranca-fe2": {
-    "__comp": "17896441",
-    "content": "ad0e3623"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-explorar-cursos-cibersegurancaad-0-c74"
   },
   "/docs/Explorar/Cursos/ciencia-da-computacao-b8f": {
-    "__comp": "17896441",
-    "content": "a146d88d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-explorar-cursos-ciencia-da-computacaoa-14-b57"
   },
   "/docs/Explorar/Cursos/programacao-66b": {
-    "__comp": "17896441",
-    "content": "829ed512"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-explorar-cursos-programacao-829-f5f"
   },
   "/docs/Explorar/Cursos/redacao-tecnica-e9d": {
-    "__comp": "17896441",
-    "content": "7e4f2e80"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-explorar-cursos-redacao-tecnica-7-e-4-80a"
   },
   "/docs/Explorar/Projetos/web-78c": {
-    "__comp": "17896441",
-    "content": "0cd19430"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-explorar-projetos-web-0-cd-720"
   },
   "/docs/Explorar/tecnologias-fe9": {
-    "__comp": "17896441",
-    "content": "c2dc2765"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-explorar-tecnologiasc-2-d-0f5"
   },
   "/docs/introducao-96f": {
-    "__comp": "17896441",
-    "content": "4a1f1f3b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-introducao-4-a-1-f4b"
   },
   "/-b26": {
-    "__comp": "c4f5d8e4",
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "853aa4c7"
+      "plugin": "plugin---markdown-page-853-02b"
     },
-    "config": "5e9f5e1a"
+    "config": "config---projects-5-e-9-d4c"
   }
 }

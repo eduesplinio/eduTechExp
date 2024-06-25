@@ -6,7 +6,7 @@
 export default {
   "title": "eduTech Exp",
   "tagline": "Desvendando o complexo para impulsionar a inovação digital.",
-  "favicon": "img/favicon2.ico",
+  "favicon": "img/favicon.svg",
   "url": "https://edutechexp.me",
   "baseUrl": "/",
   "projectName": "eduTechExp",
