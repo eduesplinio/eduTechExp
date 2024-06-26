@@ -38,13 +38,6 @@
             "items": [
               {
                 "type": "link",
-                "label": "🛡️ Cibersegurança",
-                "href": "/docs/Explorar/Cursos/ciberseguranca",
-                "docId": "Explorar/Cursos/ciberseguranca",
-                "unlisted": false
-              },
-              {
-                "type": "link",
                 "label": "🎓 Ciência da Computação",
                 "href": "/docs/Explorar/Cursos/ciencia-da-computacao",
                 "docId": "Explorar/Cursos/ciencia-da-computacao",
@@ -79,12 +72,6 @@
     ]
   },
   "docs": {
-    "Explorar/Cursos/ciberseguranca": {
-      "id": "Explorar/Cursos/ciberseguranca",
-      "title": "🛡️ Cibersegurança",
-      "description": "Dando início à minha jornada na área de Cibersegurança, compartilho os cursos realizados e os projetos em andamento.",
-      "sidebar": "tutorialSidebar"
-    },
     "Explorar/Cursos/ciencia-da-computacao": {
       "id": "Explorar/Cursos/ciencia-da-computacao",
       "title": "🎓 Ciência da Computação",

@@ -11,11 +11,6 @@
           "mainDocId": "Explorar/explorar",
           "docs": [
             {
-              "id": "Explorar/Cursos/ciberseguranca",
-              "path": "/docs/Explorar/Cursos/ciberseguranca",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Explorar/Cursos/ciencia-da-computacao",
               "path": "/docs/Explorar/Cursos/ciencia-da-computacao",
               "sidebar": "tutorialSidebar"

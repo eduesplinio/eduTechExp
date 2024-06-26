@@ -69,22 +69,16 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '282'),
+    component: ComponentCreator('/docs', '8f5'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd21'),
+        component: ComponentCreator('/docs', 'd66'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'f7c'),
+            component: ComponentCreator('/docs', '423'),
             routes: [
-              {
-                path: '/docs/Explorar/Cursos/ciberseguranca',
-                component: ComponentCreator('/docs/Explorar/Cursos/ciberseguranca', 'fe2'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
               {
                 path: '/docs/Explorar/Cursos/ciencia-da-computacao',
                 component: ComponentCreator('/docs/Explorar/Cursos/ciencia-da-computacao', 'b8f'),

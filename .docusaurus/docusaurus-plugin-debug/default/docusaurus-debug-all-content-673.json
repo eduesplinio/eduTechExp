@@ -18,31 +18,6 @@
           "contentPathLocalized": "/workspaces/eduTechExp/i18n/pt/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "id": "Explorar/Cursos/ciberseguranca",
-              "title": "🛡️ Cibersegurança",
-              "description": "Dando início à minha jornada na área de Cibersegurança, compartilho os cursos realizados e os projetos em andamento.",
-              "source": "@site/docs/Explorar/Cursos/ciberseguranca.md",
-              "sourceDirName": "Explorar/Cursos",
-              "slug": "/Explorar/Cursos/ciberseguranca",
-              "permalink": "/docs/Explorar/Cursos/ciberseguranca",
-              "draft": false,
-              "unlisted": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "sidebar-position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "🌐 Web",
-                "permalink": "/docs/Explorar/Projetos/web"
-              },
-              "next": {
-                "title": "🎓 Ciência da Computação",
-                "permalink": "/docs/Explorar/Cursos/ciencia-da-computacao"
-              }
-            },
-            {
               "id": "Explorar/Cursos/ciencia-da-computacao",
               "title": "🎓 Ciência da Computação",
               "description": "Conheça os cursos de Ciência da Computação que tenho feito.",
@@ -57,8 +32,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "🛡️ Cibersegurança",
-                "permalink": "/docs/Explorar/Cursos/ciberseguranca"
+                "title": "🌐 Web",
+                "permalink": "/docs/Explorar/Projetos/web"
               },
               "next": {
                 "title": "💻 Programação",
@@ -156,8 +131,8 @@
                 "permalink": "/docs/introducao"
               },
               "next": {
-                "title": "🛡️ Cibersegurança",
-                "permalink": "/docs/Explorar/Cursos/ciberseguranca"
+                "title": "🎓 Ciência da Computação",
+                "permalink": "/docs/Explorar/Cursos/ciencia-da-computacao"
               }
             },
             {
@@ -207,10 +182,6 @@
                     "collapsible": true,
                     "collapsed": false,
                     "items": [
-                      {
-                        "type": "doc",
-                        "id": "Explorar/Cursos/ciberseguranca"
-                      },
                       {
                         "type": "doc",
                         "id": "Explorar/Cursos/ciencia-da-computacao"
