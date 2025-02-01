@@ -133,7 +133,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2024 eduTech Exp."
+      "copyright": "Copyright © 2025 eduTech Exp."
     },
     "prism": {
       "theme": {

@@ -69,19 +69,25 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '8f5'),
+    component: ComponentCreator('/docs', '451'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd66'),
+        component: ComponentCreator('/docs', 'c40'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '423'),
+            component: ComponentCreator('/docs', '494'),
             routes: [
               {
                 path: '/docs/Explorar/Cursos/ciencia-da-computacao',
                 component: ComponentCreator('/docs/Explorar/Cursos/ciencia-da-computacao', 'b8f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Explorar/Cursos/garantia-de-qualidade',
+                component: ComponentCreator('/docs/Explorar/Cursos/garantia-de-qualidade', '076'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
