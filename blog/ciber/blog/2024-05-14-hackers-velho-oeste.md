@@ -5,7 +5,7 @@ hide_table_of_contents: false
 ---
 No vasto território da internet, onde os bits e bytes cavalgam livremente pelos circuitos e servidores, há uma disputa constante entre os diferentes chapéus que os hackers usam.
 
-![](/img/hackers-velho-oeste-wallpaper.jpg)
+![](/img/hackers-hats.webp)
 
 ![](/img/hacker-36.png) Assim como os pistoleiros do Velho Oeste, cada um desses chapéus possui suas próprias motivações e métodos que moldam o cenário digital.
 
@@ -21,14 +21,6 @@ Equipados com suas habilidades de hacking, realizam testes de penetração, semp
 
 <br/>
 
-## ![](/img/black-hat-36.png) Black Hats: Os Foras da Lei Cibernéticos
-
-Por outro lado, temos os **Black Hats**, os verdadeiros vilões dessa história. Agem como foras da lei que assaltam os bancos e aterrorizam as pequenas cidades do faroeste. Com suas habilidades de hacking, invadem sistemas, roubam informações e criam o caos digital. 
-
-Seus motivos podem variar, desde o ganho financeiro até o puro prazer da transgressão, sendo responsáveis pelos grandes ataques cibernéticos que vemos nos noticiários. ![](/img/revolver-24.png)
-
-<br/>
-
 ## ![](/img/grey-hat-36.png) Grey Hats: Os Mercenários Digitais
 
 E então, há os **Grey Hats**, os mercenários do ciberespaço. Vagam pela fronteira entre o bem e o mal, buscando vulnerabilidades nos sistemas sem necessariamente buscar o dano. São como os caçadores de recompensas, trabalhando por um preço. 
@@ -37,11 +29,11 @@ Se encontrarem uma falha, podem escolher entre reportá-la ao proprietário ou a
 
 <br/>
 
-## ![](/img/red-hat-36.png) Red Hats: Os Vigilantes Determinados
+## ![](/img/black-hat-36.png) Black Hats: Os Foras da Lei Cibernéticos
 
-Os **Red Hats** assumem o papel de vigilantes incansáveis no cenário cibernético. Inspirados pelos justiceiros das fronteiras do Velho Oeste, optam por uma abordagem mais assertiva na sua luta contra os Black Hats. 
+Por outro lado, temos os **Black Hats**, os verdadeiros vilões dessa história. Agem como foras da lei que assaltam os bancos e aterrorizam as pequenas cidades do faroeste. Com suas habilidades de hacking, invadem sistemas, roubam informações e criam o caos digital. 
 
-Recorrendo a táticas extremas, como a infiltração de sistemas com malware ou a execução de ataques DDoS, esses hackers buscam deter os criminosos digitais. Assim como os caçadores de recompensas, não vacilam em confrontar os malfeitores para proteger os inocentes. ![](/img/horse-24.png)
+Seus motivos podem variar, desde o ganho financeiro até o puro prazer da transgressão, sendo responsáveis pelos grandes ataques cibernéticos que vemos nos noticiários. ![](/img/revolver-24.png)
 
 <br/>
 
@@ -60,6 +52,13 @@ Por fim, temos os **Green Hats**, os novatos curiosos do mundo hacking. Embora s
 Estão sempre em busca de conhecimento, experimentando novas técnicas e aprendendo com seus erros. Como os jovens pistoleiros que treinavam no Oeste Selvagem, os Green Hats estão apenas começando sua jornada no mundo da cibersegurança. ![](/img/cactus-23.png)
 
 <br/>
+
+## ![](/img/red-hat-36.png) Red Hats: Os Vigilantes Determinados
+
+Os **Red Hats** assumem o papel de vigilantes incansáveis no cenário cibernético. Inspirados pelos justiceiros das fronteiras do Velho Oeste, optam por uma abordagem mais assertiva na sua luta contra os Black Hats. 
+
+Recorrendo a táticas extremas, como a infiltração de sistemas com malware ou a execução de ataques DDoS, esses hackers buscam deter os criminosos digitais. Assim como os caçadores de recompensas, não vacilam em confrontar os malfeitores para proteger os inocentes. ![](/img/horse-24.png)
+
 <br/>
 
 :::tip[Conclusão - A  Diversidade do Ciberespaço]

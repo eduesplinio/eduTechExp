@@ -72,5 +72,5 @@ Dos conceitos fundamentais às estratégias avançadas, conheça os cursos que r
 <br/>
 
 :::info[Aprendizado]
-Todos esses cursos me proporcionaram uma base sólida para minha jornada como redator de textos técnicos! ✍🏻
+Todos esses cursos me proporcionaram uma base sólida na minha jornada como redator de textos técnicos! ✍🏻
 :::

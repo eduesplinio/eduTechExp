@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Explorar/Cursos/garantia-de-qualidade",
+              "path": "/docs/Explorar/Cursos/garantia-de-qualidade",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Explorar/Cursos/programacao",
               "path": "/docs/Explorar/Cursos/programacao",
               "sidebar": "tutorialSidebar"
