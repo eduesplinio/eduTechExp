@@ -15,7 +15,7 @@ const config = {
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
-  deploymentBranch: 'deployment',
+  deploymentBranch: 'gh-pages',
   projectName: 'eduTechExp',
   organizationName: 'eduesplinio',
 
