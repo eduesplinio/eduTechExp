@@ -11,55 +11,33 @@
     "tutorialSidebar": [
       {
         "type": "category",
-        "label": "📚 Docs",
+        "label": "Introdução",
         "collapsible": false,
         "collapsed": false,
         "items": [
           {
             "type": "category",
-            "label": "🚀 Projetos",
+            "label": "Cursos e Formações",
             "collapsible": true,
             "collapsed": false,
             "items": [
               {
                 "type": "link",
-                "label": "🌐 Web",
-                "href": "/docs/Explorar/Projetos/web",
-                "docId": "Explorar/Projetos/web",
-                "unlisted": false
-              }
-            ]
-          },
-          {
-            "type": "category",
-            "label": "📃 Cursos e Formações",
-            "collapsible": true,
-            "collapsed": false,
-            "items": [
-              {
-                "type": "link",
-                "label": "🎓 Ciência da Computação",
+                "label": "Ciência da Computação",
                 "href": "/docs/Explorar/Cursos/ciencia-da-computacao",
                 "docId": "Explorar/Cursos/ciencia-da-computacao",
                 "unlisted": false
               },
               {
                 "type": "link",
-                "label": "🧪 Garantia de Qualidade (QA)",
-                "href": "/docs/Explorar/Cursos/garantia-de-qualidade",
-                "docId": "Explorar/Cursos/garantia-de-qualidade",
-                "unlisted": false
-              },
-              {
-                "type": "link",
-                "label": "💻 Programação",
+                "label": "Programação",
                 "href": "/docs/Explorar/Cursos/programacao",
                 "docId": "Explorar/Cursos/programacao",
                 "unlisted": false
               },
               {
                 "type": "link",
-                "label": "📝 Redação Técnica",
+                "label": "Redação Técnica",
                 "href": "/docs/Explorar/Cursos/redacao-tecnica",
                 "docId": "Explorar/Cursos/redacao-tecnica",
                 "unlisted": false
@@ -68,7 +46,7 @@
           },
           {
             "type": "link",
-            "label": "🛠️ Tecnologias",
+            "label": "Tecnologias",
             "href": "/docs/Explorar/tecnologias",
             "docId": "Explorar/tecnologias",
             "unlisted": false
@@ -81,43 +59,31 @@
   "docs": {
     "Explorar/Cursos/ciencia-da-computacao": {
       "id": "Explorar/Cursos/ciencia-da-computacao",
-      "title": "🎓 Ciência da Computação",
+      "title": "Ciência da Computação",
       "description": "Conheça os cursos de Ciência da Computação que tenho feito.",
-      "sidebar": "tutorialSidebar"
-    },
-    "Explorar/Cursos/garantia-de-qualidade": {
-      "id": "Explorar/Cursos/garantia-de-qualidade",
-      "title": "🧪 Garantia de Qualidade (QA)",
-      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "Explorar/Cursos/programacao": {
       "id": "Explorar/Cursos/programacao",
-      "title": "💻 Programação",
+      "title": "Programação",
       "description": "Aqui, compartilho minha jornada de aprendizado em Programação, destacando cursos concluídos e projetos atuais.",
       "sidebar": "tutorialSidebar"
     },
     "Explorar/Cursos/redacao-tecnica": {
       "id": "Explorar/Cursos/redacao-tecnica",
-      "title": "📝 Redação Técnica",
+      "title": "Redação Técnica",
       "description": "Confira minha jornada de descobertas em Redação Técnica (Technical Writing)!",
       "sidebar": "tutorialSidebar"
     },
     "Explorar/explorar": {
       "id": "Explorar/explorar",
       "title": "Docs",
-      "description": "---",
-      "sidebar": "tutorialSidebar"
-    },
-    "Explorar/Projetos/web": {
-      "id": "Explorar/Projetos/web",
-      "title": "🌐 Web",
-      "description": "Bem-vindo ao meu portfólio de projetos Web!",
+      "description": "Neste cantinho digital, compartilho com você os registros das minhas explorações pelo universo da tecnologia. Aqui, você encontrará uma coleção de cursos, desafios e ferramentas que tenho estudado.",
       "sidebar": "tutorialSidebar"
     },
     "Explorar/tecnologias": {
       "id": "Explorar/tecnologias",
-      "title": "🛠️ Tecnologias",
+      "title": "Tecnologias",
       "description": "Desde controle de versão até desenvolvimento de interfaces de usuário, passando por gerenciamento de projetos e sistemas operacionais, abaixo estão algumas das habilidades e ferramentas que tenho utilizado em minha jornada profissional.",
       "sidebar": "tutorialSidebar"
     }

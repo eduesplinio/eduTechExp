@@ -1,6 +1,6 @@
 {
   "id": "Explorar/Cursos/redacao-tecnica",
-  "title": "📝 Redação Técnica",
+  "title": "Redação Técnica",
   "description": "Confira minha jornada de descobertas em Redação Técnica (Technical Writing)!",
   "source": "@site/docs/Explorar/Cursos/redacao-tecnica.md",
   "sourceDirName": "Explorar/Cursos",
@@ -15,11 +15,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "💻 Programação",
+    "title": "Programação",
     "permalink": "/docs/Explorar/Cursos/programacao"
   },
   "next": {
-    "title": "🛠️ Tecnologias",
+    "title": "Tecnologias",
     "permalink": "/docs/Explorar/tecnologias"
   }
 }

@@ -1,6 +1,6 @@
 {
   "id": "Explorar/tecnologias",
-  "title": "🛠️ Tecnologias",
+  "title": "Tecnologias",
   "description": "Desde controle de versão até desenvolvimento de interfaces de usuário, passando por gerenciamento de projetos e sistemas operacionais, abaixo estão algumas das habilidades e ferramentas que tenho utilizado em minha jornada profissional.",
   "source": "@site/docs/Explorar/tecnologias.md",
   "sourceDirName": "Explorar",
@@ -13,7 +13,7 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "📝 Redação Técnica",
+    "title": "Redação Técnica",
     "permalink": "/docs/Explorar/Cursos/redacao-tecnica"
   }
 }

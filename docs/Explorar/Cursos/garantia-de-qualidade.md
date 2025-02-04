@@ -1,1 +1,0 @@
-# 🧪 Garantia de Qualidade (QA)

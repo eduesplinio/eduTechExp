@@ -16,11 +16,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Explorar/Cursos/garantia-de-qualidade",
-              "path": "/docs/Explorar/Cursos/garantia-de-qualidade",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Explorar/Cursos/programacao",
               "path": "/docs/Explorar/Cursos/programacao",
               "sidebar": "tutorialSidebar"
@@ -36,11 +31,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Explorar/Projetos/web",
-              "path": "/docs/Explorar/Projetos/web",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Explorar/tecnologias",
               "path": "/docs/Explorar/tecnologias",
               "sidebar": "tutorialSidebar"
@@ -51,7 +41,7 @@
             "tutorialSidebar": {
               "link": {
                 "path": "/docs/introducao",
-                "label": "📚 Docs"
+                "label": "Introdução"
               }
             }
           }

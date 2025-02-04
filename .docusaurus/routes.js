@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '2b0'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '2f9'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', '838'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'bda'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', 'f59'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '9e5'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '1d5'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', 'ba6'),
     exact: true
@@ -28,31 +63,30 @@ export default [
     exact: true
   },
   {
+    path: '/projetos',
+    component: ComponentCreator('/projetos', 'a8d'),
+    exact: true
+  },
+  {
     path: '/sobre-mim',
     component: ComponentCreator('/sobre-mim', 'b04'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '451'),
+    component: ComponentCreator('/docs', 'a4d'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'c40'),
+        component: ComponentCreator('/docs', 'fef'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '494'),
+            component: ComponentCreator('/docs', '1d1'),
             routes: [
               {
                 path: '/docs/Explorar/Cursos/ciencia-da-computacao',
                 component: ComponentCreator('/docs/Explorar/Cursos/ciencia-da-computacao', 'b8f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Explorar/Cursos/garantia-de-qualidade',
-                component: ComponentCreator('/docs/Explorar/Cursos/garantia-de-qualidade', '076'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -65,12 +99,6 @@ export default [
               {
                 path: '/docs/Explorar/Cursos/redacao-tecnica',
                 component: ComponentCreator('/docs/Explorar/Cursos/redacao-tecnica', 'e9d'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Explorar/Projetos/web',
-                component: ComponentCreator('/docs/Explorar/Projetos/web', '78c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

@@ -1,6 +1,6 @@
 {
   "id": "Explorar/Cursos/programacao",
-  "title": "💻 Programação",
+  "title": "Programação",
   "description": "Aqui, compartilho minha jornada de aprendizado em Programação, destacando cursos concluídos e projetos atuais.",
   "source": "@site/docs/Explorar/Cursos/programacao.md",
   "sourceDirName": "Explorar/Cursos",
@@ -15,11 +15,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🧪 Garantia de Qualidade (QA)",
-    "permalink": "/docs/Explorar/Cursos/garantia-de-qualidade"
+    "title": "Ciência da Computação",
+    "permalink": "/docs/Explorar/Cursos/ciencia-da-computacao"
   },
   "next": {
-    "title": "📝 Redação Técnica",
+    "title": "Redação Técnica",
     "permalink": "/docs/Explorar/Cursos/redacao-tecnica"
   }
 }

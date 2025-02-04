@@ -14,7 +14,7 @@ export default {
   "trailingSlash": false,
   "onBrokenLinks": "ignore",
   "onBrokenMarkdownLinks": "warn",
-  "deploymentBranch": "deployment",
+  "deploymentBranch": "gh-pages",
   "i18n": {
     "defaultLocale": "pt",
     "locales": [
@@ -70,6 +70,11 @@ export default {
           "position": "left"
         },
         {
+          "to": "/projetos",
+          "label": "Projetos",
+          "position": "left"
+        },
+        {
           "to": "/blog",
           "label": "Blog",
           "position": "left"
@@ -109,6 +114,10 @@ export default {
         {
           "title": "Navegar",
           "items": [
+            {
+              "label": "Projetos",
+              "to": "/projetos"
+            },
             {
               "label": "Blog",
               "to": "/blog"

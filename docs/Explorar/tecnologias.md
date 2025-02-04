@@ -1,4 +1,4 @@
-# 🛠️ Tecnologias
+# Tecnologias
 
 Desde controle de versão até desenvolvimento de interfaces de usuário, passando por gerenciamento de projetos e sistemas operacionais, abaixo estão algumas das habilidades e ferramentas que tenho utilizado em minha jornada profissional.
 

@@ -19,7 +19,7 @@
           "docs": [
             {
               "id": "Explorar/Cursos/ciencia-da-computacao",
-              "title": "🎓 Ciência da Computação",
+              "title": "Ciência da Computação",
               "description": "Conheça os cursos de Ciência da Computação que tenho feito.",
               "source": "@site/docs/Explorar/Cursos/ciencia-da-computacao.md",
               "sourceDirName": "Explorar/Cursos",
@@ -32,40 +32,17 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "🌐 Web",
-                "permalink": "/docs/Explorar/Projetos/web"
+                "title": "Docs",
+                "permalink": "/docs/introducao"
               },
               "next": {
-                "title": "🧪 Garantia de Qualidade (QA)",
-                "permalink": "/docs/Explorar/Cursos/garantia-de-qualidade"
-              }
-            },
-            {
-              "id": "Explorar/Cursos/garantia-de-qualidade",
-              "title": "🧪 Garantia de Qualidade (QA)",
-              "description": "",
-              "source": "@site/docs/Explorar/Cursos/garantia-de-qualidade.md",
-              "sourceDirName": "Explorar/Cursos",
-              "slug": "/Explorar/Cursos/garantia-de-qualidade",
-              "permalink": "/docs/Explorar/Cursos/garantia-de-qualidade",
-              "draft": false,
-              "unlisted": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "🎓 Ciência da Computação",
-                "permalink": "/docs/Explorar/Cursos/ciencia-da-computacao"
-              },
-              "next": {
-                "title": "💻 Programação",
+                "title": "Programação",
                 "permalink": "/docs/Explorar/Cursos/programacao"
               }
             },
             {
               "id": "Explorar/Cursos/programacao",
-              "title": "💻 Programação",
+              "title": "Programação",
               "description": "Aqui, compartilho minha jornada de aprendizado em Programação, destacando cursos concluídos e projetos atuais.",
               "source": "@site/docs/Explorar/Cursos/programacao.md",
               "sourceDirName": "Explorar/Cursos",
@@ -80,17 +57,17 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "🧪 Garantia de Qualidade (QA)",
-                "permalink": "/docs/Explorar/Cursos/garantia-de-qualidade"
+                "title": "Ciência da Computação",
+                "permalink": "/docs/Explorar/Cursos/ciencia-da-computacao"
               },
               "next": {
-                "title": "📝 Redação Técnica",
+                "title": "Redação Técnica",
                 "permalink": "/docs/Explorar/Cursos/redacao-tecnica"
               }
             },
             {
               "id": "Explorar/Cursos/redacao-tecnica",
-              "title": "📝 Redação Técnica",
+              "title": "Redação Técnica",
               "description": "Confira minha jornada de descobertas em Redação Técnica (Technical Writing)!",
               "source": "@site/docs/Explorar/Cursos/redacao-tecnica.md",
               "sourceDirName": "Explorar/Cursos",
@@ -105,18 +82,18 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "💻 Programação",
+                "title": "Programação",
                 "permalink": "/docs/Explorar/Cursos/programacao"
               },
               "next": {
-                "title": "🛠️ Tecnologias",
+                "title": "Tecnologias",
                 "permalink": "/docs/Explorar/tecnologias"
               }
             },
             {
               "id": "Explorar/explorar",
               "title": "Docs",
-              "description": "---",
+              "description": "Neste cantinho digital, compartilho com você os registros das minhas explorações pelo universo da tecnologia. Aqui, você encontrará uma coleção de cursos, desafios e ferramentas que tenho estudado.",
               "source": "@site/docs/Explorar/explorar.mdx",
               "sourceDirName": "Explorar",
               "slug": "/introducao",
@@ -131,36 +108,13 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "🌐 Web",
-                "permalink": "/docs/Explorar/Projetos/web"
-              }
-            },
-            {
-              "id": "Explorar/Projetos/web",
-              "title": "🌐 Web",
-              "description": "Bem-vindo ao meu portfólio de projetos Web!",
-              "source": "@site/docs/Explorar/Projetos/web.md",
-              "sourceDirName": "Explorar/Projetos",
-              "slug": "/Explorar/Projetos/web",
-              "permalink": "/docs/Explorar/Projetos/web",
-              "draft": false,
-              "unlisted": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Docs",
-                "permalink": "/docs/introducao"
-              },
-              "next": {
-                "title": "🎓 Ciência da Computação",
+                "title": "Ciência da Computação",
                 "permalink": "/docs/Explorar/Cursos/ciencia-da-computacao"
               }
             },
             {
               "id": "Explorar/tecnologias",
-              "title": "🛠️ Tecnologias",
+              "title": "Tecnologias",
               "description": "Desde controle de versão até desenvolvimento de interfaces de usuário, passando por gerenciamento de projetos e sistemas operacionais, abaixo estão algumas das habilidades e ferramentas que tenho utilizado em minha jornada profissional.",
               "source": "@site/docs/Explorar/tecnologias.md",
               "sourceDirName": "Explorar",
@@ -173,7 +127,7 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "📝 Redação Técnica",
+                "title": "Redação Técnica",
                 "permalink": "/docs/Explorar/Cursos/redacao-tecnica"
               }
             }
@@ -183,35 +137,19 @@
             "tutorialSidebar": [
               {
                 "type": "category",
-                "label": "📚 Docs",
+                "label": "Introdução",
                 "collapsible": false,
                 "collapsed": false,
                 "items": [
                   {
                     "type": "category",
-                    "label": "🚀 Projetos",
-                    "collapsible": true,
-                    "collapsed": false,
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "Explorar/Projetos/web"
-                      }
-                    ]
-                  },
-                  {
-                    "type": "category",
-                    "label": "📃 Cursos e Formações",
+                    "label": "Cursos e Formações",
                     "collapsible": true,
                     "collapsed": false,
                     "items": [
                       {
                         "type": "doc",
                         "id": "Explorar/Cursos/ciencia-da-computacao"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "Explorar/Cursos/garantia-de-qualidade"
                       },
                       {
                         "type": "doc",
@@ -316,6 +254,17 @@
         "type": "jsx",
         "permalink": "/projects",
         "source": "@site/src/pages/projects.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/projetos",
+        "source": "@site/src/pages/projetos.md",
+        "title": "Bem-vindo ao meu Portfólio de Projetos!",
+        "description": "Aqui, compartilho uma variedade de projetos que desenvolvi, desde aplicações simples até soluções mais complexas.",
+        "frontMatter": {
+          "label": "/projetos"
+        },
+        "unlisted": false
       },
       {
         "type": "mdx",

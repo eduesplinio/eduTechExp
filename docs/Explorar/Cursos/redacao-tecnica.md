@@ -2,15 +2,14 @@
 sidebar-position: 1
 ---
 
-# 📝 Redação Técnica
+# Redação Técnica
 
 Confira minha jornada de descobertas em **Redação Técnica (Technical Writing)**! 
 
 Dos conceitos fundamentais às estratégias avançadas, conheça os cursos que realizei para aprimorar minhas habilidades.
 
 ## Technical Writing: introdução
----
-[![Logo do Curso de Technical Writing - Fenestra](/img/technical-writing-1.png)](https://fenestra.com.br/cursos/technical-writing-i/)
+![Logo do Curso de Technical Writing - Fenestra](/img/technical-writing-1.png)
 
 - **Descoberta de tipos de documentação**: Examinei uma variedade de tipos de documentação de software, desde funcional até orientada a tarefas e troubleshooting, incluindo documentação in-app e de APIs.
 
@@ -27,7 +26,6 @@ Dos conceitos fundamentais às estratégias avançadas, conheça os cursos que r
 <br/>
 
 ## Technical Writing: estratégias, ferramentas e boas práticas
----
 [![Logo do curso de Technical Writing - Alura](/img/technical-writing-2.png)](https://www.alura.com.br/curso-online-technical-writing-estrategias-ferramentas-boas-praticas)
 
 - **Revisão dos fundamentos**: Reforcei conceitos básicos como Technical Writing e suas distinções, além de estratégias para gerenciar repositórios de documentações.
@@ -45,7 +43,6 @@ Dos conceitos fundamentais às estratégias avançadas, conheça os cursos que r
 <br/>
 
 ## Technical Writing: documentação do zero com DDLC
----
 [![Logo do curso 2 de Technical Writing - Alura](/img/technical-writing-3.png)](https://www.alura.com.br/curso-online-technical-writing-crie-documentacao-zero-ddlc)
 
 - **Ciclo de Vida de Desenvolvimento de Documentação (DDLC)**: Aprendi sobre as diferentes etapas do ciclo de vida de documentação, desde o planejamento até a publicação e medição de eficácia. Isso me deu uma visão clara de todo o processo de criação de documentação técnica.

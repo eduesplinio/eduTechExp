@@ -1,6 +1,6 @@
 {
   "id": "Explorar/Projetos/web",
-  "title": "🌐 Web",
+  "title": "Web",
   "description": "Bem-vindo ao meu portfólio de projetos Web!",
   "source": "@site/docs/Explorar/Projetos/web.md",
   "sourceDirName": "Explorar/Projetos",
@@ -17,7 +17,7 @@
     "permalink": "/docs/introducao"
   },
   "next": {
-    "title": "🎓 Ciência da Computação",
+    "title": "Ciência da Computação",
     "permalink": "/docs/Explorar/Cursos/ciencia-da-computacao"
   }
 }

@@ -2,11 +2,10 @@
 sidebar-position: 3
 ---
 
-# 💻 Programação
+# Programação
 Aqui, compartilho minha jornada de aprendizado em **Programação**, destacando cursos concluídos e projetos atuais.
 
 ## Cursos e Formações Diversas
----
 
 [![Lista de cursos realizados na Alura](/img/alura-courses.png)](https://www.alura.com.br)
 
@@ -29,7 +28,6 @@ Também tenho explorando a linguagem **Swift**, ampliando meu conhecimento em de
 
 
 ## Curso.dev
----
 
 [![Tela inicial do curso.dev](/img/curso.dev.png)](https://curso.dev)
 

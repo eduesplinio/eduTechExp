@@ -19,9 +19,6 @@ const config = {
   projectName: 'eduTechExp',
   organizationName: 'eduesplinio',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'pt',
     locales: ['pt'],
@@ -68,6 +65,7 @@ const config = {
 
         items: [
           { to: '/sobre-mim', label: 'Sobre Mim', position: 'left' },
+          { to: '/projetos', label: 'Projetos', position: 'left' },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
             type: 'docSidebar',
@@ -113,6 +111,10 @@ const config = {
           {
             title: 'Navegar',
             items: [
+              {
+                label: 'Projetos',
+                to: '/projetos',
+              },
               {
                 label: 'Blog',
                 to: '/blog',
