@@ -66,7 +66,7 @@ const config = {
         items: [
           { to: '/sobre-mim', label: 'Sobre Mim', position: 'left' },
           { to: '/projetos', label: 'Projetos', position: 'left' },
-          { to: '/blog', label: 'Blog', position: 'left' },
+          // { to: '/blog', label: 'Blog', position: 'left' },
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
@@ -115,10 +115,10 @@ const config = {
                 label: 'Projetos',
                 to: '/projetos',
               },
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+              // {
+              //   label: 'Blog',
+              //   to: '/blog',
+              // },
               {
                 label: 'Docs',
                 href: '/docs/introducao',
