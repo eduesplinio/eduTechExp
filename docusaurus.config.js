@@ -6,8 +6,8 @@ const config = {
   tagline: 'Desvendando o complexo para impulsionar a inovação digital.',
   favicon: 'img/favicon.svg',
 
-  url: 'https://edutechexp.me',
-  baseUrl: '/',
+  url: 'https://eduesplinio.github.io',
+  baseUrl: '/eduTechExp/',
   projectName: 'eduTechExp',
   organizationName: 'eduesplinio',
   trailingSlash: false,

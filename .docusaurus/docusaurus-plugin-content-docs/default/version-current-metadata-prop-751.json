@@ -24,21 +24,21 @@
               {
                 "type": "link",
                 "label": "Ciência da Computação",
-                "href": "/docs/Explorar/Cursos/ciencia-da-computacao",
+                "href": "/eduTechExp/docs/Explorar/Cursos/ciencia-da-computacao",
                 "docId": "Explorar/Cursos/ciencia-da-computacao",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Programação",
-                "href": "/docs/Explorar/Cursos/programacao",
+                "href": "/eduTechExp/docs/Explorar/Cursos/programacao",
                 "docId": "Explorar/Cursos/programacao",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Redação Técnica",
-                "href": "/docs/Explorar/Cursos/redacao-tecnica",
+                "href": "/eduTechExp/docs/Explorar/Cursos/redacao-tecnica",
                 "docId": "Explorar/Cursos/redacao-tecnica",
                 "unlisted": false
               }
@@ -47,12 +47,12 @@
           {
             "type": "link",
             "label": "Tecnologias",
-            "href": "/docs/Explorar/tecnologias",
+            "href": "/eduTechExp/docs/Explorar/tecnologias",
             "docId": "Explorar/tecnologias",
             "unlisted": false
           }
         ],
-        "href": "/docs/introducao"
+        "href": "/eduTechExp/docs/introducao"
       }
     ]
   },

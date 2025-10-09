@@ -1,38 +1,38 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/eduTechExp/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/eduTechExp/docs",
           "mainDocId": "Explorar/explorar",
           "docs": [
             {
               "id": "Explorar/Cursos/ciencia-da-computacao",
-              "path": "/docs/Explorar/Cursos/ciencia-da-computacao",
+              "path": "/eduTechExp/docs/Explorar/Cursos/ciencia-da-computacao",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Explorar/Cursos/programacao",
-              "path": "/docs/Explorar/Cursos/programacao",
+              "path": "/eduTechExp/docs/Explorar/Cursos/programacao",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Explorar/Cursos/redacao-tecnica",
-              "path": "/docs/Explorar/Cursos/redacao-tecnica",
+              "path": "/eduTechExp/docs/Explorar/Cursos/redacao-tecnica",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Explorar/explorar",
-              "path": "/docs/introducao",
+              "path": "/eduTechExp/docs/introducao",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Explorar/tecnologias",
-              "path": "/docs/Explorar/tecnologias",
+              "path": "/eduTechExp/docs/Explorar/tecnologias",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -40,7 +40,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/introducao",
+                "path": "/eduTechExp/docs/introducao",
                 "label": "Introdução"
               }
             }

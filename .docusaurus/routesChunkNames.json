@@ -1,141 +1,91 @@
 {
-  "/__docusaurus/debug-2b0": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/eduTechExp/blog-e07": {
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-45-688"
-    }
-  },
-  "/__docusaurus/debug/config-2f9": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-45-688"
-    }
-  },
-  "/__docusaurus/debug/content-838": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-45-688"
+      "plugin": "86b0923d"
     },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
-  },
-  "/__docusaurus/debug/globalData-bda": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-45-688"
-    }
-  },
-  "/__docusaurus/debug/metadata-f59": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-45-688"
-    }
-  },
-  "/__docusaurus/debug/registry-9e5": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-45-688"
-    }
-  },
-  "/__docusaurus/debug/routes-1d5": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-45-688"
-    }
-  },
-  "/blog-ba6": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
-    "__context": {
-      "plugin": "plugin---blogfd-0-ffa"
-    },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---blog-3-a-7-18f"
+        "content": "3a703a76"
       }
     ],
-    "metadata": "metadata---blogb-2-b-df1"
+    "metadata": "717f1ca0"
   },
-  "/blog/2024/05/14/ciber/blog/hackers-velho-oeste-bbe": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/eduTechExp/blog/2024/05/14/ciber/blog/hackers-velho-oeste-8bd": {
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---blogfd-0-ffa"
+      "plugin": "86b0923d"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2024-05-14-ciber-blog-hackers-velho-oeste-74-f-a08"
+    "sidebar": "814f3328",
+    "content": "74fb4ec6"
   },
-  "/blog/archive-dbb": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+  "/eduTechExp/blog/archive-f4e": {
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---blogfd-0-ffa"
+      "plugin": "86b0923d"
     },
-    "archive": "archive---blog-archiveb-2-f-393"
+    "archive": "e82d4c3e"
   },
-  "/markdown-page-3df": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+  "/eduTechExp/markdown-page-2db": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-page-853-02b"
+      "plugin": "8c6c3288"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "393be207"
   },
-  "/projects-a25": {
-    "__comp": "__comp---site-src-pages-projects-jsee-7-a5f",
+  "/eduTechExp/projects-871": {
+    "__comp": "ee7ef1d2",
     "__context": {
-      "plugin": "plugin---markdown-page-853-02b"
+      "plugin": "8c6c3288"
     },
-    "config": "config---projects-5-e-9-d4c"
+    "config": "5e9f5e1a"
   },
-  "/projetos-a8d": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+  "/eduTechExp/sobre-mim-79c": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-page-853-02b"
+      "plugin": "8c6c3288"
     },
-    "content": "content---projetosa-9-f-9cf"
+    "content": "5768a0f6"
   },
-  "/sobre-mim-b04": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+  "/eduTechExp/docs-f07": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---markdown-page-853-02b"
-    },
-    "content": "content---sobre-mim-576-1bc"
-  },
-  "/docs-a4d": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
-    "__context": {
-      "plugin": "plugin---docs-3-f-7-2df"
+      "plugin": "678408f4"
     }
   },
-  "/docs-fef": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "version": "version---docs-935-398"
+  "/eduTechExp/docs-cda": {
+    "__comp": "a7bd4aaa",
+    "version": "935f2afb"
   },
-  "/docs-1d1": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/eduTechExp/docs-b2a": {
+    "__comp": "a94703ab"
   },
-  "/docs/Explorar/Cursos/ciencia-da-computacao-b8f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-explorar-cursos-ciencia-da-computacaoa-14-b57"
+  "/eduTechExp/docs/Explorar/Cursos/ciencia-da-computacao-fd9": {
+    "__comp": "17896441",
+    "content": "a146d88d"
   },
-  "/docs/Explorar/Cursos/programacao-66b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-explorar-cursos-programacao-829-f5f"
+  "/eduTechExp/docs/Explorar/Cursos/programacao-1db": {
+    "__comp": "17896441",
+    "content": "829ed512"
   },
-  "/docs/Explorar/Cursos/redacao-tecnica-e9d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-explorar-cursos-redacao-tecnica-7-e-4-80a"
+  "/eduTechExp/docs/Explorar/Cursos/redacao-tecnica-4cf": {
+    "__comp": "17896441",
+    "content": "7e4f2e80"
   },
-  "/docs/Explorar/tecnologias-fe9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-explorar-tecnologiasc-2-d-0f5"
+  "/eduTechExp/docs/Explorar/tecnologias-d9a": {
+    "__comp": "17896441",
+    "content": "c2dc2765"
   },
-  "/docs/introducao-96f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-introducao-4-a-1-f4b"
+  "/eduTechExp/docs/introducao-8e1": {
+    "__comp": "17896441",
+    "content": "4a1f1f3b"
   },
-  "/-b26": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+  "/eduTechExp/-1e3": {
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---markdown-page-853-02b"
+      "plugin": "8c6c3288"
     },
-    "config": "config---projects-5-e-9-d4c"
+    "config": "5e9f5e1a"
   }
 }

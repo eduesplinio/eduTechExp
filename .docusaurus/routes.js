@@ -3,114 +3,74 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '2b0'),
+    path: '/eduTechExp/blog',
+    component: ComponentCreator('/eduTechExp/blog', 'e07'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '2f9'),
+    path: '/eduTechExp/blog/2024/05/14/ciber/blog/hackers-velho-oeste',
+    component: ComponentCreator('/eduTechExp/blog/2024/05/14/ciber/blog/hackers-velho-oeste', '8bd'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '838'),
+    path: '/eduTechExp/blog/archive',
+    component: ComponentCreator('/eduTechExp/blog/archive', 'f4e'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'bda'),
+    path: '/eduTechExp/markdown-page',
+    component: ComponentCreator('/eduTechExp/markdown-page', '2db'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'f59'),
+    path: '/eduTechExp/projects',
+    component: ComponentCreator('/eduTechExp/projects', '871'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '9e5'),
+    path: '/eduTechExp/sobre-mim',
+    component: ComponentCreator('/eduTechExp/sobre-mim', '79c'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '1d5'),
-    exact: true
-  },
-  {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'ba6'),
-    exact: true
-  },
-  {
-    path: '/blog/2024/05/14/ciber/blog/hackers-velho-oeste',
-    component: ComponentCreator('/blog/2024/05/14/ciber/blog/hackers-velho-oeste', 'bbe'),
-    exact: true
-  },
-  {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', 'dbb'),
-    exact: true
-  },
-  {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3df'),
-    exact: true
-  },
-  {
-    path: '/projects',
-    component: ComponentCreator('/projects', 'a25'),
-    exact: true
-  },
-  {
-    path: '/projetos',
-    component: ComponentCreator('/projetos', 'a8d'),
-    exact: true
-  },
-  {
-    path: '/sobre-mim',
-    component: ComponentCreator('/sobre-mim', 'b04'),
-    exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'a4d'),
+    path: '/eduTechExp/docs',
+    component: ComponentCreator('/eduTechExp/docs', 'f07'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', 'fef'),
+        path: '/eduTechExp/docs',
+        component: ComponentCreator('/eduTechExp/docs', 'cda'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', '1d1'),
+            path: '/eduTechExp/docs',
+            component: ComponentCreator('/eduTechExp/docs', 'b2a'),
             routes: [
               {
-                path: '/docs/Explorar/Cursos/ciencia-da-computacao',
-                component: ComponentCreator('/docs/Explorar/Cursos/ciencia-da-computacao', 'b8f'),
+                path: '/eduTechExp/docs/Explorar/Cursos/ciencia-da-computacao',
+                component: ComponentCreator('/eduTechExp/docs/Explorar/Cursos/ciencia-da-computacao', 'fd9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Explorar/Cursos/programacao',
-                component: ComponentCreator('/docs/Explorar/Cursos/programacao', '66b'),
+                path: '/eduTechExp/docs/Explorar/Cursos/programacao',
+                component: ComponentCreator('/eduTechExp/docs/Explorar/Cursos/programacao', '1db'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Explorar/Cursos/redacao-tecnica',
-                component: ComponentCreator('/docs/Explorar/Cursos/redacao-tecnica', 'e9d'),
+                path: '/eduTechExp/docs/Explorar/Cursos/redacao-tecnica',
+                component: ComponentCreator('/eduTechExp/docs/Explorar/Cursos/redacao-tecnica', '4cf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Explorar/tecnologias',
-                component: ComponentCreator('/docs/Explorar/tecnologias', 'fe9'),
+                path: '/eduTechExp/docs/Explorar/tecnologias',
+                component: ComponentCreator('/eduTechExp/docs/Explorar/tecnologias', 'd9a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/introducao',
-                component: ComponentCreator('/docs/introducao', '96f'),
+                path: '/eduTechExp/docs/introducao',
+                component: ComponentCreator('/eduTechExp/docs/introducao', '8e1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -121,8 +81,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'b26'),
+    path: '/eduTechExp/',
+    component: ComponentCreator('/eduTechExp/', '1e3'),
     exact: true
   },
   {

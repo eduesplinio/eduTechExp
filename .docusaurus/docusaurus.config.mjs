@@ -7,8 +7,8 @@ export default {
   "title": "eduTech Exp",
   "tagline": "Desvendando o complexo para impulsionar a inovação digital.",
   "favicon": "img/favicon.svg",
-  "url": "https://edutechexp.me",
-  "baseUrl": "/",
+  "url": "https://eduesplinio.github.io",
+  "baseUrl": "/eduTechExp/",
   "projectName": "eduTechExp",
   "organizationName": "eduesplinio",
   "trailingSlash": false,
@@ -75,11 +75,6 @@ export default {
           "position": "left"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
@@ -117,10 +112,6 @@ export default {
             {
               "label": "Projetos",
               "to": "/projetos"
-            },
-            {
-              "label": "Blog",
-              "to": "/blog"
             },
             {
               "label": "Docs",

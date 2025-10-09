@@ -5,7 +5,7 @@
   "source": "@site/docs/Explorar/explorar.mdx",
   "sourceDirName": "Explorar",
   "slug": "/introducao",
-  "permalink": "/docs/introducao",
+  "permalink": "/eduTechExp/docs/introducao",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Ciência da Computação",
-    "permalink": "/docs/Explorar/Cursos/ciencia-da-computacao"
+    "permalink": "/eduTechExp/docs/Explorar/Cursos/ciencia-da-computacao"
   }
 }
