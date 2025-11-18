@@ -9,13 +9,13 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/docs",
-          "tagsPath": "/docs/tags",
+          "path": "/eduTechExp/docs",
+          "tagsPath": "/eduTechExp/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/workspaces/eduTechExp/sidebars.js",
-          "contentPath": "/workspaces/eduTechExp/docs",
-          "contentPathLocalized": "/workspaces/eduTechExp/i18n/pt/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/eduesplinio/eduTechExp/sidebars.js",
+          "contentPath": "/Users/eduesplinio/eduTechExp/docs",
+          "contentPathLocalized": "/Users/eduesplinio/eduTechExp/i18n/pt/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "id": "Explorar/Cursos/ciencia-da-computacao",
@@ -24,7 +24,7 @@
               "source": "@site/docs/Explorar/Cursos/ciencia-da-computacao.md",
               "sourceDirName": "Explorar/Cursos",
               "slug": "/Explorar/Cursos/ciencia-da-computacao",
-              "permalink": "/docs/Explorar/Cursos/ciencia-da-computacao",
+              "permalink": "/eduTechExp/docs/Explorar/Cursos/ciencia-da-computacao",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -33,11 +33,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Docs",
-                "permalink": "/docs/introducao"
+                "permalink": "/eduTechExp/docs/introducao"
               },
               "next": {
                 "title": "Programação",
-                "permalink": "/docs/Explorar/Cursos/programacao"
+                "permalink": "/eduTechExp/docs/Explorar/Cursos/programacao"
               }
             },
             {
@@ -47,7 +47,7 @@
               "source": "@site/docs/Explorar/Cursos/programacao.md",
               "sourceDirName": "Explorar/Cursos",
               "slug": "/Explorar/Cursos/programacao",
-              "permalink": "/docs/Explorar/Cursos/programacao",
+              "permalink": "/eduTechExp/docs/Explorar/Cursos/programacao",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -58,11 +58,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Ciência da Computação",
-                "permalink": "/docs/Explorar/Cursos/ciencia-da-computacao"
+                "permalink": "/eduTechExp/docs/Explorar/Cursos/ciencia-da-computacao"
               },
               "next": {
                 "title": "Redação Técnica",
-                "permalink": "/docs/Explorar/Cursos/redacao-tecnica"
+                "permalink": "/eduTechExp/docs/Explorar/Cursos/redacao-tecnica"
               }
             },
             {
@@ -72,7 +72,7 @@
               "source": "@site/docs/Explorar/Cursos/redacao-tecnica.md",
               "sourceDirName": "Explorar/Cursos",
               "slug": "/Explorar/Cursos/redacao-tecnica",
-              "permalink": "/docs/Explorar/Cursos/redacao-tecnica",
+              "permalink": "/eduTechExp/docs/Explorar/Cursos/redacao-tecnica",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -83,11 +83,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Programação",
-                "permalink": "/docs/Explorar/Cursos/programacao"
+                "permalink": "/eduTechExp/docs/Explorar/Cursos/programacao"
               },
               "next": {
                 "title": "Tecnologias",
-                "permalink": "/docs/Explorar/tecnologias"
+                "permalink": "/eduTechExp/docs/Explorar/tecnologias"
               }
             },
             {
@@ -97,7 +97,7 @@
               "source": "@site/docs/Explorar/explorar.mdx",
               "sourceDirName": "Explorar",
               "slug": "/introducao",
-              "permalink": "/docs/introducao",
+              "permalink": "/eduTechExp/docs/introducao",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -109,7 +109,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Ciência da Computação",
-                "permalink": "/docs/Explorar/Cursos/ciencia-da-computacao"
+                "permalink": "/eduTechExp/docs/Explorar/Cursos/ciencia-da-computacao"
               }
             },
             {
@@ -119,7 +119,7 @@
               "source": "@site/docs/Explorar/tecnologias.md",
               "sourceDirName": "Explorar",
               "slug": "/Explorar/tecnologias",
-              "permalink": "/docs/Explorar/tecnologias",
+              "permalink": "/eduTechExp/docs/Explorar/tecnologias",
               "draft": false,
               "unlisted": false,
               "tags": [],
@@ -128,7 +128,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Redação Técnica",
-                "permalink": "/docs/Explorar/Cursos/redacao-tecnica"
+                "permalink": "/eduTechExp/docs/Explorar/Cursos/redacao-tecnica"
               }
             }
           ],
@@ -184,7 +184,7 @@
         {
           "id": "/2024/05/14/ciber/blog/hackers-velho-oeste",
           "metadata": {
-            "permalink": "/blog/2024/05/14/ciber/blog/hackers-velho-oeste",
+            "permalink": "/eduTechExp/blog/2024/05/14/ciber/blog/hackers-velho-oeste",
             "source": "@site/blog/ciber/blog/2024-05-14-hackers-velho-oeste.md",
             "title": "Hackers e os Chapéus do Velho Oeste",
             "description": "No vasto território da internet, onde os bits e bytes cavalgam livremente pelos circuitos e servidores, há uma disputa constante entre os diferentes chapéus que os hackers usam.",
@@ -218,7 +218,7 @@
             "/2024/05/14/ciber/blog/hackers-velho-oeste"
           ],
           "metadata": {
-            "permalink": "/blog",
+            "permalink": "/eduTechExp/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -229,19 +229,19 @@
         }
       ],
       "blogTags": {},
-      "blogTagsListPath": "/blog/tags"
+      "blogTagsListPath": "/eduTechExp/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
+        "permalink": "/eduTechExp/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/markdown-page",
+        "permalink": "/eduTechExp/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",
@@ -252,23 +252,12 @@
       },
       {
         "type": "jsx",
-        "permalink": "/projects",
-        "source": "@site/src/pages/projects.js"
+        "permalink": "/eduTechExp/projetos",
+        "source": "@site/src/pages/projetos.js"
       },
       {
         "type": "mdx",
-        "permalink": "/projetos",
-        "source": "@site/src/pages/projetos.md",
-        "title": "Bem-vindo ao meu Portfólio de Projetos!",
-        "description": "Aqui, compartilho uma variedade de projetos que desenvolvi, desde aplicações simples até soluções mais complexas.",
-        "frontMatter": {
-          "label": "/projetos"
-        },
-        "unlisted": false
-      },
-      {
-        "type": "mdx",
-        "permalink": "/sobre-mim",
+        "permalink": "/eduTechExp/sobre-mim",
         "source": "@site/src/pages/sobre-mim.md",
         "title": "Sobre Mim",
         "description": "Saiba mais sobre mim e meus interesses.",

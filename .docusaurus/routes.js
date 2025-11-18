@@ -23,8 +23,8 @@ export default [
     exact: true
   },
   {
-    path: '/eduTechExp/projects',
-    component: ComponentCreator('/eduTechExp/projects', '871'),
+    path: '/eduTechExp/projetos',
+    component: ComponentCreator('/eduTechExp/projetos', 'b88'),
     exact: true
   },
   {

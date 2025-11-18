@@ -1,6 +1,7 @@
 export default {
   "17896441": [() => import(/* webpackChunkName: "17896441" */ "@theme/DocItem"), "@theme/DocItem", require.resolveWeak("@theme/DocItem")],
   "1f391b9e": [() => import(/* webpackChunkName: "1f391b9e" */ "@theme/MDXPage"), "@theme/MDXPage", require.resolveWeak("@theme/MDXPage")],
+  "31392ca8": [() => import(/* webpackChunkName: "31392ca8" */ "@site/src/pages/projetos.js"), "@site/src/pages/projetos.js", require.resolveWeak("@site/src/pages/projetos.js")],
   "393be207": [() => import(/* webpackChunkName: "393be207" */ "@site/src/pages/markdown-page.md"), "@site/src/pages/markdown-page.md", require.resolveWeak("@site/src/pages/markdown-page.md")],
   "3a703a76": [() => import(/* webpackChunkName: "3a703a76" */ "@site/blog/ciber/blog/2024-05-14-hackers-velho-oeste.md?truncated=true"), "@site/blog/ciber/blog/2024-05-14-hackers-velho-oeste.md?truncated=true", require.resolveWeak("@site/blog/ciber/blog/2024-05-14-hackers-velho-oeste.md?truncated=true")],
   "4a1f1f3b": [() => import(/* webpackChunkName: "4a1f1f3b" */ "@site/docs/Explorar/explorar.mdx"), "@site/docs/Explorar/explorar.mdx", require.resolveWeak("@site/docs/Explorar/explorar.mdx")],
@@ -24,5 +25,4 @@ export default {
   "c2dc2765": [() => import(/* webpackChunkName: "c2dc2765" */ "@site/docs/Explorar/tecnologias.md"), "@site/docs/Explorar/tecnologias.md", require.resolveWeak("@site/docs/Explorar/tecnologias.md")],
   "c4f5d8e4": [() => import(/* webpackChunkName: "c4f5d8e4" */ "@site/src/pages/index.js"), "@site/src/pages/index.js", require.resolveWeak("@site/src/pages/index.js")],
   "ccc49370": [() => import(/* webpackChunkName: "ccc49370" */ "@theme/BlogPostPage"), "@theme/BlogPostPage", require.resolveWeak("@theme/BlogPostPage")],
-  "e82d4c3e": [() => import(/* webpackChunkName: "e82d4c3e" */ "~blog/default/edu-tech-exp-blog-archive-2a2.json"), "~blog/default/edu-tech-exp-blog-archive-2a2.json", require.resolveWeak("~blog/default/edu-tech-exp-blog-archive-2a2.json")],
-  "ee7ef1d2": [() => import(/* webpackChunkName: "ee7ef1d2" */ "@site/src/pages/projects.js"), "@site/src/pages/projects.js", require.resolveWeak("@site/src/pages/projects.js")],};
+  "e82d4c3e": [() => import(/* webpackChunkName: "e82d4c3e" */ "~blog/default/edu-tech-exp-blog-archive-2a2.json"), "~blog/default/edu-tech-exp-blog-archive-2a2.json", require.resolveWeak("~blog/default/edu-tech-exp-blog-archive-2a2.json")],};
