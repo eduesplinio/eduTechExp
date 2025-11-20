@@ -1,0 +1,43 @@
+@media (max-width: 768px) {
+  .projectCard .row {
+    flex-direction: column !important;
+  }
+  
+  .projectCard .col {
+    max-width: 100% !important;
+    flex: none !important;
+  }
+  
+  .projectImageCol {
+    order: 1;
+  }
+  
+  .projectContentCol {
+    order: 2;
+    padding: 1rem !important;
+  }
+  
+  .projectImage {
+    height: 200px !important;
+  }
+  
+  .projectTitle {
+    font-size: 1.2rem !important;
+  }
+  
+  .projectButtons {
+    flex-direction: column !important;
+    gap: 0.5rem !important;
+  }
+  
+  .projectButtons .button {
+    width: 100% !important;
+    min-width: auto !important;
+  }
+}
+
+@media (min-width: 769px) {
+  .projectCard .row[style*="row-reverse"] {
+    flex-direction: row-reverse !important;
+  }
+}

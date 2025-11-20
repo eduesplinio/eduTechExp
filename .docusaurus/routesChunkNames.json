@@ -1,95 +1,138 @@
 {
-  "/eduTechExp/blog-e07": {
-    "__comp": "a6aa9e1f",
+  "/eduTechExp/__docusaurus/debug-3f5": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "86b0923d"
+      "plugin": "plugin---edu-tech-exp-docusaurus-debug-056-efa"
+    }
+  },
+  "/eduTechExp/__docusaurus/debug/config-74d": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---edu-tech-exp-docusaurus-debug-056-efa"
+    }
+  },
+  "/eduTechExp/__docusaurus/debug/content-512": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---edu-tech-exp-docusaurus-debug-056-efa"
     },
-    "sidebar": "814f3328",
+    "allContent": "allContent---edu-tech-exp-docusaurus-debug-content-246-c8f"
+  },
+  "/eduTechExp/__docusaurus/debug/globalData-cad": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---edu-tech-exp-docusaurus-debug-056-efa"
+    }
+  },
+  "/eduTechExp/__docusaurus/debug/metadata-913": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---edu-tech-exp-docusaurus-debug-056-efa"
+    }
+  },
+  "/eduTechExp/__docusaurus/debug/registry-0c4": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---edu-tech-exp-docusaurus-debug-056-efa"
+    }
+  },
+  "/eduTechExp/__docusaurus/debug/routes-a9a": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---edu-tech-exp-docusaurus-debug-056-efa"
+    }
+  },
+  "/eduTechExp/blog-e07": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---edu-tech-exp-blog-86-b-fc9"
+    },
+    "sidebar": "sidebar---edu-tech-exp-blog-814-bbe",
     "items": [
       {
-        "content": "3a703a76"
+        "content": "content---edu-tech-exp-blog-3-a-7-8e9"
       }
     ],
-    "metadata": "717f1ca0"
+    "metadata": "metadata---edu-tech-exp-blog-717-2f6"
   },
   "/eduTechExp/blog/2024/05/14/ciber/blog/hackers-velho-oeste-8bd": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "86b0923d"
+      "plugin": "plugin---edu-tech-exp-blog-86-b-fc9"
     },
-    "sidebar": "814f3328",
-    "content": "74fb4ec6"
+    "sidebar": "sidebar---edu-tech-exp-blog-814-bbe",
+    "content": "content---edu-tech-exp-blog-2024-05-14-ciber-blog-hackers-velho-oeste-74-f-aec"
   },
   "/eduTechExp/blog/archive-f4e": {
-    "__comp": "9e4087bc",
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "86b0923d"
+      "plugin": "plugin---edu-tech-exp-blog-86-b-fc9"
     },
-    "archive": "e82d4c3e"
+    "archive": "archive---edu-tech-exp-blog-archivee-82-c35"
   },
   "/eduTechExp/markdown-page-2db": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "8c6c3288"
+      "plugin": "plugin---edu-tech-exp-markdown-page-8-c-6-c61"
     },
-    "content": "393be207"
+    "content": "content---edu-tech-exp-markdown-page-393-474"
   },
   "/eduTechExp/projetos-b88": {
-    "__comp": "31392ca8",
+    "__comp": "__comp---site-src-pages-projetos-js-313-284",
     "__context": {
-      "plugin": "8c6c3288"
+      "plugin": "plugin---edu-tech-exp-markdown-page-8-c-6-c61"
     },
-    "config": "5e9f5e1a"
+    "config": "config---edu-tech-exp-projetos-5-e-9-767"
   },
   "/eduTechExp/sobre-mim-79c": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "8c6c3288"
+      "plugin": "plugin---edu-tech-exp-markdown-page-8-c-6-c61"
     },
-    "content": "5768a0f6"
+    "content": "content---edu-tech-exp-sobre-mim-576-542"
   },
   "/eduTechExp/docs-0f8": {
-    "__comp": "5e95c892",
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "678408f4"
+      "plugin": "plugin---edu-tech-exp-docs-678-2fa"
     }
   },
   "/eduTechExp/docs-c7b": {
-    "__comp": "a7bd4aaa",
-    "version": "935f2afb"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---edu-tech-exp-docs-935-c34"
   },
   "/eduTechExp/docs-3c8": {
-    "__comp": "a94703ab"
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/eduTechExp/docs/Explorar/Cursos/ciencia-da-computacao-fd9": {
-    "__comp": "17896441",
-    "content": "a146d88d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---edu-tech-exp-docs-explorar-cursos-ciencia-da-computacaoa-14-519"
   },
   "/eduTechExp/docs/Explorar/Cursos/programacao-1db": {
-    "__comp": "17896441",
-    "content": "829ed512"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---edu-tech-exp-docs-explorar-cursos-programacao-829-c93"
   },
   "/eduTechExp/docs/Explorar/Cursos/qa-testing-904": {
-    "__comp": "17896441",
-    "content": "912610fb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---edu-tech-exp-docs-explorar-cursos-qa-testing-912-db0"
   },
   "/eduTechExp/docs/Explorar/Cursos/redacao-tecnica-4cf": {
-    "__comp": "17896441",
-    "content": "7e4f2e80"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---edu-tech-exp-docs-explorar-cursos-redacao-tecnica-7-e-4-e99"
   },
   "/eduTechExp/docs/Explorar/tecnologias-d9a": {
-    "__comp": "17896441",
-    "content": "c2dc2765"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---edu-tech-exp-docs-explorar-tecnologiasc-2-d-232"
   },
   "/eduTechExp/docs/introducao-8e1": {
-    "__comp": "17896441",
-    "content": "4a1f1f3b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---edu-tech-exp-docs-introducao-4-a-1-4e5"
   },
   "/eduTechExp/-1e3": {
-    "__comp": "c4f5d8e4",
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "8c6c3288"
+      "plugin": "plugin---edu-tech-exp-markdown-page-8-c-6-c61"
     },
-    "config": "5e9f5e1a"
+    "config": "config---edu-tech-exp-projetos-5-e-9-767"
   }
 }

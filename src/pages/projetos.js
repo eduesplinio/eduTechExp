@@ -1,6 +1,7 @@
 import Link from '@docusaurus/Link';
 import Layout from '@theme/Layout';
 import { useColorMode } from '@docusaurus/theme-common';
+import styles from './projetos.module.css';
 
 const projects = [
   {
@@ -20,99 +21,128 @@ const projects = [
     github: 'https://github.com/eduesplinio/knowledge-base-ai',
     imageLight: '/eduTechExp/img/knowledge-base-light.png',
     imageDark: '/eduTechExp/img/knowledge-base.png'
+  },
+  {
+    title: 'ESPLIN - Jogo de Palavras Tech',
+    description: 'Jogo de palavras inspirado no Wordle focado em termos de tecnologia. Permite testar conhecimentos tech através de palavras de 5 letras.',
+    tech: ['Vue.js', 'Express.js', 'MongoDB Atlas', 'Pinia', 'Vite', 'Vitest'],
+    demo: 'https://esplin.vercel.app',
+    github: 'https://github.com/eduesplinio/esplin',
+    imageLight: '/eduTechExp/img/esplin-light.png',
+    imageDark: '/eduTechExp/img/esplin.png'
   }
 ];
 
-function ProjectCard({ project }) {
+function ProjectCard({ project, index }) {
   const { colorMode } = useColorMode();
   const currentImage = colorMode === 'dark' ? project.imageDark : project.imageLight;
+  const isReversed = index % 2 === 1;
+  const isVideo = currentImage && currentImage.endsWith('.mp4');
+  
   return (
     <div 
-      className="card" 
+      className={`card ${styles.projectCard}`}
       style={{ 
-        height: '100%',
-        display: 'flex',
-        flexDirection: 'column',
-        overflow: 'hidden',
-        transition: 'transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out',
-        border: '1px solid var(--ifm-color-emphasis-200)'
+        marginBottom: '2rem',
+        border: '1px solid var(--ifm-color-emphasis-200)',
+        transition: 'transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out'
       }}
       onMouseEnter={(e) => {
-        e.currentTarget.style.transform = 'translateY(-4px)';
-        e.currentTarget.style.boxShadow = '0 12px 24px rgba(0,0,0,0.15)';
+        e.currentTarget.style.transform = 'translateY(-2px)';
+        e.currentTarget.style.boxShadow = '0 8px 16px rgba(0,0,0,0.1)';
       }}
       onMouseLeave={(e) => {
         e.currentTarget.style.transform = 'translateY(0)';
         e.currentTarget.style.boxShadow = 'var(--ifm-global-shadow-lw)';
       }}
     >
-      {currentImage && (
-        <div 
-          style={{ 
-            width: '100%',
-            height: '300px',
-            overflow: 'hidden',
-            backgroundColor: 'var(--ifm-color-emphasis-100)',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center'
-          }}
-        >
-          <img 
-            src={currentImage} 
-            alt={project.title}
-            style={{ 
-              width: '100%',
-              height: '100%',
-              objectFit: 'contain',
-              padding: '0.5rem'
-            }}
-          />
-        </div>
-      )}
-      <div style={{ flex: 1, display: 'flex', flexDirection: 'column', padding: '1.25rem' }}>
-        <h3 style={{ marginTop: 0, marginBottom: '0.5rem', fontSize: '1.15rem', fontWeight: '600', lineHeight: '1.3' }}>
-          {project.title}
-        </h3>
-        <p style={{ marginBottom: '0.75rem', color: 'var(--ifm-color-emphasis-700)', lineHeight: '1.5', fontSize: '0.9rem' }}>
-          {project.description}
-        </p>
-        <div style={{ marginBottom: '1rem', display: 'flex', flexWrap: 'wrap', gap: '0.4rem' }}>
-          {project.tech.map((tech, idx) => (
-            <span 
-              key={idx}
-              style={{
-                fontSize: '0.65rem',
-                padding: '0.2rem 0.5rem',
+      <div className="row" style={{ margin: 0, flexDirection: isReversed ? 'row-reverse' : 'row' }}>
+        <div className={`col col--5 ${styles.projectImageCol}`} style={{ padding: 0 }}>
+          {currentImage && (
+            <div 
+              className={styles.projectImage}
+              style={{ 
+                width: '100%',
+                height: '280px',
+                overflow: 'hidden',
                 backgroundColor: 'var(--ifm-color-emphasis-100)',
-                color: 'var(--ifm-color-emphasis-800)',
-                border: '1px solid var(--ifm-color-emphasis-200)',
-                borderRadius: '4px',
-                fontWeight: '400',
-                letterSpacing: '0.01em'
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center'
               }}
             >
-              {tech}
-            </span>
-          ))}
+              {isVideo ? (
+                <video 
+                  src={currentImage} 
+                  autoPlay
+                  muted
+                  loop
+                  playsInline
+                  style={{ 
+                    width: '100%',
+                    height: '100%',
+                    objectFit: 'contain',
+                    padding: '1rem'
+                  }}
+                />
+              ) : (
+                <img 
+                  src={currentImage} 
+                  alt={project.title}
+                  style={{ 
+                    width: '100%',
+                    height: '100%',
+                    objectFit: 'contain',
+                    padding: '1rem'
+                  }}
+                />
+              )}
+            </div>
+          )}
         </div>
-        <div style={{ marginTop: 'auto', display: 'flex', gap: '0.75rem' }}>
-          <Link 
-            to={project.demo} 
-            target="_blank"
-            className="button button--primary"
-            style={{ flex: 1, textAlign: 'center' }}
-          >
-            Ver Projeto
-          </Link>
-          <Link 
-            to={project.github} 
-            target="_blank"
-            className="button button--outline button--primary"
-            style={{ flex: 1, textAlign: 'center' }}
-          >
-            Código
-          </Link>
+        <div className={`col col--7 ${styles.projectContentCol}`} style={{ padding: '1.5rem', display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
+          <h3 className={styles.projectTitle} style={{ marginTop: 0, marginBottom: '1rem', fontSize: '1.4rem', fontWeight: '600' }}>
+            {project.title}
+          </h3>
+          <p style={{ marginBottom: '1rem', color: 'var(--ifm-color-emphasis-700)', lineHeight: '1.6', fontSize: '1rem' }}>
+            {project.description}
+          </p>
+          <div style={{ marginBottom: '1.5rem', display: 'flex', flexWrap: 'wrap', gap: '0.5rem' }}>
+            {project.tech.map((tech, idx) => (
+              <span 
+                key={idx}
+                style={{
+                  fontSize: '0.75rem',
+                  padding: '0.3rem 0.6rem',
+                  backgroundColor: 'var(--ifm-color-emphasis-100)',
+                  color: 'var(--ifm-color-emphasis-800)',
+                  border: '1px solid var(--ifm-color-emphasis-200)',
+                  borderRadius: '4px',
+                  fontWeight: '500'
+                }}
+              >
+                {tech}
+              </span>
+            ))}
+          </div>
+          <div className={styles.projectButtons} style={{ display: 'flex', gap: '1rem' }}>
+            <Link 
+              to={project.demo} 
+              target="_blank"
+              className="button button--primary"
+              style={{ minWidth: '120px' }}
+            >
+              Ver Projeto
+            </Link>
+            <Link 
+              to={project.github} 
+              target="_blank"
+              className="button button--outline button--primary"
+              style={{ minWidth: '120px' }}
+            >
+              Código
+            </Link>
+          </div>
         </div>
       </div>
     </div>
@@ -132,11 +162,9 @@ export default function Projects() {
                     </p>
                 </div>
                 
-                <div className="row">
+                <div>
                     {projects.map((project, index) => (
-                        <div key={index} className="col col--6" style={{ marginBottom: '1.5rem' }}>
-                            <ProjectCard project={project} />
-                        </div>
+                        <ProjectCard key={index} project={project} index={index} />
                     ))}
                 </div>
             </div>
