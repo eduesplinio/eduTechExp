@@ -37,6 +37,13 @@
               },
               {
                 "type": "link",
+                "label": "Qualidade de Software",
+                "href": "/eduTechExp/docs/Explorar/Cursos/qa-testing",
+                "docId": "Explorar/Cursos/qa-testing",
+                "unlisted": false
+              },
+              {
+                "type": "link",
                 "label": "Redação Técnica",
                 "href": "/eduTechExp/docs/Explorar/Cursos/redacao-tecnica",
                 "docId": "Explorar/Cursos/redacao-tecnica",
@@ -67,6 +74,12 @@
       "id": "Explorar/Cursos/programacao",
       "title": "Programação",
       "description": "Aqui, compartilho minha jornada de aprendizado em Programação, destacando cursos concluídos e projetos atuais.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Explorar/Cursos/qa-testing": {
+      "id": "Explorar/Cursos/qa-testing",
+      "title": "Qualidade de Software",
+      "description": "Aqui compartilho minha experiência em Qualidade de Software e Testes.",
       "sidebar": "tutorialSidebar"
     },
     "Explorar/Cursos/redacao-tecnica": {

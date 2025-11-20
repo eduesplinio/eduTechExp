@@ -1,0 +1,23 @@
+{
+  "id": "Explorar/Cursos/qa-testing",
+  "title": "Qualidade de Software",
+  "description": "Aqui compartilho minha experiência em Qualidade de Software e Testes.",
+  "source": "@site/docs/Explorar/Cursos/qa-testing.md",
+  "sourceDirName": "Explorar/Cursos",
+  "slug": "/Explorar/Cursos/qa-testing",
+  "permalink": "/eduTechExp/docs/Explorar/Cursos/qa-testing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Programação",
+    "permalink": "/eduTechExp/docs/Explorar/Cursos/programacao"
+  },
+  "next": {
+    "title": "Redação Técnica",
+    "permalink": "/eduTechExp/docs/Explorar/Cursos/redacao-tecnica"
+  }
+}

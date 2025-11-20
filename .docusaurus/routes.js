@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/eduTechExp/__docusaurus/debug',
+    component: ComponentCreator('/eduTechExp/__docusaurus/debug', '3f5'),
+    exact: true
+  },
+  {
+    path: '/eduTechExp/__docusaurus/debug/config',
+    component: ComponentCreator('/eduTechExp/__docusaurus/debug/config', '74d'),
+    exact: true
+  },
+  {
+    path: '/eduTechExp/__docusaurus/debug/content',
+    component: ComponentCreator('/eduTechExp/__docusaurus/debug/content', '512'),
+    exact: true
+  },
+  {
+    path: '/eduTechExp/__docusaurus/debug/globalData',
+    component: ComponentCreator('/eduTechExp/__docusaurus/debug/globalData', 'cad'),
+    exact: true
+  },
+  {
+    path: '/eduTechExp/__docusaurus/debug/metadata',
+    component: ComponentCreator('/eduTechExp/__docusaurus/debug/metadata', '913'),
+    exact: true
+  },
+  {
+    path: '/eduTechExp/__docusaurus/debug/registry',
+    component: ComponentCreator('/eduTechExp/__docusaurus/debug/registry', '0c4'),
+    exact: true
+  },
+  {
+    path: '/eduTechExp/__docusaurus/debug/routes',
+    component: ComponentCreator('/eduTechExp/__docusaurus/debug/routes', 'a9a'),
+    exact: true
+  },
+  {
     path: '/eduTechExp/blog',
     component: ComponentCreator('/eduTechExp/blog', 'e07'),
     exact: true
@@ -34,15 +69,15 @@ export default [
   },
   {
     path: '/eduTechExp/docs',
-    component: ComponentCreator('/eduTechExp/docs', 'f07'),
+    component: ComponentCreator('/eduTechExp/docs', '0f8'),
     routes: [
       {
         path: '/eduTechExp/docs',
-        component: ComponentCreator('/eduTechExp/docs', 'cda'),
+        component: ComponentCreator('/eduTechExp/docs', 'c7b'),
         routes: [
           {
             path: '/eduTechExp/docs',
-            component: ComponentCreator('/eduTechExp/docs', 'b2a'),
+            component: ComponentCreator('/eduTechExp/docs', '3c8'),
             routes: [
               {
                 path: '/eduTechExp/docs/Explorar/Cursos/ciencia-da-computacao',
@@ -53,6 +88,12 @@ export default [
               {
                 path: '/eduTechExp/docs/Explorar/Cursos/programacao',
                 component: ComponentCreator('/eduTechExp/docs/Explorar/Cursos/programacao', '1db'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/eduTechExp/docs/Explorar/Cursos/qa-testing',
+                component: ComponentCreator('/eduTechExp/docs/Explorar/Cursos/qa-testing', '904'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

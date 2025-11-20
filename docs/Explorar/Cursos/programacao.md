@@ -19,7 +19,7 @@ Além disso, aprofundei-me em **HTML**, **CSS** e **JavaScript**, fundamentos es
 
 Aprendi sobre a automação de testes utilizando **Cypress**, o framework **Vue3** e ferramentas de controle de versão como **Git** e **GitHub**.
 
-Também tenho explorando a linguagem **Swift**, ampliando meu conhecimento em desenvolvimento móvel.
+Também tenho explorado a linguagem **Swift**, ampliando meu conhecimento em desenvolvimento móvel.
 
 
 📜 **[Lista completa dos certificados](https://cursos.alura.com.br/user/eduesplinio/fullCertificate/a46c6293447c778e7bba1ab2c3b84933)**

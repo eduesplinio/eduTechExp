@@ -6,16 +6,16 @@ hide_table_of_contents: false
 
 ## 👨🏼‍💻 Sobre Mim
 
-Olá! Meu nome é Eduardo Esplinio e sou entusiasta de tecnologia, especialmente nas áreas de escrita técnica e programação.
+Olá! Meu nome é Eduardo Esplinio e sou entusiasta de tecnologia, especialmente nas áreas de qualidade de software e programação.
 
-Atualmente, estudo ciência da computação e trabalho com redação técnica, onde posso unir minha paixão pela escrita com meu interesse em tecnologia.
+Atualmente, estudo ciência da computação e trabalho como **Analista de Qualidade**, onde atuo em testes funcionais, validação de sistemas e análise de comportamento. Faço parte de uma equipe dedicada a soluções de IA, realizando testes de agentes inteligentes e integrações via MCP, garantindo estabilidade e previsibilidade em cenários complexos.
 
 <br/>
 <br/>
 
 ## 📝 Minha Experiência
 
-Tenho experiência em redação técnica há mais de 5 anos, onde desenvolvi habilidades na criação de documentação técnica clara e concisa. Além disso, estou constantemente explorando novas tecnologias e desenvolvendo projetos pessoais.
+Tenho experiência em **qualidade de software**, onde desenvolvi habilidades em testes manuais e automatizados, validação de sistemas e garantia de qualidade. Também possuo experiência em **redação técnica**, criando documentação clara e concisa. Estou constantemente explorando novas tecnologias e desenvolvendo projetos pessoais.
 
 <br/>
 <br/>
@@ -24,9 +24,11 @@ Tenho experiência em redação técnica há mais de 5 anos, onde desenvolvi hab
 
 Meus principais interesses incluem:
 
+[Testar](/docs/Explorar/Cursos/qa-testing): atuo na garantia de qualidade de software, validando sistemas e garantindo que funcionem corretamente para os usuários.
+
 [Escrever](/docs/Explorar/Cursos/redacao-tecnica): gosto de criar conteúdos envolventes e informativos, a fim de simplificar o complexo universo da tecnologia.
 
-[Programar](/projetos): curto bastante fazer interfaces de usuário legais e que funcionam bem em qualquer dispositivo, usando as últimas tecnologias e frameworks.
+[Programar](/projetos): desenvolvo interfaces de usuário responsivas e funcionais, utilizando tecnologias modernas e frameworks atuais para garantir compatibilidade multiplataforma.
 
 <br/>
 <br/>
